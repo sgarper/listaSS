@@ -1,0 +1,36 @@
+{
+"name": "Mi lista",
+"author": "",
+"image": "",
+"url": "https://pastebin.com/88ZShstX",
+"telegram": "",
+"info":"",
+"groups":
+[
+{
+"name": "Movistar +",
+"image": "https://androidpc.es/wp-content/uploads/2016/10/movistar-plus-logo.jpg",
+"url": "https://pastebin.com/3QDjRd3A",
+"info":"",
+"import": false
+},
+{
+"name": "Pluto TV",
+"image": "https://logodownload.org/wp-content/uploads/2021/05/pluto-tv-logo-0.png",
+"url": "https://pastebin.com/jSi6Ye2P",
+"import": false
+},
+{
+"name": "NBA",
+"image": "https://www.icesi.edu.co/marketingzone/wp-content/uploads/2022/02/NBA-logo-baloncesto-historia-deporte-estados-unidos.jpg",
+"url": "https://pastebin.com/Qx7pfxsp",
+"import": false
+},
+{
+"name": "Cine",
+"image": "https://previews.123rf.com/images/sn333g/sn333g1503/sn333g150300006/37453368-cine-logo-roll-vector-cine-negro-y-la-pel%C3%ADcula-elemento-de-dise%C3%B1o-o-el-icono.jpg",
+"url": "https://pastebin.com/GEuXvWW9",
+"import": false
+}
+]
+}
