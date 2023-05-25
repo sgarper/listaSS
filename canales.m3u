@@ -104,3 +104,33 @@ http://s2.famousiptv.com:8080/96mini12/32487426458/89317
 http://s2.famousiptv.com:8080/96mini12/32487426458/89338
 #EXTINF:-1 tvg-id="" tvg-name="VIP - GOL TV FHD" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/gol-television.png" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",GOL TV FHD
 http://s2.famousiptv.com:8080/96mini12/32487426458/89342
+#EXTINF:-1 tvg-id="" tvg-name="ESP D - DAZN 1" tvg-logo="http://descargas.podzone.net/logos/-DAZN.png" group-title="ESPAÑA DEPORTES",ESP D - DAZN 1
+http://ac.ntvlatino.com:8080/molidomen1/153degraw/4178
+#EXTINF:-1 tvg-id="" tvg-name="ESP D  - DAZN 1 " tvg-logo="http://descargas.podzone.net/logos/-DAZN.png" group-title="ESPAÑA DEPORTES",ESP D  - DAZN 1 
+http://ac.ntvlatino.com:8080/molidomen1/153degraw/53380
+#EXTINF:-1 tvg-id="" tvg-name="ESP D - DAZN 2" tvg-logo="http://descargas.podzone.net/logos/-DAZN.png" group-title="ESPAÑA DEPORTES",ESP D - DAZN 2
+http://ac.ntvlatino.com:8080/molidomen1/153degraw/34608
+#EXTINF:-1 tvg-id="" tvg-name="ESP D - DAZN 3" tvg-logo="http://descargas.podzone.net/logos/-DAZN.png" group-title="ESPAÑA DEPORTES",ESP D - DAZN 3
+http://ac.ntvlatino.com:8080/molidomen1/153degraw/1089977
+#EXTINF:-1 tvg-id="" tvg-name="ESP D  - DAZN F1 HD" tvg-logo="http://descargas.podzone.net/logos/-DAZN.png" group-title="ESPAÑA DEPORTES",ESP D  - DAZN F1 HD
+http://ac.ntvlatino.com:8080/molidomen1/153degraw/1143419
+#EXTINF:-1 tvg-id="MovistarFormula1.es" tvg-name="ESP D - MOVISTAR F1 FHD" tvg-logo="http://descargas.podzone.net/logos/-MOVISTAR-F1.png" group-title="ESPAÑA DEPORTES",ESP D - MOVISTAR F1 FHD
+http://ac.ntvlatino.com:8080/molidomen1/153degraw/53028
+#EXTINF:-1 tvg-id="" tvg-name="ESP D  - MOVISTAR F1 HD" tvg-logo="http://descargas.podzone.net/logos/-MOVISTAR-F1.png" group-title="ESPAÑA DEPORTES",ESP D  - MOVISTAR F1 HD
+http://ac.ntvlatino.com:8080/molidomen1/153degraw/1156055
+#EXTINF:-1 tvg-id="" tvg-name="ESP D - MOVISTAR  #VAMOS" tvg-logo="http://descargas.podzone.net/logos/-MOVISTAR-%23VAMOS.png" group-title="ESPAÑA DEPORTES",ESP D - MOVISTAR  #VAMOS
+http://ac.ntvlatino.com:8080/molidomen1/153degraw/51453
+#EXTINF:-1 tvg-id="" tvg-name="ESP D  - VAMOS +" tvg-logo="http://descargas.podzone.net/logos/-VAMOS+.png" group-title="ESPAÑA DEPORTES",ESP D  - VAMOS +
+http://ac.ntvlatino.com:8080/molidomen1/153degraw/1156050
+#EXTINF:-1 tvg-id="" tvg-name="ESP D - MOVISTAR LA LIGA 1" tvg-logo="http://descargas.podzone.net/logos/-MOVISTAR-LA-LIGA.png" group-title="ESPAÑA DEPORTES",ESP D - MOVISTAR LA LIGA 1
+http://ac.ntvlatino.com:8080/molidomen1/153degraw/32365
+#EXTINF:-1 tvg-id="" tvg-name="ESP D - LIGA DE CAMPEONES  FHD" tvg-logo="http://descargas.podzone.net/logos/-LIGA-DE-CAMPEONES.png" group-title="ESPAÑA DEPORTES",ESP D - LIGA DE CAMPEONES  FHD
+http://ac.ntvlatino.com:8080/molidomen1/153degraw/16717
+#EXTINF:-1 tvg-id="" tvg-name="ESP D  - LIGA DE CAMPEONES" tvg-logo="http://descargas.podzone.net/logos/-LIGA-DE-CAMPEONES.png" group-title="ESPAÑA DEPORTES",ESP D  - LIGA DE CAMPEONES
+http://ac.ntvlatino.com:8080/molidomen1/153degraw/1156049
+#EXTINF:-1 tvg-id="" tvg-name="ESP D  - MOVISTAR LA LIGA FHD" tvg-logo="http://descargas.podzone.net/logos/-MOVISTAR-LA-LIGA.png" group-title="ESPAÑA DEPORTES",ESP D  - MOVISTAR LA LIGA FHD
+http://ac.ntvlatino.com:8080/molidomen1/153degraw/1115758
+#EXTINF:-1 tvg-id="" tvg-name="ESP D  - MOVISTAR DEPORTES 1" tvg-logo="http://descargas.podzone.net/logos/-movistar-deportes.png" group-title="ESPAÑA DEPORTES",ESP D  - MOVISTAR DEPORTES 1
+http://ac.ntvlatino.com:8080/molidomen1/153degraw/1156051
+#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="ESP D  - MOVISTAR DEPORTES 2 HD" tvg-logo="http://descargas.podzone.net/logos/-movistar-deportes.png" group-title="ESPAÑA DEPORTES",ESP D  - MOVISTAR DEPORTES 2 HD
+http://ac.ntvlatino.com:8080/molidomen1/153degraw/1090600
