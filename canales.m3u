@@ -1,36 +1,106 @@
-{
-"name": "Mi lista",
-"author": "",
-"image": "",
-"url": "https://pastebin.com/88ZShstX",
-"telegram": "",
-"info":"",
-"groups":
-[
-{
-"name": "Movistar +",
-"image": "https://androidpc.es/wp-content/uploads/2016/10/movistar-plus-logo.jpg",
-"url": "https://pastebin.com/3QDjRd3A",
-"info":"",
-"import": false
-},
-{
-"name": "Pluto TV",
-"image": "https://logodownload.org/wp-content/uploads/2021/05/pluto-tv-logo-0.png",
-"url": "https://pastebin.com/jSi6Ye2P",
-"import": false
-},
-{
-"name": "NBA",
-"image": "https://www.icesi.edu.co/marketingzone/wp-content/uploads/2022/02/NBA-logo-baloncesto-historia-deporte-estados-unidos.jpg",
-"url": "https://pastebin.com/Qx7pfxsp",
-"import": false
-},
-{
-"name": "Cine",
-"image": "https://previews.123rf.com/images/sn333g/sn333g1503/sn333g150300006/37453368-cine-logo-roll-vector-cine-negro-y-la-pel%C3%ADcula-elemento-de-dise%C3%B1o-o-el-icono.jpg",
-"url": "https://pastebin.com/GEuXvWW9",
-"import": false
-}
-]
-}
+#EXTM3U url="http://s2.famousiptv.com:8080/get.php?username=96mini12&password=32487426458&type=m3u_plus"
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR SERIES FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPSER" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",MOVISTAR SERIES FHD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89099
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR SERIES 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/CPSER.png" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",MOVISTAR SERIES 2 FHD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89100
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/FOXGE" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",FOX FHD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89101
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/AXN" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",AXN FHD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89102
+#EXTINF:-1 tvg-id="" tvg-name="ES: TNT HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/TNT" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",TNT HD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89103
+#EXTINF:-1 tvg-id="" tvg-name="ES: COMEDY CENTRAL HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/PCM" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",COMEDY CENTRAL HD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89104
+#EXTINF:-1 tvg-id="" tvg-name="ES: CALLE 13 FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CL13" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",CALLE 13 FHD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89105
+#EXTINF:-1 tvg-id="" tvg-name="ES: COSMO FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/COSMO" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",COSMO FHD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89106
+#EXTINF:-1 tvg-id="" tvg-name="ES: SYFY FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/SCI-FI" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",SYFY FHD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89109
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV ESPAÑA SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MTV" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",MTV ESPAÑA SD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89110
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ESTRENOS FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MV1" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",MOVISTAR ESTRENOS FHD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89115
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ESTRENOS 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/MEST2.png" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",MOVISTAR ESTRENOS 2 FHD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89116
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ACCION FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPACCI" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",MOVISTAR ACCION FHD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89117
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR COMEDIA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPCOME" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",MOVISTAR COMEDIA FHD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89118
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DRAMA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPCOLE" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",MOVISTAR DRAMA FHD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89119
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR CINE ESPAÑOL SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DCESP" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",MOVISTAR CINE ESPAÑOL SD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89120
+#EXTINF:-1 tvg-id="" tvg-name="ES: TCM FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/TCM" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",TCM FHD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89121
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DEPORTES FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPDEP" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",MOVISTAR DEPORTES FHD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89123
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR FORMULA 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",MOVISTAR FORMULA 1 FHD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89124
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 1 FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",EUROSPORT 1 FHD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89126
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 2 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP2" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",EUROSPORT 2 HD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89127
+#EXTINF:-1 tvg-id="" tvg-name="ES: NATIONAL GEOGRAPHIC FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NATGEO" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",NATIONAL GEOGRAPHIC FHD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89131
+#EXTINF:-1 tvg-id="" tvg-name="ES: NATIONAL GEOGRAPHIC HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NATGEO" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",NATIONAL GEOGRAPHIC HD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89219
+#EXTINF:-1 tvg-id="" tvg-name="ES: NATIONAL GEOGRAPHIC SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NATGEO" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",NATIONAL GEOGRAPHIC SD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89220
+#EXTINF:-1 tvg-id="" tvg-name="ES: NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NATGW" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",NATIONAL GEOGRAPHIC WILD FHD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89132
+#EXTINF:-1 tvg-id="" tvg-name="ES: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NATGW" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",NATIONAL GEOGRAPHIC WILD HD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89221
+#EXTINF:-1 tvg-id="" tvg-name="ES: NATIONAL GEOGRAPHIC WILD SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NATGW" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",NATIONAL GEOGRAPHIC WILD SD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89222
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL HISTORIA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",CANAL HISTORIA FHD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89223
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL HISTORIA HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",CANAL HISTORIA HD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89133
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL HISTORIA SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",CANAL HISTORIA SD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89224
+#EXTINF:-1 tvg-id="" tvg-name="ES: CLASSICA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CLASSD" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",CLASSICA FHD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89150
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA FHD" tvg-logo="https://iberaliago.com/static/media/iberalia_n.ab5cf066.png" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",IBERALIA FHD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89155
+#EXTINF:-1 tvg-id="" tvg-name="ES: PARAMOUNT CHANNEL SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/PARCH" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",PARAMOUNT CHANNEL SD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89202
+#EXTINF:-1 tvg-id="" tvg-name="ES: ODISEA SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ODISEA" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",ODISEA
+http://s2.famousiptv.com:8080/96mini12/32487426458/89226
+#EXTINF:-1 tvg-id="" tvg-name="ES: CRIMEN & INVESTIGACION FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CYM" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",CRIMEN & INVESTIGACION FHD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89227
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL COCINA HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CACOC" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",CANAL COCINA HD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89228
+#EXTINF:-1 tvg-id="" tvg-name="ES: DECASA TV HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DECASA" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",DECASA TV HD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89229
+#EXTINF:-1 tvg-id="" tvg-name="ES: SUNDANCE FHD" tvg-logo="http://www.sundancetv.es/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",SUNDANCE FHD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89241
+#EXTINF:-1 tvg-id="" tvg-name="ES: SUNDANCE HD" tvg-logo="http://www.sundancetv.es/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",SUNDANCE HD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89242
+#EXTINF:-1 tvg-id="" tvg-name="ES: HOLLYWOOD FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Canal_Hollywood.png" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",HOLLYWOOD FHD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89243
+#EXTINF:-1 tvg-id="" tvg-name="ES: HOLLYWOOD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Canal_Hollywood.png" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",HOLLYWOOD HD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89244
+#EXTINF:-1 tvg-id="" tvg-name="ES: #VAMOS HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",#VAMOS HD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89246
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 1 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",ES: ALQUILER 1 FHD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89271
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",ES: ALQUILER 2 FHD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89272
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 3 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",ES: ALQUILER 3 FHD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89273
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 4 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",ES: ALQUILER 4 FHD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89274
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 5 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HDTQ10.png" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",ES: ALQUILER 5 FHD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89275
+#EXTINF:-1 tvg-id="" tvg-name="L CAMPEONES FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",L CAMPEONES FHD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89312
+#EXTINF:-1 tvg-id="" tvg-name="L CAMPEONES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",L CAMPEONES HD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89316
+#EXTINF:-1 tvg-id="" tvg-name="L CAMPEONES SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",L CAMPEONES SD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89317
+#EXTINF:-1 tvg-id="" tvg-name="VIP - REAL MADRID TV HD" tvg-logo="http://vipstreamtv.ddns.net:8000/images/wW3WkSBw9pfTfA9Lf0le3DrQnGbUx8wb.png" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",REAL MADRID TV HD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89338
+#EXTINF:-1 tvg-id="" tvg-name="VIP - GOL TV FHD" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/gol-television.png" group-title="♣♦♣------|ESP| MOVISTAR SPAIN |ESP|-----♣♦♣",GOL TV FHD
+http://s2.famousiptv.com:8080/96mini12/32487426458/89342
