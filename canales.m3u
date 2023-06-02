@@ -1,4 +1,8 @@
 #EXTM3U url="http://s2.famousiptv.com:8080/get.php?username=96mini12&password=32487426458&type=m3u_plus"
+#EXTINF:-1 tvg-id="" tvg-name="nba" tvg-logo="https://s.secure.espncdn.com/stitcher/sports/basketball/nba/events/170223014.png?templateId=espn.com.share.1" group-title="NBA",Denver Nuggets vs Miami Heat
+https://upstream.to/kpm3nl40m5r9
+
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR SERIES FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPSER" group-title="CINE",MOVISTAR SERIES FHD
 http://s2.famousiptv.com:8080/96mini12/32487426458/89099
 #EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR SERIES 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/CPSER.png" group-title="CINE",MOVISTAR SERIES 2 FHD
@@ -106,5 +110,4 @@ http://s2.famousiptv.com:8080/96mini12/32487426458/89229
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="nba" tvg-logo="https://s.secure.espncdn.com/stitcher/sports/basketball/nba/events/170223014.png?templateId=espn.com.share.1" group-title="NBA",Denver Nuggets vs Miami Heat
-https://upstream.to/kpm3nl40m5r9
+
