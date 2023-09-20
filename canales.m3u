@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: Historia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/342b26427208b2b782a0855d4570fe03.png" group-title="Documentales",Historia
+#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: Historia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/342b26427208b2b782a0855d4570fe03.png" group-title="",Historia
 http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/165
 #EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NAT https://static.epg.best/mx/NatGeoWild.mx.png" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c9bd97d34c99d34b65b51948c6780f3b.png" group-title="",NAT GEO 
 http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/161
-#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NAT GEO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c9bd97d34c99d34b65b51948c6780f3b.png" group-title="Documentales",NAT GEO WILD
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NAT GEO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c9bd97d34c99d34b65b51948c6780f3b.png" group-title="",NAT GEO WILD
 http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/161
-#EXTINF:-1 tvg-id="viajar.es" tvg-name="ES: Viajar" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7e7ac7b84d7fd98286f5afbba86010cf.png" group-title="Documentales",Viajar
+#EXTINF:-1 tvg-id="viajar.es" tvg-name="ES: Viajar" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7e7ac7b84d7fd98286f5afbba86010cf.png" group-title="",Viajar
 http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/2776
-#EXTINF:-1 tvg-id="" tvg-name="Odisea" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/0cd58568602064743ff6004964aaece8.png" group-title="Documentales",Odisea
+#EXTINF:-1 tvg-id="" tvg-name="Odisea" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/0cd58568602064743ff6004964aaece8.png" group-title="",Odisea
 http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/2194
-#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="ES: Canal Cocina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce9f53f9a703bfe101d2d59bddce21c0.png" group-title="Documentales",Cocina
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="ES: Canal Cocina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce9f53f9a703bfe101d2d59bddce21c0.png" group-title="",Cocina
 http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/1167
 #EXTINF:-1 tvg-id="" tvg-name="ES: Decasa" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3ef6cee1d32af51c61e1f1e60acd6f42.png" group-title="",Decasa
 http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/2771
