@@ -1,19 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: Historia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/342b26427208b2b782a0855d4570fe03.png" group-title="Documentales",Historia
+#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: Historia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/342b26427208b2b782a0855d4570fe03.png" group-title="",Historia
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321156.ts
-#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NAT https://static.epg.best/mx/NatGeoWild.mx.png" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c9bd97d34c99d34b65b51948c6780f3b.png" group-title="Documentales",National Geographic
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NAT https://static.epg.best/mx/NatGeoWild.mx.png" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c9bd97d34c99d34b65b51948c6780f3b.png" group-title="",National Geographic
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321372.ts
-#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NAT GEO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c9bd97d34c99d34b65b51948c6780f3b.png" group-title="Documentales",Nat Geo Wild
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NAT GEO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c9bd97d34c99d34b65b51948c6780f3b.png" group-title="",Nat Geo Wild
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321364.ts
-#EXTINF:-1 tvg-id="" tvg-name="Odisea" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/0cd58568602064743ff6004964aaece8.png" group-title="Documentales",Odisea
+#EXTINF:-1 tvg-id="" tvg-name="Odisea" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/0cd58568602064743ff6004964aaece8.png" group-title="",Odisea
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321390.ts
-#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="ES: Canal Cocina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce9f53f9a703bfe101d2d59bddce21c0.png" group-title="Documentales",Canal cocina
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="ES: Canal Cocina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce9f53f9a703bfe101d2d59bddce21c0.png" group-title="",Canal cocina
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321148.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Decasa" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3ef6cee1d32af51c61e1f1e60acd6f42.png" group-title="Documentales",Decasa
+#EXTINF:-1 tvg-id="" tvg-name="ES: Decasa" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3ef6cee1d32af51c61e1f1e60acd6f42.png" group-title="",Decasa
 http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/2771
 
 
 
+#EXTINF:-1,Hollywood
+http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321266.ts
+#EXTINF:-1,SYFY
+http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321423.ts
+#EXTINF:-1,TCM
+http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321426.ts
+#EXTINF:-1,Warner TV
+http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321443.ts
 #EXTINF:-1 tvg-id="amc.es" tvg-name="ES: AMC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3e8da71a24605361a34cc39144648101.png" group-title="",AMC
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321103.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: AMC Break" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/9a21b76a7e3d1750ac4c0fbc614f50ac.jpg" group-title="",AMC Break
@@ -58,10 +66,20 @@ http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/11148
 
 #EXTINF:-1,M+ LALIGA TV 
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165392.ts
+#EXTINF:-1,DAZN LALIGA
+http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/151336
+#EXTINF:-1,DAZN LALIGA 2
+http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/151339
 #EXTINF:-1,M+ Liga de Campeones 
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165358.ts
 #EXTINF:-1,M+ Liga de Campeones 2 
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165365.ts
+#EXTINF:-1,M+ Liga de Campeones 3
+http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/151370
+#EXTINF:-1,M+ Liga de Campeones 4
+http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/151373
+#EXTINF:-1,DAZN
+http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/151403
 #EXTINF:-1,DAZN 2 
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/228388.ts
 #EXTINF:-1,EUROSPORT 1 
@@ -70,14 +88,16 @@ http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/290348.ts
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/290351.ts
 #EXTINF:-1,M+ Vamos
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321072.ts
+#EXTINF:-1,M+ Deportes
+http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/151429
+#EXTINF:-1,M+ Deportes 2
+http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/151432
 
 
 
 
-#EXTINF:-1,M+ LALIGA TV 
-acestream://1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1,M+ Liga de Campeones
-acestream://a4ee6f9590351d2c88c416f9962af82c7e1ce816
+
+
 
 
 
