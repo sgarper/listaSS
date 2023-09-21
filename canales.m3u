@@ -1,15 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="historia.es" tvg-name="ES: Historia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/342b26427208b2b782a0855d4570fe03.png" group-title="",Historia
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321156.ts
-#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NAT https://static.epg.best/mx/NatGeoWild.mx.png" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c9bd97d34c99d34b65b51948c6780f3b.png" group-title="",NAT GEO 
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NAT https://static.epg.best/mx/NatGeoWild.mx.png" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c9bd97d34c99d34b65b51948c6780f3b.png" group-title="",National Geographic
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321372.ts
-#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NAT GEO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c9bd97d34c99d34b65b51948c6780f3b.png" group-title="",NAT GEO WILD
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NAT GEO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c9bd97d34c99d34b65b51948c6780f3b.png" group-title="",Nat Geo Wild
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321364.ts
-#EXTINF:-1 tvg-id="viajar.es" tvg-name="ES: Viajar" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7e7ac7b84d7fd98286f5afbba86010cf.png" group-title="",Viajar
-http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/2776
 #EXTINF:-1 tvg-id="" tvg-name="Odisea" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/0cd58568602064743ff6004964aaece8.png" group-title="",Odisea
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321390.ts
-#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="ES: Canal Cocina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce9f53f9a703bfe101d2d59bddce21c0.png" group-title="",Cocina
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="ES: Canal Cocina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce9f53f9a703bfe101d2d59bddce21c0.png" group-title="",Canal cocina
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321148.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: Decasa" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3ef6cee1d32af51c61e1f1e60acd6f42.png" group-title="",Decasa
 http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/2771
@@ -22,23 +20,23 @@ http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321103.ts
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321100.ts
 #EXTINF:-1 tvg-id="axn.es" tvg-name="ES: AXN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4b866d9fef524fa206acd7951f852b25.png" group-title="",AXN
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321118.ts
-#EXTINF:-1,ES: AXN WHITE FHD
+#EXTINF:-1,AXN Movies
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321115.ts
 #EXTINF:-1 tvg-id="calle13.es" tvg-name="ES: Calle 13" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/eb37e4ab523860367af90cc91ccd0cc3.png" group-title="",Calle 13
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321139.ts
 #EXTINF:-1 tvg-id="fox.es" tvg-name="ES: FOX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e327489a02855d7d55521d92c8874877.png" group-title="",FOX
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321252.ts
-#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="ES: MOVISTAR Accion" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a3f49074be2fa2a463d5ee69a1bd9407.png" group-title="",MOVISTAR Accion
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="ES: MOVISTAR Accion" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a3f49074be2fa2a463d5ee69a1bd9407.png" group-title="",M+ Acción
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321306.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR Cine Espanol" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/af80011ddf4907c81029f3e2763899e4.png" group-title="",MOVISTAR Cine Español
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR Cine Espanol" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/af80011ddf4907c81029f3e2763899e4.png" group-title="",M+ Cine Español
 http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/64788
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR Clasicos" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/6706f3336be6e8d27241cade06bedf5b.png" group-title="",MOVISTAR Clasicos
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR Clasicos" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/6706f3336be6e8d27241cade06bedf5b.png" group-title="",M+ Clásicos
 http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/281773
-#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="ES: MOVISTAR Comedia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d016c40c3fd7ebe0a22e96e1a9fb3825.png" group-title="",MOVISTAR Comedia
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="ES: MOVISTAR Comedia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d016c40c3fd7ebe0a22e96e1a9fb3825.png" group-title="",M+ Comedia
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321319.ts
-#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="ES: MOVISTAR Drama" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cf0b506006f12487ce7053315e6ea049.png" group-title="",MOVISTAR Drama
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="ES: MOVISTAR Drama" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cf0b506006f12487ce7053315e6ea049.png" group-title="",M+ Drama
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321332.ts
-#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="ES: MOVISTAR Estrenos" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/50a1f5aeede4140f8b19d307c64024af.png" group-title="",MOVISTAR Estrenos
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="ES: MOVISTAR Estrenos" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/50a1f5aeede4140f8b19d307c64024af.png" group-title="",M+ Estrenos
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321338.ts
 #EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="ES: Paramount Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/57ee199bc6bfdff7e9f893f47d366195.png" group-title="",Paramount Network
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321392.ts
@@ -58,17 +56,33 @@ http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/11148
 
 
 
-#EXTINF:-1,ES: M LALIGA HD
+#EXTINF:-1,M LALIGA 
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165392.ts
-#EXTINF:-1,ES: LIGA DE CAMPEONES HD
+#EXTINF:-1,LIGA DE CAMPEONES 
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165358.ts
-#EXTINF:-1,ES: LIGA DE CAMPEONES 2 FHD
+#EXTINF:-1,LIGA DE CAMPEONES 2 
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165365.ts
-#EXTINF:-1,ES: M+ DAZN 2 HD
+#EXTINF:-1,M+ DAZN 2 
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/228388.ts
-#EXTINF:-1,ES: EUROSPORT 1 FHD
+#EXTINF:-1,EUROSPORT 1 
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/290348.ts
-#EXTINF:-1,ES: EUROSPORT 2 FHD
+#EXTINF:-1,EUROSPORT 2 
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/290351.ts
-#EXTINF:-1,ES: #VAMOS HD
+#EXTINF:-1,#VAMOS 
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321072.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
