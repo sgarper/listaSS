@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: Historia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/342b26427208b2b782a0855d4570fe03.png" group-title="",Historia
+#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: Historia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/342b26427208b2b782a0855d4570fe03.png" group-title="Documentales",Historia
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321156.ts
-#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NAT https://static.epg.best/mx/NatGeoWild.mx.png" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c9bd97d34c99d34b65b51948c6780f3b.png" group-title="",National Geographic
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NAT https://static.epg.best/mx/NatGeoWild.mx.png" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c9bd97d34c99d34b65b51948c6780f3b.png" group-title="Documentales",National Geographic
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321372.ts
-#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NAT GEO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c9bd97d34c99d34b65b51948c6780f3b.png" group-title="",Nat Geo Wild
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NAT GEO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c9bd97d34c99d34b65b51948c6780f3b.png" group-title="Documentales",Nat Geo Wild
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321364.ts
-#EXTINF:-1 tvg-id="" tvg-name="Odisea" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/0cd58568602064743ff6004964aaece8.png" group-title="",Odisea
+#EXTINF:-1 tvg-id="" tvg-name="Odisea" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/0cd58568602064743ff6004964aaece8.png" group-title="Documentales",Odisea
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321390.ts
-#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="ES: Canal Cocina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce9f53f9a703bfe101d2d59bddce21c0.png" group-title="",Canal cocina
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="ES: Canal Cocina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce9f53f9a703bfe101d2d59bddce21c0.png" group-title="Documentales",Canal cocina
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321148.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Decasa" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3ef6cee1d32af51c61e1f1e60acd6f42.png" group-title="",Decasa
+#EXTINF:-1 tvg-id="" tvg-name="ES: Decasa" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3ef6cee1d32af51c61e1f1e60acd6f42.png" group-title="Documentales",Decasa
 http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/2771
 
 
@@ -77,7 +77,7 @@ http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321072.ts
 #EXTINF:-1,M+ LALIGA TV 
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
 #EXTINF:-1,M+ Liga de Campeones
-a4ee6f9590351d2c88c416f9962af82c7e1ce816
+acestream://a4ee6f9590351d2c88c416f9962af82c7e1ce816
 
 
 
