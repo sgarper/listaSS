@@ -1,20 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: Historia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/342b26427208b2b782a0855d4570fe03.png" group-title="",Historia
+#EXTINF:-1,Historia
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321156.ts
-#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NAT https://static.epg.best/mx/NatGeoWild.mx.png" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c9bd97d34c99d34b65b51948c6780f3b.png" group-title="",National Geographic
+#EXTINF:-1,National Geographic
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321372.ts
-#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NAT GEO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c9bd97d34c99d34b65b51948c6780f3b.png" group-title="",Nat Geo Wild
+#EXTINF:-1,Nat Geo Wild
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321364.ts
-#EXTINF:-1 tvg-id="" tvg-name="Odisea" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/0cd58568602064743ff6004964aaece8.png" group-title="",Odisea
+#EXTINF:-1,Odisea
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321390.ts
-#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="ES: Canal Cocina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce9f53f9a703bfe101d2d59bddce21c0.png" group-title="",Canal cocina
+#EXTINF:-1,Canal cocina
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321148.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Decasa" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3ef6cee1d32af51c61e1f1e60acd6f42.png" group-title="",Decasa
+#EXTINF:-1,Decasa
 http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/2771
 
 
 
-#EXTINF:-1,Hollywood
+#EXTINF:-1,Canal Hollywood
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321266.ts
 #EXTINF:-1,SYFY
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321423.ts
@@ -22,35 +22,35 @@ http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321423.ts
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321426.ts
 #EXTINF:-1,Warner TV
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321443.ts
-#EXTINF:-1 tvg-id="amc.es" tvg-name="ES: AMC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3e8da71a24605361a34cc39144648101.png" group-title="",AMC
+#EXTINF:-1,AMC
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321103.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: AMC Break" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/9a21b76a7e3d1750ac4c0fbc614f50ac.jpg" group-title="",AMC Break
+#EXTINF:-1,AMC Break
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321100.ts
-#EXTINF:-1 tvg-id="axn.es" tvg-name="ES: AXN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4b866d9fef524fa206acd7951f852b25.png" group-title="",AXN
+#EXTINF:-1,AXN
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321118.ts
 #EXTINF:-1,AXN Movies
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321115.ts
-#EXTINF:-1 tvg-id="calle13.es" tvg-name="ES: Calle 13" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/eb37e4ab523860367af90cc91ccd0cc3.png" group-title="",Calle 13
+#EXTINF:-1,Calle 13
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321139.ts
-#EXTINF:-1 tvg-id="fox.es" tvg-name="ES: FOX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e327489a02855d7d55521d92c8874877.png" group-title="",FOX
+#EXTINF:-1,FOX
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321252.ts
-#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="ES: MOVISTAR Accion" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a3f49074be2fa2a463d5ee69a1bd9407.png" group-title="",M+ Acción
+#EXTINF:-1,M+ Acción
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321306.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR Cine Espanol" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/af80011ddf4907c81029f3e2763899e4.png" group-title="",M+ Cine Español
+#EXTINF:-1,M+ Cine Español
 http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/64788
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR Clasicos" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/6706f3336be6e8d27241cade06bedf5b.png" group-title="",M+ Clásicos
+#EXTINF:-1,M+ Clásicos
 http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/281773
-#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="ES: MOVISTAR Comedia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d016c40c3fd7ebe0a22e96e1a9fb3825.png" group-title="",M+ Comedia
+#EXTINF:-1,M+ Comedia
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321319.ts
-#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="ES: MOVISTAR Drama" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cf0b506006f12487ce7053315e6ea049.png" group-title="",M+ Drama
+#EXTINF:-1,M+ Drama
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321332.ts
-#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="ES: MOVISTAR Estrenos" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/50a1f5aeede4140f8b19d307c64024af.png" group-title="",M+ Suspense
+#EXTINF:-1,M+ Suspense
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321338.ts
-#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="ES: Paramount Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/57ee199bc6bfdff7e9f893f47d366195.png" group-title="",Paramount Network
+#EXTINF:-1,Paramount Network
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321392.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Sundance TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/97622498c703a53c3a8fb1e01a65a46e.png" group-title="",Sundance TV
+#EXTINF:-1,Sundance TV
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321418.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: XTRM" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/9f0db7298ca7f2ea0900ffe65daadb68.png" group-title="",XTRM
+#EXTINF:-1,XTRM
 http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/11148
 
 
