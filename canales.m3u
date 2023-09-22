@@ -64,33 +64,33 @@ http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/11148
 
 
 
-#EXTINF:-1,M+ LALIGA TV 
+#EXTINF:-1 group-title="Deportes(Opción 2)",M+ LALIGA TV 
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165392.ts
-#EXTINF:-1,DAZN LALIGA
+#EXTINF:-1 group-title="Deportes(Opción 2)",DAZN LALIGA
 http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/151336
-#EXTINF:-1,DAZN LALIGA 2
+#EXTINF:-1 group-title="Deportes(Opción 2)",DAZN LALIGA 2
 http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/151339
-#EXTINF:-1,M+ Liga de Campeones 
+#EXTINF:-1 group-title="Deportes(Opción 2)",M+ Liga de Campeones 
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165358.ts
-#EXTINF:-1,M+ Liga de Campeones 2 
+#EXTINF:-1 group-title="Deportes(Opción 2)",M+ Liga de Campeones 2 
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165365.ts
-#EXTINF:-1,M+ Liga de Campeones 3
+#EXTINF:-1 group-title="Deportes(Opción 2)",M+ Liga de Campeones 3
 http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/151370
-#EXTINF:-1,M+ Liga de Campeones 4
+#EXTINF:-1 group-title="Deportes(Opción 2)",M+ Liga de Campeones 4
 http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/151373
-#EXTINF:-1,DAZN 1
+#EXTINF:-1 group-title="Deportes(Opción 2)",DAZN 1
 http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/151403
-#EXTINF:-1,DAZN 2 
+#EXTINF:-1 group-title="Deportes(Opción 2)",DAZN 2 
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/228388.ts
-#EXTINF:-1,EUROSPORT 1 
+#EXTINF:-1 group-title="Deportes(Opción 2)",EUROSPORT 1 
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/290348.ts
-#EXTINF:-1,EUROSPORT 2 
+#EXTINF:-1 group-title="Deportes(Opción 2)",EUROSPORT 2 
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/290351.ts
-#EXTINF:-1,M+ Vamos
+#EXTINF:-1 group-title="Deportes(Opción 2)",M+ Vamos
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321072.ts
-#EXTINF:-1,M+ Deportes
+#EXTINF:-1 group-title="Deportes(Opción 2)",M+ Deportes
 http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/151429
-#EXTINF:-1,M+ Deportes 2
+#EXTINF:-1 group-title="Deportes(Opción 2)",M+ Deportes 2
 http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/151432
 
 
@@ -112,7 +112,7 @@ acestream://a4ee6f9590351d2c88c416f9962af82c7e1ce816
 acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 
 
-#EXTINF:-1 group-title="GENERALES",EUROSPORT 1
+#EXTINF:-1 group-title="Deportes(Opción 1)",EUROSPORT 1
 plugin://script.module.horus?action=play&id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 
 
