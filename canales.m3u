@@ -1,57 +1,108 @@
 #EXTM3U
-#EXTINF:-1,Historia
+#EXTINF:-1 group-title="Documentales",Historia
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321156.ts
-#EXTINF:-1,National Geographic
+#EXTINF:-1 group-title="Documentales",National Geographic
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321372.ts
-#EXTINF:-1,Nat Geo Wild
+#EXTINF:-1 group-title="Documentales",Nat Geo Wild
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321364.ts
-#EXTINF:-1,Odisea
+#EXTINF:-1 group-title="Documentales",Canal viajar
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/847
+#EXTINF:-1 group-title="Documentales",Movistar documentales
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/223477
+#EXTINF:-1 group-title="Documentales",Odisea
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321390.ts
-#EXTINF:-1,Canal cocina
+#EXTINF:-1 group-title="Documentales",Canal cocina
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321148.ts
-#EXTINF:-1,Decasa
+#EXTINF:-1 group-title="Documentales",Decasa
 http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/2771
 
 
 
-#EXTINF:-1,Canal Hollywood
+#EXTINF:-1 group-title="Cine",Canal Hollywood
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321266.ts
-#EXTINF:-1,SYFY
+#EXTINF:-1 group-title="Cine",SYFY
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321423.ts
-#EXTINF:-1,TCM
+#EXTINF:-1 group-title="Cine",TCM
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321426.ts
-#EXTINF:-1,Warner TV
+#EXTINF:-1 group-title="Cine",Warner TV
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321443.ts
-#EXTINF:-1,AMC
+#EXTINF:-1 group-title="Cine",AMC
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321103.ts
-#EXTINF:-1,AMC Break
+#EXTINF:-1 group-title="Cine",AMC Break
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321100.ts
-#EXTINF:-1,AXN
+#EXTINF:-1 group-title="Cine",AXN
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321118.ts
-#EXTINF:-1,AXN Movies
+#EXTINF:-1 group-title="Cine",AXN Movies
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321115.ts
-#EXTINF:-1,Calle 13
+#EXTINF:-1 group-title="Cine",Calle 13
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321139.ts
-#EXTINF:-1,FOX
+#EXTINF:-1 group-title="Cine",FOX
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321252.ts
-#EXTINF:-1,M+ Acción
+#EXTINF:-1 group-title="Cine",M+ Acción
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321306.ts
-#EXTINF:-1,M+ Cine Español
+#EXTINF:-1 group-title="Cine",M+ Cine Español
 http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/64788
-#EXTINF:-1,M+ Clásicos
+#EXTINF:-1 group-title="Cine",M+ Clásicos
 http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/281773
-#EXTINF:-1,M+ Comedia
+#EXTINF:-1 group-title="Cine",M+ Comedia
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321319.ts
-#EXTINF:-1,M+ Drama
+#EXTINF:-1 group-title="Cine",M+ Drama
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321332.ts
-#EXTINF:-1,M+ Suspense
+#EXTINF:-1 group-title="Cine",M+ Suspense
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321338.ts
-#EXTINF:-1,Paramount Network
+#EXTINF:-1 group-title="Cine",Paramount Network
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321392.ts
-#EXTINF:-1,Sundance TV
+#EXTINF:-1 group-title="Cine",Sundance TV
 http://goodtv.of090823.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321418.ts
-#EXTINF:-1,XTRM
+#EXTINF:-1 group-title="Cine",XTRM
 http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/11148
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Deportes(Opción 1)",M+ LALIGA TV 
+plugin://script.module.horus?action=play&id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
+#EXTINF:-1 group-title="Deportes(Opción 1)",M+ LALIGA TV
+plugin://script.module.horus?action=play&id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
+#EXTINF:-1 group-title="Deportes(Opción 1)",DAZN LALIGA
+plugin://script.module.horus?action=play&id=1960a9be8ae9e8c755330218eac4c5805466290a
+#EXTINF:-1 group-title="Deportes(Opción 1)",DAZN LALIGA
+plugin://script.module.horus?action=play&id=75251ba975132ec9a202806ba5bf606e87280c96
+#EXTINF:-1 group-title="Deportes(Opción 1)",M+ Liga de Campeones
+plugin://script.module.horus?action=play&id=931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 group-title="Deportes(Opción 1)",M+ Liga de Campeones
+plugin://script.module.horus?action=play&id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
+#EXTINF:-1 group-title="Deportes(Opción 1)",M+ Liga de Campeones 2
+plugin://script.module.horus?action=play&id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 group-title="Deportes(Opción 1)",M+ Liga de Campeones 3
+plugin://script.module.horus?action=play&id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title="Deportes(Opción 1)",M+ Liga de Campeones 4
+plugin://script.module.horus?action=play&id=1b48d5881337c87b89e1edefff6688fe2271d222
+#EXTINF:-1 group-title="Deportes(Opción 1)",DAZN 1
+plugin://script.module.horus?action=play&id=8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title="Deportes(Opción 1)",DAZN 2
+plugin://script.module.horus?action=play&id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 group-title="Deportes(Opción 1)",M+ Vamos
+plugin://script.module.horus?action=play&id=859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title="Deportes(Opción 1)",M+ Vamos
+plugin://script.module.horus?action=play&id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+#EXTINF:-1 group-title="Deportes(Opción 1)",M+ Deportes
+plugin://script.module.horus?action=play&id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="Deportes(Opción 1)",M+ Deportes 2
+plugin://script.module.horus?action=play&id=e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title="Deportes(Opción 1)",EUROSPORT 1
+plugin://script.module.horus?action=play&id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title="Deportes(Opción 1)",EUROSPORT 2
+plugin://script.module.horus?action=play&id=c373da9e901d414b7384e671112e64d5a2310c29
 
 
 
@@ -106,13 +157,66 @@ http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/151432
 
 
 
-#EXTINF:-1,M+ Liga de Campeones 
-acestream://a4ee6f9590351d2c88c416f9962af82c7e1ce816
-#EXTINF:-1,M+ Liga de Campeones 2 
-acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 
-
-#EXTINF:-1 group-title="Deportes(Opción 1)",EUROSPORT 1
-plugin://script.module.horus?action=play&id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-
-
+#EXTINF:-1 tvg-id="" tvg-name="05- 24H FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/24H" group-title="││TV││ TDT ESPAÑA",05- 24H FHD
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219022
+#EXTINF:-1 tvg-id="" tvg-name="02- LA 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/2295px-Logo_TVE-1.svg.png" group-title="││TV││ TDT ESPAÑA",02- LA 1 FHD
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219023
+#EXTINF:-1 tvg-id="" tvg-name="01- LA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/2295px-Logo_TVE-1.svg.png" group-title="││TV││ TDT ESPAÑA",01- LA 1 HD
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219024
+#EXTINF:-1 tvg-id="" tvg-name="04- LA 2 FHD" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/la-2-spanish-tv-channel-wikipedia-75321.png" group-title="││TV││ TDT ESPAÑA",04- LA 2 FHD
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219025
+#EXTINF:-1 tvg-id="" tvg-name="03- LA 2 HD" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/la-2-spanish-tv-channel-wikipedia-75321.png" group-title="││TV││ TDT ESPAÑA",03- LA 2 HD
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219026
+#EXTINF:-1 tvg-id="" tvg-name="07- ANTENA 3 FHD" tvg-logo="http://meteoalcorcon.es/1_0_19_7534_426_1_C00000_0_0_0.png" group-title="││TV││ TDT ESPAÑA",07- ANTENA 3 FHD
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219027
+#EXTINF:-1 tvg-id="" tvg-name="06- ANTENA 3 HD" tvg-logo="http://meteoalcorcon.es/1_0_19_7534_426_1_C00000_0_0_0.png" group-title="││TV││ TDT ESPAÑA",06- ANTENA 3 HD
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219028
+#EXTINF:-1 tvg-id="" tvg-name="08- CUATRO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1200px-Logotipo_de_Cuatro.svg.png" group-title="││TV││ TDT ESPAÑA",08- CUATRO HD
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219029
+#EXTINF:-1 tvg-id="" tvg-name="09- CUATRO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1200px-Logotipo_de_Cuatro.svg.png" group-title="││TV││ TDT ESPAÑA",09- CUATRO FHD
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219030
+#EXTINF:-1 tvg-id="" tvg-name="11- TELECINCO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/1200px-Telecinco.svg.png" group-title="││TV││ TDT ESPAÑA",11- TELECINCO FHD
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219031
+#EXTINF:-1 tvg-id="" tvg-name="10- TELECINCO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/1200px-Telecinco.svg.png" group-title="││TV││ TDT ESPAÑA",10- TELECINCO HD
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219032
+#EXTINF:-1 tvg-id="" tvg-name="13- LA SEXTA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/La_Sexta.svg/966px-La_Sexta.svg.png" group-title="││TV││ TDT ESPAÑA",13- LA SEXTA FHD
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219033
+#EXTINF:-1 tvg-id="" tvg-name="12- LA SEXTA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_de_la_Sexta_HD.png" group-title="││TV││ TDT ESPAÑA",12- LA SEXTA HD
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219034
+#EXTINF:-1 tvg-id="" tvg-name="14- CANAL SUR" tvg-logo="http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320" group-title="││TV││ TDT ESPAÑA",14- CANAL SUR
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219035
+#EXTINF:-1 tvg-id="" tvg-name="16- NEOX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/1200px-Neox.svg.png" group-title="││TV││ TDT ESPAÑA",16- NEOX FHD
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219036
+#EXTINF:-1 tvg-id="" tvg-name="27- ENERGY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Energy_2012.png" group-title="││TV││ TDT ESPAÑA",27- ENERGY
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219037
+#EXTINF:-1 tvg-id="" tvg-name="28- ENERGY EXTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Energy_2012.png" group-title="││TV││ TDT ESPAÑA",28- ENERGY EXTRA
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219038
+#EXTINF:-1 tvg-id="" tvg-name="25- MEGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png" group-title="││TV││ TDT ESPAÑA",25- MEGA
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219039
+#EXTINF:-1 tvg-id="" tvg-name="26- MEGA EXTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png" group-title="││TV││ TDT ESPAÑA",26- MEGA EXTRA
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219040
+#EXTINF:-1 tvg-id="" tvg-name="18- NOVA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/640px-Nova.svg.png" group-title="││TV││ TDT ESPAÑA",18- NOVA FHD
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219041
+#EXTINF:-1 tvg-id="" tvg-name="23- DIVINITY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/1200px-Divinity.svg.png" group-title="││TV││ TDT ESPAÑA",23- DIVINITY
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219042
+#EXTINF:-1 tvg-id="" tvg-name="24- DIVINITY EXTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/1200px-Divinity.svg.png" group-title="││TV││ TDT ESPAÑA",24- DIVINITY EXTRA
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219043
+#EXTINF:-1 tvg-id="" tvg-name="20- FDF EXTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/125px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="││TV││ TDT ESPAÑA",20- FDF EXTRA
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219044
+#EXTINF:-1 tvg-id="" tvg-name="21- BE MAD" tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/be_mad_circular_500_-1_8f1a.png" group-title="││TV││ TDT ESPAÑA",21- BE MAD
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219045
+#EXTINF:-1 tvg-id="" tvg-name="22- BE MAD EXTRA" tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/be_mad_circular_500_-1_8f1a.png" group-title="││TV││ TDT ESPAÑA",22- BE MAD EXTRA
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219046
+#EXTINF:-1 tvg-id="" tvg-name="32- TEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ten.svg/1200px-Ten.svg.png" group-title="││TV││ TDT ESPAÑA",32- TEN
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219047
+#EXTINF:-1 tvg-id="" tvg-name="30- DKISS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DKiss.svg/1280px-DKiss.svg.png" group-title="││TV││ TDT ESPAÑA",30- DKISS
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219048
+#EXTINF:-1 tvg-id="" tvg-name="33- TRECE" tvg-logo="https://www.woolo.es/assets/img/woolo/basic/trece.png" group-title="││TV││ TDT ESPAÑA",33- TRECE
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219049
+#EXTINF:-1 tvg-id="" tvg-name="29- DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="││TV││ TDT ESPAÑA",29- DMAX
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219050
+#EXTINF:-1 tvg-id="" tvg-name="31- EL TORO TV" tvg-logo="https://eltorotv.com/wp-content/uploads/2019/11/LOGO_ETV_WEB_300PP.png" group-title="││TV││ TDT ESPAÑA",31- EL TORO TV
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219051
+#EXTINF:-1  group-title="TDT",TELEDEPORTE
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219052
