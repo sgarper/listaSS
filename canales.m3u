@@ -127,6 +127,14 @@ http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/151423
 plugin://script.module.horus?action=play&id=c373da9e901d414b7384e671112e64d5a2310c29
 #EXTINF:-1 group-title="Deportes",EUROSPORT 2 
 http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/151426
+#EXTINF:-1 group-title="Deportes",Sport tv 1
+plugin://script.module.horus?action=play&id=ce235921dac95e1da2dd5e54673c2fecb9e806de
+#EXTINF:-1 group-title="Deportes",Sport tv 2
+plugin://script.module.horus?action=play&id=396d82ca6f5445abcd32e6b609d67e332ee12ace
+#EXTINF:-1 group-title="Deportes",Sport tv 3
+plugin://script.module.horus?action=play&id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
+#EXTINF:-1 group-title="Deportes",Bein Sport Ñ
+plugin://script.module.horus?action=play&id=41af6926a6010b68ba2540975761436bb077748f
 
 
 
