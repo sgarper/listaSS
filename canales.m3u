@@ -1,55 +1,53 @@
 #EXTM3U
 #EXTINF:-1 group-title="Documentales",Historia
-http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/96449
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/788
 #EXTINF:-1 group-title="Documentales",National Geographic
-http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/96416
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/790
 #EXTINF:-1 group-title="Documentales",Nat Geo Wild
-http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/96437
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/789
 #EXTINF:-1 group-title="Documentales",M+ Documentales
-http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/96447
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/215330
 #EXTINF:-1 group-title="Documentales",Odisea
-http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/96446
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/784
 #EXTINF:-1 group-title="Documentales",Canal cocina
-http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/96452
-#EXTINF:-1 group-title="Documentales",Canal de casa
-http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/96428
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/1393
 
 
 
 #EXTINF:-1 group-title="Cine",Hollywood
-http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/96224
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/815
 #EXTINF:-1 group-title="Cine",SYFY
-http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/96287
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/818
 #EXTINF:-1 group-title="Cine",TCM
-http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/96290
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/809
 #EXTINF:-1 group-title="Cine",AMC
-http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/96258
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/808
 #EXTINF:-1 group-title="Cine",AXN
-http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/96275
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/812
 #EXTINF:-1 group-title="Cine",AXN Movies
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/114
 #EXTINF:-1 group-title="Cine",Calle 13
-http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/96269
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/777
 #EXTINF:-1 group-title="Cine",FOX
-http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/96266
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/813
 #EXTINF:-1 group-title="Cine",M+ Acción
-http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/96242
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/819
 #EXTINF:-1 group-title="Cine",M+ Cine Español
-http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/96245
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/1387
 #EXTINF:-1 group-title="Cine",M+ Clásicos
-http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/281773
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/223475
 #EXTINF:-1 group-title="Cine",M+ Comedia
-http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/96233
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/216462
 #EXTINF:-1 group-title="Cine",M+ Drama
-http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/96239
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/223470
 #EXTINF:-1 group-title="Cine",Sundance
-http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/96272
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/1432
 #EXTINF:-1 group-title="Cine",XTRM
-http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/96281
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/173196
 #EXTINF:-1 group-title="Cine",Warner TV
-http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/8009382
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/68
 #EXTINF:-1 group-title="Cine",M+ Suspense
-http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/96228
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/824
 
 
 
@@ -70,13 +68,13 @@ plugin://script.module.horus?action=play&id=7d8c87e057be98f00f22e23b23fbf08999e4
 #EXTINF:-1 group-title="Deportes",M+ LALIGA TV
 plugin://script.module.horus?action=play&id=f031f5728b32f6089dda28edebe990cf198108d8
 #EXTINF:-1 group-title="Deportes",M+ LALIGA TV 
-http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/151354
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/222424
 #EXTINF:-1 group-title="Deportes",DAZN LALIGA
 plugin://script.module.horus?action=play&id=1960a9be8ae9e8c755330218eac4c5805466290a
 #EXTINF:-1 group-title="Deportes",DAZN LALIGA
 plugin://script.module.horus?action=play&id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
 #EXTINF:-1 group-title="Deportes",DAZN LALIGA
-http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/151336
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/191052
 #EXTINF:-1 group-title="Deportes",DAZN LALIGA 2
 http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/151339
 #EXTINF:-1 group-title="Deportes",M+ Liga de Campeones
@@ -84,37 +82,37 @@ plugin://script.module.horus?action=play&id=931b1984badcb821df7b47a66ac0835ac871
 #EXTINF:-1 group-title="Deportes",M+ Liga de Campeones
 plugin://script.module.horus?action=play&id=e2e2aca792aae5da19995ac516b1d620531bd49c
 #EXTINF:-1 group-title="Deportes",M+ Liga de Campeones 
-http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/151364
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/218166
 #EXTINF:-1 group-title="Deportes",M+ Liga de Campeones 2
 plugin://script.module.horus?action=play&id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 #EXTINF:-1 group-title="Deportes",M+ Liga de Campeones 2 
-http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/151367
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/218169
 #EXTINF:-1 group-title="Deportes",M+ Liga de Campeones 3
 plugin://script.module.horus?action=play&id=ad372cba73aa0ece207a79532b3e30b731136bb2
 #EXTINF:-1 group-title="Deportes",M+ Liga de Campeones 3
-http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/151370
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/218164
 #EXTINF:-1 group-title="Deportes",M+ Liga de Campeones 4
 plugin://script.module.horus?action=play&id=1b48d5881337c87b89e1edefff6688fe2271d222
 #EXTINF:-1 group-title="Deportes",M+ Liga de Campeones 4
-http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/151373
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/218165
 #EXTINF:-1 group-title="Deportes",DAZN 1
 plugin://script.module.horus?action=play&id=8ca07071b39185431f8e940ec98d1add9e561639
 #EXTINF:-1 group-title="Deportes",DAZN 1
-http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/151403
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/218249
 #EXTINF:-1 group-title="Deportes",DAZN 2
 plugin://script.module.horus?action=play&id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
 #EXTINF:-1 group-title="Deportes",DAZN 2 
-http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/151406
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/218251
 #EXTINF:-1 group-title="Deportes",M+ Vamos
 plugin://script.module.horus?action=play&id=859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTINF:-1 group-title="Deportes",M+ Vamos
 plugin://script.module.horus?action=play&id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 #EXTINF:-1 group-title="Deportes",M+ Vamos
-http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/151418
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/218261
 #EXTINF:-1 group-title="Deportes",M+ Deportes
 plugin://script.module.horus?action=play&id=d00223931b1854163e24c5c22475015d7d45c112
 #EXTINF:-1 group-title="Deportes",M+ Deportes
-http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/151429
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/221677
 #EXTINF:-1 group-title="Deportes",M+ Deportes 2
 plugin://script.module.horus?action=play&id=e6f06d697f66a8fa606c4d61236c24b0d604d917
 #EXTINF:-1 group-title="Deportes",M+ Deportes 2
