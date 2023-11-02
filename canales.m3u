@@ -117,6 +117,10 @@ http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/221677
 plugin://script.module.horus?action=play&id=e6f06d697f66a8fa606c4d61236c24b0d604d917
 #EXTINF:-1 group-title="Deportes",M+ Deportes 2
 http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/151432
+#EXTINF:-1 group-title="Deportes",Movistar Plus+
+plugin://script.module.horus?action=play&id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
+#EXTINF:-1 group-title="Deportes",Movistar Plus+
+http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/221678
 #EXTINF:-1 group-title="Deportes",EUROSPORT 1
 plugin://script.module.horus?action=play&id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 group-title="Deportes",EUROSPORT 1 
