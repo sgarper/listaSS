@@ -17,7 +17,7 @@ http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/1393
 #EXTINF:-1 group-title="Cine",Hollywood
 http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/815
 #EXTINF:-1 group-title="Cine",SYFY
-http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/818
+http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/2835
 #EXTINF:-1 group-title="Cine",TCM
 http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/809
 #EXTINF:-1 group-title="Cine",AMC
@@ -35,18 +35,18 @@ http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/819
 #EXTINF:-1 group-title="Cine",M+ Cine Español
 http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/1387
 #EXTINF:-1 group-title="Cine",M+ Clásicos
-http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/223475
+http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/596
 #EXTINF:-1 group-title="Cine",M+ Comedia
 http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/216462
 #EXTINF:-1 group-title="Cine",M+ Drama
-http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/223470
+http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/609
 #EXTINF:-1 group-title="Cine",Sundance
 http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/1432
 #EXTINF:-1 group-title="Cine",XTRM
 http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/173196
 #EXTINF:-1 group-title="Cine",Warner TV
 http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/68
-#EXTINF:-1 group-title="Cine",M+ Suspense
+#EXTINF:-1 group-title="Cine",M+ Cine
 http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/824
 
 
@@ -68,59 +68,59 @@ plugin://script.module.horus?action=play&id=7d8c87e057be98f00f22e23b23fbf08999e4
 #EXTINF:-1 group-title="Deportes",M+ LALIGA TV
 plugin://script.module.horus?action=play&id=f031f5728b32f6089dda28edebe990cf198108d8
 #EXTINF:-1 group-title="Deportes",M+ LALIGA TV 
-http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/222424
+http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/347
 #EXTINF:-1 group-title="Deportes",DAZN LALIGA
 plugin://script.module.horus?action=play&id=1960a9be8ae9e8c755330218eac4c5805466290a
 #EXTINF:-1 group-title="Deportes",DAZN LALIGA
 plugin://script.module.horus?action=play&id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
 #EXTINF:-1 group-title="Deportes",DAZN LALIGA
-http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/191052
+http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/326
 #EXTINF:-1 group-title="Deportes",DAZN LALIGA 2
-http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/151339
+http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/339
 #EXTINF:-1 group-title="Deportes",M+ Liga de Campeones
 plugin://script.module.horus?action=play&id=931b1984badcb821df7b47a66ac0835ac871b51c
 #EXTINF:-1 group-title="Deportes",M+ Liga de Campeones
 plugin://script.module.horus?action=play&id=e2e2aca792aae5da19995ac516b1d620531bd49c
 #EXTINF:-1 group-title="Deportes",M+ Liga de Campeones 
-http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/218166
+http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/478
 #EXTINF:-1 group-title="Deportes",M+ Liga de Campeones 2
 plugin://script.module.horus?action=play&id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 #EXTINF:-1 group-title="Deportes",M+ Liga de Campeones 2 
-http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/218169
+http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/490
 #EXTINF:-1 group-title="Deportes",M+ Liga de Campeones 3
 plugin://script.module.horus?action=play&id=ad372cba73aa0ece207a79532b3e30b731136bb2
 #EXTINF:-1 group-title="Deportes",M+ Liga de Campeones 3
-http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/218164
+http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/497
 #EXTINF:-1 group-title="Deportes",M+ Liga de Campeones 4
 plugin://script.module.horus?action=play&id=1b48d5881337c87b89e1edefff6688fe2271d222
 #EXTINF:-1 group-title="Deportes",M+ Liga de Campeones 4
-http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/218165
+http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/47252
 #EXTINF:-1 group-title="Deportes",DAZN 1
 plugin://script.module.horus?action=play&id=8ca07071b39185431f8e940ec98d1add9e561639
 #EXTINF:-1 group-title="Deportes",DAZN 1
-http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/218249
+http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/305
 #EXTINF:-1 group-title="Deportes",DAZN 2
 plugin://script.module.horus?action=play&id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
 #EXTINF:-1 group-title="Deportes",DAZN 2 
-http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/218251
+http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/311
 #EXTINF:-1 group-title="Deportes",M+ Vamos
 plugin://script.module.horus?action=play&id=859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTINF:-1 group-title="Deportes",M+ Vamos
 plugin://script.module.horus?action=play&id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 #EXTINF:-1 group-title="Deportes",M+ Vamos
-http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/218261
+http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/643
 #EXTINF:-1 group-title="Deportes",M+ Deportes
 plugin://script.module.horus?action=play&id=d00223931b1854163e24c5c22475015d7d45c112
 #EXTINF:-1 group-title="Deportes",M+ Deportes
-http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/221677
+http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/302252
 #EXTINF:-1 group-title="Deportes",M+ Deportes 2
 plugin://script.module.horus?action=play&id=e6f06d697f66a8fa606c4d61236c24b0d604d917
 #EXTINF:-1 group-title="Deportes",M+ Deportes 2
-http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/151432
+http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/302253
 #EXTINF:-1 group-title="Deportes",Movistar Plus+
 plugin://script.module.horus?action=play&id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
 #EXTINF:-1 group-title="Deportes",Movistar Plus+
-http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/221678
+http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/756
 #EXTINF:-1 group-title="Deportes",EUROSPORT 1
 plugin://script.module.horus?action=play&id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 group-title="Deportes",EUROSPORT 1 
@@ -137,6 +137,8 @@ plugin://script.module.horus?action=play&id=396d82ca6f5445abcd32e6b609d67e332ee1
 plugin://script.module.horus?action=play&id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
 #EXTINF:-1 group-title="Deportes",Bein Sport Ñ
 plugin://script.module.horus?action=play&id=41af6926a6010b68ba2540975761436bb077748f
+#EXTINF:-1 group-title="Deportes",NBA TV
+http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/31816
 
 
 
@@ -151,40 +153,40 @@ plugin://script.module.horus?action=play&id=41af6926a6010b68ba2540975761436bb077
 
 
 #EXTINF:-1 group-title="TDT",Canal 24H
-http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219022
+https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 group-title="TDT",La 1
-http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219023
+https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 group-title="TDT",La 2
-http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219025
+https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 group-title="TDT",Antena 3
-http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219027
+https://www.atresplayer.com/directos/antena3/
 #EXTINF:-1 group-title="TDT",Cuatro
-http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219030
+https://www.mitele.es/directo/cuatro
 #EXTINF:-1 group-title="TDT",Telecinco
-http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219031
+https://www.mitele.es/directo/telecinco
 #EXTINF:-1 group-title="TDT",La Sexta
-http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219033
+https://www.atresplayer.com/directos/lasexta/
 #EXTINF:-1 group-title="TDT",CANAL SUR
-http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219035
+https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 group-title="TDT",NEOX
-http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219036
+https://www.atresplayer.com/directos/neox/
 #EXTINF:-1 group-title="TDT",ENERGY
-http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219037
+https://www.mitele.es/directo/energy
 #EXTINF:-1 group-title="TDT",MEGA
-http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219039
+https://www.atresplayer.com/directos/mega/
 #EXTINF:-1 group-title="TDT",NOVA
-http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219041
+https://www.atresplayer.com/directos/nova/
 #EXTINF:-1 group-title="TDT",DIVINITY
-http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219042
+https://www.mitele.es/directo/divinity
 #EXTINF:-1 group-title="TDT",BE MAD
-http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219045
-#EXTINF:-1 group-title="TDT",TEN
-http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219047
-#EXTINF:-1 group-title="TDT",DKISS
-http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219048
+https://www.mitele.es/directo/bemad
 #EXTINF:-1 group-title="TDT",TRECE
-http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219049
-#EXTINF:-1 group-title="TDT",DMAX
-http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219050
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
 #EXTINF:-1  group-title="TDT",TELEDEPORTE
-http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/219052
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125703/master.m3u8
+#EXTINF:-1  group-title="TDT",ATRESERIES
+https://www.atresplayer.com/directos/atreseries/
+#EXTINF:-1  group-title="TDT",FDF
+https://www.mitele.es/directo/fdf
+#EXTINF:-1  group-title="TDT",GOL
+https://www.goltelevision.com/en-directo
