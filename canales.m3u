@@ -32,7 +32,7 @@ http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/283963
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/283965
 #EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-accion.jpg" group-title="Cine",M+ Acción
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284010
-#EXTINF:-1 tvg-logo="https://www.logo.wine/a/logo/Movistar_Cine_Espa%C3%B1ol/Movistar_Cine_Espa%C3%B1ol-Logo.wine.svg" group-title="Cine",M+ Cine Español
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1200px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="Cine",M+ Cine Español
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284031
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cl%C3%A1sicos_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Cl%C3%A1sicos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Cine",M+ Clásicos
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/596
@@ -115,31 +115,31 @@ http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/64
 plugin://script.module.horus?action=play&id=d00223931b1854163e24c5c22475015d7d45c112
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Deportes_por_Movistar_Plus%2B.svg/revision/latest/scale-to-width-down/250?cb=20220128151147" group-title="Deportes",M+ Deportes
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/302252
-#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Deportes 2
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/354/622/png-transparent-movistar-deportes-2-halle-open-sport-movistar-futbol-bein-sport-television-blue-text.png" group-title="Deportes",M+ Deportes 2
 plugin://script.module.horus?action=play&id=e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Deportes 2
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/354/622/png-transparent-movistar-deportes-2-halle-open-sport-movistar-futbol-bein-sport-television-blue-text.png" group-title="Deportes",M+ Deportes 2
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/302253
-#EXTINF:-1 tvg-logo="" group-title="Deportes",Movistar Plus+
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg" group-title="Deportes",Movistar Plus+
 plugin://script.module.horus?action=play&id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
-#EXTINF:-1 tvg-logo="" group-title="Deportes",Movistar Plus+
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg" group-title="Deportes",Movistar Plus+
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/756
-#EXTINF:-1 tvg-logo="" group-title="Deportes",EUROSPORT 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png" group-title="Deportes",EUROSPORT 1
 plugin://script.module.horus?action=play&id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 tvg-logo="" group-title="Deportes",EUROSPORT 1 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png" group-title="Deportes",EUROSPORT 1 
 http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/151423
-#EXTINF:-1 tvg-logo="" group-title="Deportes",EUROSPORT 2
+#EXTINF:-1 tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-2-logo-vector.png" group-title="Deportes",EUROSPORT 2
 plugin://script.module.horus?action=play&id=c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 tvg-logo="" group-title="Deportes",EUROSPORT 2 
+#EXTINF:-1 tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-2-logo-vector.png" group-title="Deportes",EUROSPORT 2 
 http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/151426
-#EXTINF:-1 tvg-logo="" group-title="Deportes",Sport tv 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/1280px-Logo_SportTV.svg.png" group-title="Deportes",Sport tv 1
 plugin://script.module.horus?action=play&id=ce235921dac95e1da2dd5e54673c2fecb9e806de
-#EXTINF:-1 tvg-logo="" group-title="Deportes",Sport tv 2
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vpwuyu1470409212.png" group-title="Deportes",Sport tv 2
 plugin://script.module.horus?action=play&id=396d82ca6f5445abcd32e6b609d67e332ee12ace
-#EXTINF:-1 tvg-logo="" group-title="Deportes",Sport tv 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sport_TV3_%282023%29.svg/2560px-Sport_TV3_%282023%29.svg.png" group-title="Deportes",Sport tv 3
 plugin://script.module.horus?action=play&id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
-#EXTINF:-1 tvg-logo="" group-title="Deportes",Bein Sport Ñ
+#EXTINF:-1 tvg-logo="https://futbollibreenvivo.org/wp-content/uploads/2023/09/Ver-Bein-Sports-N-Sports-en-Vivo.png" group-title="Deportes",Bein Sport Ñ
 plugin://script.module.horus?action=play&id=41af6926a6010b68ba2540975761436bb077748f
-#EXTINF:-1 tvg-logo="" group-title="Deportes",NBA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="Deportes",NBA TV
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/31816
 
 
