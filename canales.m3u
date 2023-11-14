@@ -1,4 +1,9 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51smfN5zsML.png",Guía TV
+https://www.movistarplus.es/programacion-tv
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="Documentales",Historia
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284091
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2560px-Natgeologo.svg.png" group-title="Documentales",National Geographic
