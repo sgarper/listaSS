@@ -1,52 +1,52 @@
 #EXTM3U
-#EXTINF:-1 group-title="Documentales",Historia
+#EXTINF:-1 tvg-logo="" group-title="Documentales",Historia
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284091
-#EXTINF:-1 group-title="Documentales",National Geographic
+#EXTINF:-1 tvg-logo="" group-title="Documentales",National Geographic
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284095
-#EXTINF:-1 group-title="Documentales",Nat Geo Wild
+#EXTINF:-1 tvg-logo="" group-title="Documentales",Nat Geo Wild
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284099
-#EXTINF:-1 group-title="Documentales",M+ Documentales
+#EXTINF:-1 tvg-logo="" group-title="Documentales",M+ Documentales
 http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/215330
-#EXTINF:-1 group-title="Documentales",Odisea
+#EXTINF:-1 tvg-logo="" group-title="Documentales",Odisea
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284094
-#EXTINF:-1 group-title="Documentales",Canal cocina
+#EXTINF:-1 tvg-logo="" group-title="Documentales",Canal cocina
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284086
 
 
 
-#EXTINF:-1 group-title="Cine",Hollywood
+#EXTINF:-1 tvg-logo="" group-title="Cine",Hollywood
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284019
-#EXTINF:-1 group-title="Cine",SYFY
+#EXTINF:-1 tvg-logo="" group-title="Cine",SYFY
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/283976
-#EXTINF:-1 group-title="Cine",TCM
+#EXTINF:-1 tvg-logo="" group-title="Cine",TCM
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284022
-#EXTINF:-1 group-title="Cine",AMC
+#EXTINF:-1 tvg-logo="" group-title="Cine",AMC
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/283970
-#EXTINF:-1 group-title="Cine",AXN
+#EXTINF:-1 tvg-logo="" group-title="Cine",AXN
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/283967
-#EXTINF:-1 group-title="Cine",AXN Movies
+#EXTINF:-1 tvg-logo="" group-title="Cine",AXN Movies
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/283969
-#EXTINF:-1 group-title="Cine",Calle 13
+#EXTINF:-1 tvg-logo="" group-title="Cine",Calle 13
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/283963
-#EXTINF:-1 group-title="Cine",FOX
+#EXTINF:-1 tvg-logo="" group-title="Cine",FOX
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/283965
-#EXTINF:-1 group-title="Cine",M+ Acción
+#EXTINF:-1 tvg-logo="" group-title="Cine",M+ Acción
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284010
-#EXTINF:-1 group-title="Cine",M+ Cine Español
+#EXTINF:-1 tvg-logo="" group-title="Cine",M+ Cine Español
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284031
-#EXTINF:-1 group-title="Cine",M+ Clásicos
+#EXTINF:-1 tvg-logo="" group-title="Cine",M+ Clásicos
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/596
-#EXTINF:-1 group-title="Cine",M+ Comedia
+#EXTINF:-1 tvg-logo="" group-title="Cine",M+ Comedia
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284016
-#EXTINF:-1 group-title="Cine",M+ Drama
+#EXTINF:-1 tvg-logo="" group-title="Cine",M+ Drama
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284013
-#EXTINF:-1 group-title="Cine",Sundance
+#EXTINF:-1 tvg-logo="" group-title="Cine",Sundance
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284026
-#EXTINF:-1 group-title="Cine",XTRM
+#EXTINF:-1 tvg-logo="" group-title="Cine",XTRM
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284029
-#EXTINF:-1 group-title="Cine",Warner TV
+#EXTINF:-1 tvg-logo="" group-title="Cine",Warner TV
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/283973
-#EXTINF:-1 group-title="Cine",M+ Cine
+#EXTINF:-1 tvg-logo="" group-title="Cine",M+ Cine
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284008
 
 
@@ -63,83 +63,83 @@ http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284008
 
 
 
-#EXTINF:-1 group-title="Deportes",M+ LALIGA TV 
+#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ LALIGA TV 
 plugin://script.module.horus?action=play&id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title="Deportes",M+ LALIGA TV
+#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ LALIGA TV
 plugin://script.module.horus?action=play&id=f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 group-title="Deportes",M+ LALIGA TV 
+#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ LALIGA TV 
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/347
-#EXTINF:-1 group-title="Deportes",DAZN LALIGA
+#EXTINF:-1 tvg-logo="" group-title="Deportes",DAZN LALIGA
 plugin://script.module.horus?action=play&id=1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title="Deportes",DAZN LALIGA
+#EXTINF:-1 tvg-logo="" group-title="Deportes",DAZN LALIGA
 plugin://script.module.horus?action=play&id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
-#EXTINF:-1 group-title="Deportes",DAZN LALIGA
+#EXTINF:-1 tvg-logo="" group-title="Deportes",DAZN LALIGA
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/326
-#EXTINF:-1 group-title="Deportes",DAZN LALIGA 2
+#EXTINF:-1 tvg-logo="" group-title="Deportes",DAZN LALIGA 2
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/339
-#EXTINF:-1 group-title="Deportes",M+ Liga de Campeones
+#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Liga de Campeones
 plugin://script.module.horus?action=play&id=931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 group-title="Deportes",M+ Liga de Campeones
+#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Liga de Campeones
 plugin://script.module.horus?action=play&id=e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 group-title="Deportes",M+ Liga de Campeones 
+#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Liga de Campeones 
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/478
-#EXTINF:-1 group-title="Deportes",M+ Liga de Campeones 2
+#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Liga de Campeones 2
 plugin://script.module.horus?action=play&id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 group-title="Deportes",M+ Liga de Campeones 2 
+#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Liga de Campeones 2 
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/490
-#EXTINF:-1 group-title="Deportes",M+ Liga de Campeones 3
+#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Liga de Campeones 3
 plugin://script.module.horus?action=play&id=ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 group-title="Deportes",M+ Liga de Campeones 3
+#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Liga de Campeones 3
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/497
-#EXTINF:-1 group-title="Deportes",M+ Liga de Campeones 4
+#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Liga de Campeones 4
 plugin://script.module.horus?action=play&id=f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 group-title="Deportes",M+ Liga de Campeones 4
+#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Liga de Campeones 4
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/47252
-#EXTINF:-1 group-title="Deportes",DAZN 1
+#EXTINF:-1 tvg-logo="" group-title="Deportes",DAZN 1
 plugin://script.module.horus?action=play&id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title="Deportes",DAZN 1
+#EXTINF:-1 tvg-logo="" group-title="Deportes",DAZN 1
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/305
-#EXTINF:-1 group-title="Deportes",DAZN 2
+#EXTINF:-1 tvg-logo="" group-title="Deportes",DAZN 2
 plugin://script.module.horus?action=play&id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title="Deportes",DAZN 2 
+#EXTINF:-1 tvg-logo="" group-title="Deportes",DAZN 2 
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/311
-#EXTINF:-1 group-title="Deportes",DAZN Liga Femenina
+#EXTINF:-1 tvg-logo="" group-title="Deportes",DAZN Liga Femenina
 plugin://script.module.horus?action=play&id=600222a4f98df80a2c0df2d60cb5ff3df9620710
-#EXTINF:-1 group-title="Deportes",M+ Vamos
+#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Vamos
 plugin://script.module.horus?action=play&id=859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title="Deportes",M+ Vamos
+#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Vamos
 plugin://script.module.horus?action=play&id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 group-title="Deportes",M+ Vamos
+#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Vamos
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/643
-#EXTINF:-1 group-title="Deportes",M+ Deportes
+#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Deportes
 plugin://script.module.horus?action=play&id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="Deportes",M+ Deportes
+#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Deportes
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/302252
-#EXTINF:-1 group-title="Deportes",M+ Deportes 2
+#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Deportes 2
 plugin://script.module.horus?action=play&id=e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title="Deportes",M+ Deportes 2
+#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Deportes 2
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/302253
-#EXTINF:-1 group-title="Deportes",Movistar Plus+
+#EXTINF:-1 tvg-logo="" group-title="Deportes",Movistar Plus+
 plugin://script.module.horus?action=play&id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
-#EXTINF:-1 group-title="Deportes",Movistar Plus+
+#EXTINF:-1 tvg-logo="" group-title="Deportes",Movistar Plus+
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/756
-#EXTINF:-1 group-title="Deportes",EUROSPORT 1
+#EXTINF:-1 tvg-logo="" group-title="Deportes",EUROSPORT 1
 plugin://script.module.horus?action=play&id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title="Deportes",EUROSPORT 1 
+#EXTINF:-1 tvg-logo="" group-title="Deportes",EUROSPORT 1 
 http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/151423
-#EXTINF:-1 group-title="Deportes",EUROSPORT 2
+#EXTINF:-1 tvg-logo="" group-title="Deportes",EUROSPORT 2
 plugin://script.module.horus?action=play&id=c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title="Deportes",EUROSPORT 2 
+#EXTINF:-1 tvg-logo="" group-title="Deportes",EUROSPORT 2 
 http://cloud.cdn-proxy.win:2052/ovhess/JzwQaZ2x9BNU/151426
-#EXTINF:-1 group-title="Deportes",Sport tv 1
+#EXTINF:-1 tvg-logo="" group-title="Deportes",Sport tv 1
 plugin://script.module.horus?action=play&id=ce235921dac95e1da2dd5e54673c2fecb9e806de
-#EXTINF:-1 group-title="Deportes",Sport tv 2
+#EXTINF:-1 tvg-logo="" group-title="Deportes",Sport tv 2
 plugin://script.module.horus?action=play&id=396d82ca6f5445abcd32e6b609d67e332ee12ace
-#EXTINF:-1 group-title="Deportes",Sport tv 3
+#EXTINF:-1 tvg-logo="" group-title="Deportes",Sport tv 3
 plugin://script.module.horus?action=play&id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
-#EXTINF:-1 group-title="Deportes",Bein Sport Ñ
+#EXTINF:-1 tvg-logo="" group-title="Deportes",Bein Sport Ñ
 plugin://script.module.horus?action=play&id=41af6926a6010b68ba2540975761436bb077748f
-#EXTINF:-1 group-title="Deportes",NBA TV
+#EXTINF:-1 tvg-logo="" group-title="Deportes",NBA TV
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/31816
 
 
@@ -154,43 +154,43 @@ http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/31
 
 
 
-#EXTINF:-1 group-title="TDT",Canal 24H
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2399px-Logo_TVE-24h.svg.png" group-title="TDT",Canal 24H
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 group-title="TDT",La 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Logo_TVE-1.svg" group-title="TDT",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1 group-title="TDT",La 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="TDT",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
-#EXTINF:-1 group-title="TDT",Antena 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Antena_3.svg/200px-Antena_3.svg.png" group-title="TDT",Antena 3
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/283995
-#EXTINF:-1 group-title="TDT",Cuatro
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/2560px-Logotipo_de_Cuatro.svg.png" group-title="TDT",Cuatro
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/283999
-#EXTINF:-1 group-title="TDT",Telecinco
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/1200px-Telecinco.svg.png" group-title="TDT",Telecinco
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284002
-#EXTINF:-1 group-title="TDT",La Sexta
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/712px-La_Sexta_%28A3M%29.svg.png" group-title="TDT",La Sexta
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284005
-#EXTINF:-1 group-title="TDT",CANAL SUR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/CanalSurTvAnd.svg" group-title="TDT",CANAL SUR
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
-#EXTINF:-1 group-title="TDT",NEOX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2560px-Neox.svg.png" group-title="TDT",NEOX
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/283982
-#EXTINF:-1 group-title="TDT",ENERGY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Energy_c%C3%ADrculo.svg/2048px-Energy_c%C3%ADrculo.svg.png" group-title="TDT",ENERGY
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284083
-#EXTINF:-1 group-title="TDT",MEGA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png" group-title="TDT",MEGA
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284082
-#EXTINF:-1 group-title="TDT",NOVA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/2560px-Nova.svg.png" group-title="TDT",NOVA
 https://www.atresplayer.com/directos/nova/
-#EXTINF:-1 group-title="TDT",DIVINITY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Divinity_TV.png" group-title="TDT",DIVINITY
 https://www.mitele.es/directo/divinity
-#EXTINF:-1 group-title="TDT",BE MAD
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.audiovisual451.com/wp-content/uploads/be-mad-logo-nuevo.jpg?fit=300%2C236&ssl=1" group-title="TDT",BE MAD
 https://www.mitele.es/directo/bemad
-#EXTINF:-1 group-title="TDT",TRECE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/2560px-Trece.svg.png" group-title="TDT",TRECE
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
-#EXTINF:-1  group-title="TDT",TELEDEPORTE
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" group-title="TDT",TELEDEPORTE
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125703/master.m3u8
-#EXTINF:-1  group-title="TDT",ATRESERIES
+#EXTINF:-1  tvg-logo="https://www.audiovisual451.com/wp-content/uploads/atreseries-logo-h.jpg" group-title="TDT",ATRESERIES
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/236019
-#EXTINF:-1  group-title="TDT",FDF
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="TDT",FDF
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/283980
-#EXTINF:-1  group-title="TDT",GOL
+#EXTINF:-1  tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png" group-title="TDT",GOL
 https://www.goltelevision.com/en-directo
 
 
@@ -210,17 +210,17 @@ https://www.goltelevision.com/en-directo
 
 
 
-#EXTINF:-1 group-title="Daryl Dixon",Daryl Dixon 1
+#EXTINF:-1 tvg-logo="" group-title="Daryl Dixon",Daryl Dixon 1
 https://upstream.to/aasn61s9izqv
-#EXTINF:-1 group-title="Daryl Dixon",Daryl Dixon 2
+#EXTINF:-1 tvg-logo="" group-title="Daryl Dixon",Daryl Dixon 2
 https://upstream.to/j3easi34q4d7
-#EXTINF:-1 group-title="Daryl Dixon",Daryl Dixon 3
+#EXTINF:-1 tvg-logo="" group-title="Daryl Dixon",Daryl Dixon 3
 https://upstream.to/831kf8sd0lx7
-#EXTINF:-1 group-title="Daryl Dixon",Daryl Dixon 4
+#EXTINF:-1 tvg-logo="" group-title="Daryl Dixon",Daryl Dixon 4
 https://upstream.to/yf8daqo5xah6
-#EXTINF:-1 group-title="Daryl Dixon",Daryl Dixon 5
+#EXTINF:-1 tvg-logo="" group-title="Daryl Dixon",Daryl Dixon 5
 https://upstream.to/a60i3tvjgkz9
-#EXTINF:-1 group-title="Daryl Dixon",Daryl Dixon 6
+#EXTINF:-1 tvg-logo="" group-title="Daryl Dixon",Daryl Dixon 6
 https://upstream.to/0sdo32bmyn6b
 
 
@@ -231,27 +231,27 @@ https://upstream.to/0sdo32bmyn6b
 
 
 
-#EXTINF:-1 group-title="NBA",Blazers vs Lakers 12/11/2023
+#EXTINF:-1 tvg-logo="" group-title="NBA",Blazers vs Lakers 12/11/2023
 https://ok.ru/video/7048319470110
-#EXTINF:-1 group-title="NBA",Timberwolves vs Golden State Warriors 12/11/2023
+#EXTINF:-1 tvg-logo="" group-title="NBA",Timberwolves vs Golden State Warriors 12/11/2023
 https://ok.ru/video/7048182958622
-#EXTINF:-1 group-title="NBA",Oklahoma vs Phoenix Suns 12/11/2023
+#EXTINF:-1 tvg-logo="" group-title="NBA",Oklahoma vs Phoenix Suns 12/11/2023
 https://ok.ru/video/7048282835486
-#EXTINF:-1 group-title="NBA",Miami Heat vs San Antonio Spurs 12/11/2023
+#EXTINF:-1 tvg-logo="" group-title="NBA",Miami Heat vs San Antonio Spurs 12/11/2023
 https://ok.ru/video/7048190495262
-#EXTINF:-1 group-title="NBA",Dallas Mavericks vs New Orleans Pelicans 12/11/2023
+#EXTINF:-1 tvg-logo="" group-title="NBA",Dallas Mavericks vs New Orleans Pelicans 12/11/2023
 https://ok.ru/video/7048163822110
-#EXTINF:-1 group-title="NBA",Denver Nuggets vs Houston Rockets 12/11/2023
+#EXTINF:-1 tvg-logo="" group-title="NBA",Denver Nuggets vs Houston Rockets 12/11/2023
 https://ok.ru/video/7048190429726
-#EXTINF:-1 group-title="NBA",Detroit Pistons vs Chicago Bulls 12/11/2023
+#EXTINF:-1 tvg-logo="" group-title="NBA",Detroit Pistons vs Chicago Bulls 12/11/2023
 https://ok.ru/video/7048153664030
-#EXTINF:-1 group-title="NBA",Indiana Pacers vs Philadelphia 76ers 12/11/2023
+#EXTINF:-1 tvg-logo="" group-title="NBA",Indiana Pacers vs Philadelphia 76ers 12/11/2023
 https://ok.ru/video/7048145078814
-#EXTINF:-1 group-title="NBA",Memphis Grizzlies vs LA Clippers 12/11/2023
+#EXTINF:-1 tvg-logo="" group-title="NBA",Memphis Grizzlies vs LA Clippers 12/11/2023
 https://ok.ru/video/7047428573726
-#EXTINF:-1 group-title="NBA",Washington Wizards vs Brooklyn Nets 12/11/2023
+#EXTINF:-1 tvg-logo="" group-title="NBA",Washington Wizards vs Brooklyn Nets 12/11/2023
 https://ok.ru/video/7047428639262
-#EXTINF:-1 group-title="NBA",Charlotte Hornets vs New York Knicks 12/11/2023
+#EXTINF:-1 tvg-logo="" group-title="NBA",Charlotte Hornets vs New York Knicks 12/11/2023
 https://ok.ru/video/7047300319774
 
 
@@ -259,5 +259,5 @@ https://ok.ru/video/7047300319774
 
 
 
-#EXTINF:-1 group-title="NBA",Programación
-https://www.tvguia.es/
+#EXTINF:-1 tvg-logo="" group-title="NBA",Programación
+https://www.movistarplus.es/guiamovil
