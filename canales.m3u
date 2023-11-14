@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51smfN5zsML.png",Guía TV
-https://www.tvguia.es/mobile/programacion-tv
+https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="Documentales",Historia
