@@ -64,7 +64,7 @@ http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284008
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/LaLiga_TV_Por_M%2B_Logo.png/800px-LaLiga_TV_Por_M%2B_Logo.png" group-title="Deportes",M+ LALIGA TV 
-plugin://script.module.horus?action=play&id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
+acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/LaLiga_TV_Por_M%2B_Logo.png/800px-LaLiga_TV_Por_M%2B_Logo.png" group-title="Deportes",M+ LALIGA TV
 plugin://script.module.horus?action=play&id=f031f5728b32f6089dda28edebe990cf198108d8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/LaLiga_TV_Por_M%2B_Logo.png/800px-LaLiga_TV_Por_M%2B_Logo.png" group-title="Deportes",M+ LALIGA TV 
