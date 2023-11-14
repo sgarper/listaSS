@@ -1,52 +1,52 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="Documentales",Historia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="Documentales",Historia
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284091
-#EXTINF:-1 tvg-logo="" group-title="Documentales",National Geographic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2560px-Natgeologo.svg.png" group-title="Documentales",National Geographic
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284095
-#EXTINF:-1 tvg-logo="" group-title="Documentales",Nat Geo Wild
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/640px-National_Geographic_Wild_logo.svg.png" group-title="Documentales",Nat Geo Wild
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284099
-#EXTINF:-1 tvg-logo="" group-title="Documentales",M+ Documentales
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/07/documentales_mplus.jpg" group-title="Documentales",M+ Documentales
 http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/215330
-#EXTINF:-1 tvg-logo="" group-title="Documentales",Odisea
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5fce4a1ce5cb4c30585fc191/1607357496902-AUZABDCGXQ6HJNSL5B9L/odisea-logo.png" group-title="Documentales",Odisea
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284094
-#EXTINF:-1 tvg-logo="" group-title="Documentales",Canal cocina
+#EXTINF:-1 tvg-logo="https://canalcocina.es/images/canalcocina.png" group-title="Documentales",Canal cocina
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284086
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Cine",Hollywood
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Canal_Hollywood.png" group-title="Cine",Hollywood
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284019
-#EXTINF:-1 tvg-logo="" group-title="Cine",SYFY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" group-title="Cine",SYFY
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/283976
-#EXTINF:-1 tvg-logo="" group-title="Cine",TCM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Cine",TCM
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284022
-#EXTINF:-1 tvg-logo="" group-title="Cine",AMC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/2560px-AMC_logo_2019.svg.png" group-title="Cine",AMC
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/283970
-#EXTINF:-1 tvg-logo="" group-title="Cine",AXN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/AXN_Logo.PNG/798px-AXN_Logo.PNG" group-title="Cine",AXN
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/283967
-#EXTINF:-1 tvg-logo="" group-title="Cine",AXN Movies
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/AXN_Movies_logo.svg/revision/latest/scale-to-width-down/300?cb=20230503221113" group-title="Cine",AXN Movies
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/283969
-#EXTINF:-1 tvg-logo="" group-title="Cine",Calle 13
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Calle13_logo.svg/640px-Calle13_logo.svg.png" group-title="Cine",Calle 13
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/283963
-#EXTINF:-1 tvg-logo="" group-title="Cine",FOX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/FOX_ESPA%C3%91A_LOGO.png" group-title="Cine",FOX
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/283965
-#EXTINF:-1 tvg-logo="" group-title="Cine",M+ Acción
+#EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-accion.jpg" group-title="Cine",M+ Acción
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284010
-#EXTINF:-1 tvg-logo="" group-title="Cine",M+ Cine Español
+#EXTINF:-1 tvg-logo="https://www.logo.wine/a/logo/Movistar_Cine_Espa%C3%B1ol/Movistar_Cine_Espa%C3%B1ol-Logo.wine.svg" group-title="Cine",M+ Cine Español
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284031
-#EXTINF:-1 tvg-logo="" group-title="Cine",M+ Clásicos
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cl%C3%A1sicos_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Cl%C3%A1sicos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Cine",M+ Clásicos
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/596
-#EXTINF:-1 tvg-logo="" group-title="Cine",M+ Comedia
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Movistar_Comedia.svg/revision/latest/scale-to-width-down/1200?cb=20171026152407" group-title="Cine",M+ Comedia
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284016
-#EXTINF:-1 tvg-logo="" group-title="Cine",M+ Drama
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1200px-Movistar_Drama.svg.png" group-title="Cine",M+ Drama
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284013
-#EXTINF:-1 tvg-logo="" group-title="Cine",Sundance
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/SundanceTVlogo.png" group-title="Cine",Sundance
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284026
-#EXTINF:-1 tvg-logo="" group-title="Cine",XTRM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png" group-title="Cine",XTRM
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284029
-#EXTINF:-1 tvg-logo="" group-title="Cine",Warner TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png" group-title="Cine",Warner TV
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/283973
-#EXTINF:-1 tvg-logo="" group-title="Cine",M+ Cine
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/799px-Movistar_DCine.svg.png" group-title="Cine",M+ Cine
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284008
 
 
@@ -63,57 +63,57 @@ http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284008
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ LALIGA TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/LaLiga_TV_Por_M%2B_Logo.png/800px-LaLiga_TV_Por_M%2B_Logo.png" group-title="Deportes",M+ LALIGA TV 
 plugin://script.module.horus?action=play&id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ LALIGA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/LaLiga_TV_Por_M%2B_Logo.png/800px-LaLiga_TV_Por_M%2B_Logo.png" group-title="Deportes",M+ LALIGA TV
 plugin://script.module.horus?action=play&id=f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ LALIGA TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/LaLiga_TV_Por_M%2B_Logo.png/800px-LaLiga_TV_Por_M%2B_Logo.png" group-title="Deportes",M+ LALIGA TV 
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/347
-#EXTINF:-1 tvg-logo="" group-title="Deportes",DAZN LALIGA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/640px-DAZN_LaLiga_logo.svg.png" group-title="Deportes",DAZN LALIGA
 plugin://script.module.horus?action=play&id=1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 tvg-logo="" group-title="Deportes",DAZN LALIGA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/640px-DAZN_LaLiga_logo.svg.png" group-title="Deportes",DAZN LALIGA
 plugin://script.module.horus?action=play&id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
-#EXTINF:-1 tvg-logo="" group-title="Deportes",DAZN LALIGA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/640px-DAZN_LaLiga_logo.svg.png" group-title="Deportes",DAZN LALIGA
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/326
-#EXTINF:-1 tvg-logo="" group-title="Deportes",DAZN LALIGA 2
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-2-color.png?fit=440%2C264&ssl=1" group-title="Deportes",DAZN LALIGA 2
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/339
-#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Liga de Campeones
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png" group-title="Deportes",M+ Liga de Campeones
 plugin://script.module.horus?action=play&id=931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Liga de Campeones
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png" group-title="Deportes",M+ Liga de Campeones
 plugin://script.module.horus?action=play&id=e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Liga de Campeones 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png" group-title="Deportes",M+ Liga de Campeones 
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/478
-#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Liga de Campeones 2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mplus-liga-de-campeones-2-es.png" group-title="Deportes",M+ Liga de Campeones 2
 plugin://script.module.horus?action=play&id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Liga de Campeones 2 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mplus-liga-de-campeones-2-es.png" group-title="Deportes",M+ Liga de Campeones 2 
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/490
-#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Liga de Campeones 3
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mplus-liga-de-campeones-3-es.png" group-title="Deportes",M+ Liga de Campeones 3
 plugin://script.module.horus?action=play&id=ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Liga de Campeones 3
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mplus-liga-de-campeones-3-es.png" group-title="Deportes",M+ Liga de Campeones 3
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/497
-#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Liga de Campeones 4
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mplus-liga-de-campeones-4-es.png" group-title="Deportes",M+ Liga de Campeones 4
 plugin://script.module.horus?action=play&id=f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Liga de Campeones 4
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mplus-liga-de-campeones-4-es.png" group-title="Deportes",M+ Liga de Campeones 4
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/47252
-#EXTINF:-1 tvg-logo="" group-title="Deportes",DAZN 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="Deportes",DAZN 1
 plugin://script.module.horus?action=play&id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 tvg-logo="" group-title="Deportes",DAZN 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="Deportes",DAZN 1
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/305
-#EXTINF:-1 tvg-logo="" group-title="Deportes",DAZN 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="Deportes",DAZN 2
 plugin://script.module.horus?action=play&id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 tvg-logo="" group-title="Deportes",DAZN 2 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="Deportes",DAZN 2 
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/311
-#EXTINF:-1 tvg-logo="" group-title="Deportes",DAZN Liga Femenina
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/09/Liga-F.jpg" group-title="Deportes",DAZN Liga Femenina
 plugin://script.module.horus?action=play&id=600222a4f98df80a2c0df2d60cb5ff3df9620710
-#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Vamos
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Deportes",M+ Vamos
 plugin://script.module.horus?action=play&id=859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Vamos
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Deportes",M+ Vamos
 plugin://script.module.horus?action=play&id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Vamos
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Deportes",M+ Vamos
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/643
-#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Deportes
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Deportes_por_Movistar_Plus%2B.svg/revision/latest/scale-to-width-down/250?cb=20220128151147" group-title="Deportes",M+ Deportes
 plugin://script.module.horus?action=play&id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Deportes
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Deportes_por_Movistar_Plus%2B.svg/revision/latest/scale-to-width-down/250?cb=20220128151147" group-title="Deportes",M+ Deportes
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/302252
 #EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Deportes 2
 plugin://script.module.horus?action=play&id=e6f06d697f66a8fa606c4d61236c24b0d604d917
@@ -156,7 +156,7 @@ http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/31
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2399px-Logo_TVE-24h.svg.png" group-title="TDT",Canal 24H
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Logo_TVE-1.svg" group-title="TDT",La 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="TDT",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="TDT",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
@@ -168,7 +168,7 @@ http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/283999
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284002
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/712px-La_Sexta_%28A3M%29.svg.png" group-title="TDT",La Sexta
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284005
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/CanalSurTvAnd.svg" group-title="TDT",CANAL SUR
+#EXTINF:-1 tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/canal-sur-logo-png-transparent.png" group-title="TDT",CANAL SUR
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2560px-Neox.svg.png" group-title="TDT",NEOX
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/283982
