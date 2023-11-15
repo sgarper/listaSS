@@ -1,53 +1,56 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="Documentales",Historia
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284091
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55609&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2560px-Natgeologo.svg.png" group-title="Documentales",National Geographic
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284095
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55613&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/640px-National_Geographic_Wild_logo.svg.png" group-title="Documentales",Nat Geo Wild
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284099
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55611&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/07/documentales_mplus.jpg" group-title="Documentales",M+ Documentales
-http://proiptvdigic.com:8080/tviritv/td6522SNAtHt/215330
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/451957
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5fce4a1ce5cb4c30585fc191/1607357496902-AUZABDCGXQ6HJNSL5B9L/odisea-logo.png" group-title="Documentales",Odisea
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284094
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55597&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:-1 tvg-logo="https://canalcocina.es/images/canalcocina.png" group-title="Documentales",Canal cocina
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284086
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336463
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Canal_Hollywood.png" group-title="Cine",Hollywood
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284019
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336338
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" group-title="Cine",SYFY
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/283976
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336329
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Cine",TCM
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284022
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/2560px-AMC_logo_2019.svg.png" group-title="Cine",AMC
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/283970
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336323
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/AXN_Logo.PNG/798px-AXN_Logo.PNG" group-title="Cine",AXN
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/283967
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336316v
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/AXN_Movies_logo.svg/revision/latest/scale-to-width-down/300?cb=20230503221113" group-title="Cine",AXN Movies
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/283969
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336324
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Calle13_logo.svg/640px-Calle13_logo.svg.png" group-title="Cine",Calle 13
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/283963
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336336
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/FOX_ESPA%C3%91A_LOGO.png" group-title="Cine",FOX
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/283965
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336327
 #EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-accion.jpg" group-title="Cine",M+ Acción
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284010
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336294
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1200px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="Cine",M+ Cine Español
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284031
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336310
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cl%C3%A1sicos_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Cl%C3%A1sicos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Cine",M+ Clásicos
-http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/596
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336313
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Movistar_Comedia.svg/revision/latest/scale-to-width-down/1200?cb=20171026152407" group-title="Cine",M+ Comedia
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284016
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336297
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1200px-Movistar_Drama.svg.png" group-title="Cine",M+ Drama
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284013
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336300
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/SundanceTVlogo.png" group-title="Cine",Sundance
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284026
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336346
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png" group-title="Cine",XTRM
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284029
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336454
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png" group-title="Cine",Warner TV
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/283973
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336340
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/799px-Movistar_DCine.svg.png" group-title="Cine",M+ Cine
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284008
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336292
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Suspense_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Suspense_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Cine",M+ Suspense
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336292
+
 
 
 
@@ -110,7 +113,7 @@ plugin://script.module.horus?action=play&id=859bb6295b8d0f224224d3063d9db7cdeca0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Deportes",M+ Vamos
 plugin://script.module.horus?action=play&id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Deportes",M+ Vamos
-http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/643
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336421
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Deportes_por_Movistar_Plus%2B.svg/revision/latest/scale-to-width-down/250?cb=20220128151147" group-title="Deportes",M+ Deportes
 plugin://script.module.horus?action=play&id=d00223931b1854163e24c5c22475015d7d45c112
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Deportes_por_Movistar_Plus%2B.svg/revision/latest/scale-to-width-down/250?cb=20220128151147" group-title="Deportes",M+ Deportes
@@ -177,21 +180,21 @@ http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284083
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png" group-title="TDT",MEGA
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284082
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/2560px-Nova.svg.png" group-title="TDT",NOVA
-https://www.atresplayer.com/directos/nova/
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336195
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Divinity_TV.png" group-title="TDT",DIVINITY
-https://www.mitele.es/directo/divinity
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336197
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.audiovisual451.com/wp-content/uploads/be-mad-logo-nuevo.jpg?fit=300%2C236&ssl=1" group-title="TDT",BE MAD
-https://www.mitele.es/directo/bemad
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336201
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/2560px-Trece.svg.png" group-title="TDT",TRECE
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" group-title="TDT",TELEDEPORTE
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125703/master.m3u8
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336887
 #EXTINF:-1  tvg-logo="https://www.audiovisual451.com/wp-content/uploads/atreseries-logo-h.jpg" group-title="TDT",ATRESERIES
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/236019
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="TDT",FDF
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/283980
 #EXTINF:-1  tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png" group-title="TDT",GOL
-https://www.goltelevision.com/en-directo
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336890
 
 
 
