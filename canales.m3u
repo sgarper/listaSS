@@ -596,7 +596,7 @@ https://upstream.to/0sdo32bmyn6b
 
 
 #EXTINF:-1 tvg-logo="" group-title="NBA",Spurs vs Denver Nuggets 26 Nov
-http://ok.ru/web-api/video/moviePlayer/7279773026902
+acestream://https://ok.ru/video/7279773026902
 #EXTINF:-1 tvg-logo="" group-title="NBA",Phoenix Suns vs New York Knicks 26 Nov
 https://ok.ru/video/7279772895830
 #EXTINF:-1 tvg-logo="" group-title="NBA",Lakers vs Philadelphia 76ers 27 Nov
