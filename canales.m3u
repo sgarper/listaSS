@@ -1,4 +1,84 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Canal_Hollywood.png" group-title="Cine",Hollywood
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336338
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" group-title="Cine",SYFY
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336329
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Cine",TCM
+http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284022
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/2560px-AMC_logo_2019.svg.png" group-title="Cine",AMC
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336323
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="ES: AMC BREAK HD" tvg-logo="https://i.postimg.cc/DZzg9zRD/Dise-o-sin-t-tulo-43.png" group-title="Cine",AMC BREAK
+http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/23973
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC CRIME  ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/fy21GFH7/Dise-o-sin-t-tulo-31.png" group-title="Cine",AMC CRIME
+http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/24945
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/AXN_Logo.PNG/798px-AXN_Logo.PNG" group-title="Cine",AXN
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336316v
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/AXN_Movies_logo.svg/revision/latest/scale-to-width-down/300?cb=20230503221113" group-title="Cine",AXN Movies
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336324
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Calle13_logo.svg/640px-Calle13_logo.svg.png" group-title="Cine",Calle 13
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336336
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/FOX_ESPA%C3%91A_LOGO.png" group-title="Cine",FOX
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336327
+#EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-accion.jpg" group-title="Cine",M+ Acción
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336294
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQYRvXTq/Dise-o-sin-t-tulo-7.png" group-title="Cine",M+ Drama
+http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/609
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8nhKZcP/Dise-o-sin-t-tulo-20.png" group-title="Cine",TCM
+http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/615
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1200px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="Cine",M+ Cine Español
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336310
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cl%C3%A1sicos_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Cl%C3%A1sicos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Cine",M+ Clásicos
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336313
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Movistar_Comedia.svg/revision/latest/scale-to-width-down/1200?cb=20171026152407" group-title="Cine",M+ Comedia
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336297
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1200px-Movistar_Drama.svg.png" group-title="Cine",M+ Drama
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336300
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/SundanceTVlogo.png" group-title="Cine",Sundance
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336346
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png" group-title="Cine",XTRM
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336454
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png" group-title="Cine",Warner TV
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336340
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/799px-Movistar_DCine.svg.png" group-title="Cine",M+ Cine
+http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/590
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Suspense_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Suspense_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Cine",M+ Suspense
+http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336292
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJ1nwKK1/Dise-o-sin-t-tulo-33.png" group-title="Cine",TNT
+http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/2818
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Deportes Kodi",M+ Vamos
 plugin://script.module.horus?action=play&id=859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Deportes Kodi",M+ Vamos
@@ -145,52 +225,7 @@ http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336463
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Canal_Hollywood.png" group-title="Cine",Hollywood
-http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336338
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" group-title="Cine",SYFY
-http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336329
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Cine",TCM
-http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/284022
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/2560px-AMC_logo_2019.svg.png" group-title="Cine",AMC
-http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336323
-#EXTINF:-1 tvg-id="AMC Crime" tvg-name="ES: AMC BREAK HD" tvg-logo="https://i.postimg.cc/DZzg9zRD/Dise-o-sin-t-tulo-43.png" group-title="Cine",AMC BREAK
-http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/23973
-#EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC CRIME  ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/fy21GFH7/Dise-o-sin-t-tulo-31.png" group-title="Cine",AMC CRIME
-http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/24945
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/AXN_Logo.PNG/798px-AXN_Logo.PNG" group-title="Cine",AXN
-http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336316v
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/AXN_Movies_logo.svg/revision/latest/scale-to-width-down/300?cb=20230503221113" group-title="Cine",AXN Movies
-http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336324
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Calle13_logo.svg/640px-Calle13_logo.svg.png" group-title="Cine",Calle 13
-http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336336
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/FOX_ESPA%C3%91A_LOGO.png" group-title="Cine",FOX
-http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336327
-#EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-accion.jpg" group-title="Cine",M+ Acción
-http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336294
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQYRvXTq/Dise-o-sin-t-tulo-7.png" group-title="Cine",M+ Drama
-http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/609
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8nhKZcP/Dise-o-sin-t-tulo-20.png" group-title="Cine",TCM
-http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/615
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1200px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="Cine",M+ Cine Español
-http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336310
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cl%C3%A1sicos_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Cl%C3%A1sicos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Cine",M+ Clásicos
-http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336313
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Movistar_Comedia.svg/revision/latest/scale-to-width-down/1200?cb=20171026152407" group-title="Cine",M+ Comedia
-http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336297
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1200px-Movistar_Drama.svg.png" group-title="Cine",M+ Drama
-http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336300
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/SundanceTVlogo.png" group-title="Cine",Sundance
-http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336346
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png" group-title="Cine",XTRM
-http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336454
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png" group-title="Cine",Warner TV
-http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336340
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/799px-Movistar_DCine.svg.png" group-title="Cine",M+ Cine
-http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/590
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Suspense_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Suspense_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Cine",M+ Suspense
-http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336292
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJ1nwKK1/Dise-o-sin-t-tulo-33.png" group-title="Cine",TNT
-http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/2818
+
 
 
 
@@ -572,9 +607,9 @@ acestream://d00223931b1854163e24c5c22475015d7d45c112
 acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Deportes_por_Movistar_Plus%2B.svg/revision/latest/scale-to-width-down/250?cb=20220128151147" group-title="Deportes IPTV PRO",M+ Deportes
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/302252
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/354/622/png-transparent-movistar-Deportes-2-halle-open-sport-movistar-futbol-bein-sport-television-blue-text.png" group-title="Deportes IPTV PRO",M+ Deportes 2
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/354/622/png-transparent-movistar-deportes-2-halle-open-sport-movistar-futbol-bein-sport-television-blue-text.png" group-title="Deportes IPTV PRO",M+ Deportes 2
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/354/622/png-transparent-movistar-Deportes-2-halle-open-sport-movistar-futbol-bein-sport-television-blue-text.png" group-title="Deportes IPTV PRO",M+ Deportes 2
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/354/622/png-transparent-movistar-deportes-2-halle-open-sport-movistar-futbol-bein-sport-television-blue-text.png" group-title="Deportes IPTV PRO",M+ Deportes 2
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/302253
 #EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg" group-title="Deportes IPTV PRO",Movistar Plus+
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
@@ -698,17 +733,17 @@ http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/31
 
 
 #EXTINF:-1 tvg-logo="" group-title="Daryl Dixon",Daryl Dixon 1
-https://upstream.to/aasn61s9izqv
+https://upstream.to/41xbm307zmdv
 #EXTINF:-1 tvg-logo="" group-title="Daryl Dixon",Daryl Dixon 2
-https://upstream.to/j3easi34q4d7
+https://upstream.to/gn6rrt59kgq0
 #EXTINF:-1 tvg-logo="" group-title="Daryl Dixon",Daryl Dixon 3
-https://upstream.to/831kf8sd0lx7
+https://upstream.to/xrx29z7vphmp
 #EXTINF:-1 tvg-logo="" group-title="Daryl Dixon",Daryl Dixon 4
-https://upstream.to/yf8daqo5xah6
+https://upstream.to/6z32pn3dt2h8
 #EXTINF:-1 tvg-logo="" group-title="Daryl Dixon",Daryl Dixon 5
-https://upstream.to/a60i3tvjgkz9
+https://upstream.to/ylxm4glep2q1
 #EXTINF:-1 tvg-logo="" group-title="Daryl Dixon",Daryl Dixon 6
-https://upstream.to/0sdo32bmyn6b
+https://upstream.to/508vmv1qmje4
 
 
 
