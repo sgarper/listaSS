@@ -2,7 +2,7 @@
 "name": "Mi lista",
 "author": "",
 "image": "",
-"url": "https://pastebin.com/88ZShstX",
+"url": "https://github.com/sgarper/listaSS/edit/main/listaPastebin.m3u",
 "telegram": "",
 "info":"",
 "groups":
@@ -10,7 +10,7 @@
 {
 "name": "Deportes",
 "image": "https://w7.pngwing.com/pngs/235/824/png-transparent-drawing-others-sport-logo-sports-equipment.png",
-"url": "https://pastebin.com/vfQeVnUa",
+"url": "https://raw.githubusercontent.com/sgarper/listaSS/main/depor.m3u",
 "info":"",
 "import": false
 },
@@ -30,19 +30,13 @@
 {
 "name": "NBA",
 "image": "https://www.icesi.edu.co/marketingzone/wp-content/uploads/2022/02/NBA-logo-baloncesto-historia-deporte-estados-unidos.jpg",
-"url": "https://raw.githubusercontent.com/sgarper/proyecto_peli5/main/peli5",
+"url": "https://raw.githubusercontent.com/sgarper/listaSS/main/enebea.m3u",
 "import": false
 },
 {
 "name": "Cine",
 "image": "https://previews.123rf.com/images/sn333g/sn333g1503/sn333g150300006/37453368-cine-logo-roll-vector-cine-negro-y-la-pel%C3%ADcula-elemento-de-dise%C3%B1o-o-el-icono.jpg",
 "url": "https://pastebin.com/GEuXvWW9",
-"import": false
-},
-{
-"name": "Naturaleza",
-"image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Bow_Lake_beim_Icefields_Parkway.jpg",
-"url": "https://pastebin.com/5b6266j1",
 "import": false
 }
 ]
