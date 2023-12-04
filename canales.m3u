@@ -700,8 +700,24 @@ acestream://a16d6f1dd93430fd43989a56ccde41bd3b41bada
 
 
 
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/lal.png" group-title="Los Angeles Lakers",
-acestream://
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/lal.png" group-title="Los Angeles Lakers",Lakers vs Denver 
+acestream://1df6ad0bd23f40cd4ef355bdd73366867b9cba9e
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/lal.png" group-title="Los Angeles Lakers",Lakers vs Suns
+acestream://61adaf896b1504a2f031974dd1e0122f01c80e4f
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/lal.png" group-title="Los Angeles Lakers",Lakers vs Miami
+acestream://e0398f42ade1c3987985a03a25bf7446e2471e59
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/lal.png" group-title="Los Angeles Lakers",Lakers vs Oklahoma
+acestream://bed714867586abb5e8e3f0764004a3228c3a7e6b
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/lal.png" group-title="Los Angeles Lakers",Lakers vs Sacramento
+acestream://bdf2c040a5bc636e88882f9a67df17883e7402a5
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/lal.png" group-title="Los Angeles Lakers",Lakers vs Orlando
+acestream://e465a893750b88887e9aeb2e84855f8f787fcacc
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/lal.png" group-title="Los Angeles Lakers",Lakers vs Portland
+acestream://1e3bc9165fafa5cd6e4cbd6e073c13526a87ad79
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/lal.png" group-title="Los Angeles Lakers",Lakers vs Rockets
+acestream://96d5cb623abe208b8fb9c07ef2cf833e7ba6d439
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/lal.png" group-title="Los Angeles Lakers",Lakers vs Pistons
+acestream://894a43613c009e1676be3b0f596245c85c7951d9
 
 
 
