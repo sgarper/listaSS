@@ -1,0 +1,49 @@
+{
+"name": "Mi lista",
+"author": "",
+"image": "",
+"url": "https://pastebin.com/88ZShstX",
+"telegram": "",
+"info":"",
+"groups":
+[
+{
+"name": "Deportes",
+"image": "https://w7.pngwing.com/pngs/235/824/png-transparent-drawing-others-sport-logo-sports-equipment.png",
+"url": "https://pastebin.com/vfQeVnUa",
+"info":"",
+"import": false
+},
+{
+"name": "Movistar +",
+"image": "https://androidpc.es/wp-content/uploads/2016/10/movistar-plus-logo.jpg",
+"url": "https://pastebin.com/3QDjRd3A",
+"info":"",
+"import": false
+},
+{
+"name": "Pluto TV",
+"image": "https://logodownload.org/wp-content/uploads/2021/05/pluto-tv-logo-0.png",
+"url": "https://pastebin.com/jSi6Ye2P",
+"import": false
+},
+{
+"name": "NBA",
+"image": "https://www.icesi.edu.co/marketingzone/wp-content/uploads/2022/02/NBA-logo-baloncesto-historia-deporte-estados-unidos.jpg",
+"url": "https://raw.githubusercontent.com/sgarper/proyecto_peli5/main/peli5",
+"import": false
+},
+{
+"name": "Cine",
+"image": "https://previews.123rf.com/images/sn333g/sn333g1503/sn333g150300006/37453368-cine-logo-roll-vector-cine-negro-y-la-pel%C3%ADcula-elemento-de-dise%C3%B1o-o-el-icono.jpg",
+"url": "https://pastebin.com/GEuXvWW9",
+"import": false
+},
+{
+"name": "Naturaleza",
+"image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Bow_Lake_beim_Icefields_Parkway.jpg",
+"url": "https://pastebin.com/5b6266j1",
+"import": false
+}
+]
+}
