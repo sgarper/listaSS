@@ -703,6 +703,40 @@ acestream://e9108e53cf9cd4b627cd6cd0dad6c529900e1bd8
 
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/web/nop-sac/1200x628.png" group-title="Torneo NBA",New Orleans Pelicans vs Sacramento Kings
+acestream://d7aebb19dba016396715ec7e5ab97186d6c4b0dc
+#EXTINF:-1 tvg-logo="https://whdh.com/wp-content/uploads/sites/3/2021/11/Celtics-v-Indiana-Pacers.png" group-title="Torneo NBA",Boston Celtics vs Indiana Pacers
+acestream://435caf14bdff5755f04442df3cf4711c51fd7384
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/800px-Boston_Celtics.svg.png" group-title="Boston Celtics",Celtics vs Knicks
 acestream://062f5020f1a96475b5022659139e870f0664d63b
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/800px-Boston_Celtics.svg.png" group-title="Boston Celtics",Celtics vs Wizards
