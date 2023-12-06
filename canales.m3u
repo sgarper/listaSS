@@ -712,8 +712,10 @@ acestream://e9108e53cf9cd4b627cd6cd0dad6c529900e1bd8
 acestream://d7aebb19dba016396715ec7e5ab97186d6c4b0dc
 #EXTINF:-1 tvg-logo="https://whdh.com/wp-content/uploads/sites/3/2021/11/Celtics-v-Indiana-Pacers.png" group-title="Torneo NBA",Boston Celtics vs Indiana Pacers
 acestream://435caf14bdff5755f04442df3cf4711c51fd7384
-
-
+#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/web/mil-nyk/1200x628.png" group-title="Torneo NBA",New York Knicks vs Milwaukee Bucks
+acestream://688db236ba58a7dbb7d983d2c51a91bb88b14a01
+#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/web/phx-lal/1200x628.png" group-title="Torneo NBA",Phoenix Suns vs Los Angeles Lakers
+acestream://75ed7008b2edb8fb5d9b7cfab4b8433f6aac384d
 
 
 
