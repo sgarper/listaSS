@@ -128,50 +128,7 @@ acestream://fbb161dab3dab4c4eabee44157643a82123104e7
 acestream://
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/La_jungla_Un_buen_daia_para_morir-815402463-mmed.jpg" group-title="Películas",La Jungla de cristal 5
 acestream://ef11472dae836659a67979a465e85f2e39e18e0d
-#EXTINF:-1 tvg-logo="" group-title="Películas",
-acestream://
-#EXTINF:-1 tvg-logo="" group-title="Películas",
-acestream://
-#EXTINF:-1 tvg-logo="" group-title="Películas",
-acestream://
-#EXTINF:-1 tvg-logo="" group-title="Películas",
-acestream://
-#EXTINF:-1 tvg-logo="" group-title="Películas",
-acestream://
-#EXTINF:-1 tvg-logo="" group-title="Películas",
-acestream://
-#EXTINF:-1 tvg-logo="" group-title="Películas",
-acestream://
-#EXTINF:-1 tvg-logo="" group-title="Películas",
-acestream://
-#EXTINF:-1 tvg-logo="" group-title="Películas",
-acestream://
-#EXTINF:-1 tvg-logo="" group-title="Películas",
-acestream://
-#EXTINF:-1 tvg-logo="" group-title="Películas",
-acestream://
-#EXTINF:-1 tvg-logo="" group-title="Películas",
-acestream://
-#EXTINF:-1 tvg-logo="" group-title="Películas",
-acestream://
-#EXTINF:-1 tvg-logo="" group-title="Películas",
-acestream://
-#EXTINF:-1 tvg-logo="" group-title="Películas",
-acestream://
-#EXTINF:-1 tvg-logo="" group-title="Películas",
-acestream://
-#EXTINF:-1 tvg-logo="" group-title="Películas",
-acestream://
-#EXTINF:-1 tvg-logo="" group-title="Películas",
-acestream://
-#EXTINF:-1 tvg-logo="" group-title="Películas",
-acestream://
-#EXTINF:-1 tvg-logo="" group-title="Películas",
-acestream://
-#EXTINF:-1 tvg-logo="" group-title="Películas",
-acestream://
-#EXTINF:-1 tvg-logo="" group-title="Películas",
-acestream://
+
 
 
 
@@ -840,6 +797,37 @@ acestream://688db236ba58a7dbb7d983d2c51a91bb88b14a01
 acestream://75ed7008b2edb8fb5d9b7cfab4b8433f6aac384d
 #EXTINF:-1 tvg-logo="https://www.lineups.com/wp-content/uploads/2018/12/lakers-vs-new-orleans-pelicans.jpg" group-title="Torneo NBA",New Orleans Pelicans vs Los Angeles Lakers
 acestream://de741d78ccb2202c34b757241e5b9c20a4f467c5
+#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/web/phx-lal/1200x628.png" group-title="Torneo NBA",Pacers vs Los Angeles Lakers (Final)
+acestream://b1d6710ba275c07c6007b16089c51ac7a60818b5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/dal.png" group-title="Dallas Mavericks",Dallas Mavericks vs Spurs
+acestream://f8027fcbe9bf3f1cf6d3332e2ecb0ed55f3ae21c
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/dal.png" group-title="Dallas Mavericks",Dallas Mavericks vs Nets
+acestream://fe8a19dc7650823fb8c090a00605fe8d0de2498a
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/dal.png" group-title="Dallas Mavericks",Dallas Mavericks vs Denver
+acestream://fe37b13e80d5ee0395607ff63db6b2386762b25d
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/dal.png" group-title="Dallas Mavericks",Dallas Mavericks vs Clippers
+acestream://1e7765f2058e750c2ce92ab1f332a8daa4979998
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/dal.png" group-title="Dallas Mavericks",Dallas Mavericks vs Lakers
+acestream://a56d301ff61339ec3ab595bef75ca75f4fcd421f
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/dal.png" group-title="Dallas Mavericks",Dallas Mavericks vs Rockets
+acestream://cfc2682110eddb176cd175ae33f63e952a07d0e8
 
 
 
@@ -863,6 +851,9 @@ acestream://de741d78ccb2202c34b757241e5b9c20a4f467c5
 
 
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/800px-Boston_Celtics.svg.png" group-title="Boston Celtics",Celtics vs Knicks (08.12.2023)
+acestream://2e45da5d0641c64fdd95adb332072be8be67b97c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/800px-Boston_Celtics.svg.png" group-title="Boston Celtics",Celtics vs Knicks
 acestream://062f5020f1a96475b5022659139e870f0664d63b
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/800px-Boston_Celtics.svg.png" group-title="Boston Celtics",Celtics vs Wizards
@@ -923,6 +914,10 @@ acestream://1e3bc9165fafa5cd6e4cbd6e073c13526a87ad79
 acestream://96d5cb623abe208b8fb9c07ef2cf833e7ba6d439
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/lal.png" group-title="Los Angeles Lakers",Lakers vs Pistons
 acestream://894a43613c009e1676be3b0f596245c85c7951d9
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/lal.png" group-title="Los Angeles Lakers",Lakers vs Oklahoma
+acestream://bed714867586abb5e8e3f0764004a3228c3a7e6b
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/lal.png" group-title="Los Angeles Lakers",Lakers vs Rockets
+acestream://e502fa93c7bd0ca20840baf0d16b2e0911a011b1
 
 
 
@@ -971,3 +966,48 @@ acestream://476787399b512eb145f9f0a304ff2107f98f2e15
 acestream://df9f06030be22bae89ee5f907557cd9742e9e205
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Los_Angeles_Clippers_%282015%29.svg/1200px-Los_Angeles_Clippers_%282015%29.svg.png" group-title="Los Angeles Clippers",Clippers vs Kings
 acestream://336d3c6d75421a7a109c1d87ea9caa4e55971105
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Los_Angeles_Clippers_%282015%29.svg/1200px-Los_Angeles_Clippers_%282015%29.svg.png" group-title="Los Angeles Clippers",Clippers vs Utah
+acestream://84b92ce1d465dc0d574b27ae839e9526562e8c94
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Los_Angeles_Clippers_%282015%29.svg/1200px-Los_Angeles_Clippers_%282015%29.svg.png" group-title="Los Angeles Clippers",Clippers vs Warriors
+acestream://1fc796ce18e02d661efc4bac231cb1fb6c9a75e3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Los_Angeles_Clippers_%282015%29.svg/1200px-Los_Angeles_Clippers_%282015%29.svg.png" group-title="Los Angeles Clippers",Clippers vs Warriors (2)
+acestream://a108dd2024cfa756c6c83c998ae8f8d501806d10
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Los_Angeles_Clippers_%282015%29.svg/1200px-Los_Angeles_Clippers_%282015%29.svg.png" group-title="Los Angeles Clippers",Clippers vs Denver
+acestream://c5770bac1459219349c9a8ace346a27bf9128abd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
