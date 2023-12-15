@@ -263,7 +263,10 @@ acestream://fbb161dab3dab4c4eabee44157643a82123104e7
 acestream://
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/La_jungla_Un_buen_daia_para_morir-815402463-mmed.jpg" group-title="Películas",La Jungla de cristal 5
 acestream://ef11472dae836659a67979a465e85f2e39e18e0d
-
+#EXTINF:-1 tvg-logo="" group-title="Películas",Rambo 1 (1982)
+acestream://3483a227edb80ce8e90d3b94eda20ef3b250eed7
+#EXTINF:-1 tvg-logo="" group-title="Películas",Rambo 2 (1982)
+acestream://
 
 
 
@@ -312,6 +315,34 @@ acestream://e3b6a68d48214967bbab60845bc4f407e54681fb
 
 
 
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Hannibal-562632903-large.jpg" group-title="Ray Liotta",Hannibal (2001)
+acestream://ea7d86cf903d269a6f422a51c8a99ecd055c4b5f
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Blow-915639959-large.jpg" group-title="Ray Liotta",Blow (2001)
+acestream://83f1571e236ea691dc9cf684ab00388c1bb00fda
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/goodfellas-343032101-mmed.jpg" group-title="Ray Liotta",Uno de los nuestros (1990)
+acestream://ca589f19c3f4e74e0cbd87e77fdfc7d7599603d9
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/06/20/11/47/379037.jpg" group-title="Ray Liotta",Cruce de caminos (2013)
+acestream://3c8dd4c81c994babad701b69334b66957f7eb779
+#EXTINF:-1 tvg-logo="https://media.s-bol.com/YEpBkZ6qyN4n/550x781.jpg" group-title="Ray Liotta",Copland (1997)
+acestream://138d0fbf105f979405aeb23bd664617bd03d611a
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Narc-182334762-mmed.jpg" group-title="Ray Liotta",Narc (2002)
+acestream://d247f882ccc79480c088e7c8aad5567601b0778d
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Giro_inesperado-967180145-large.jpg" group-title="Ray Liotta",Giro inesperado (2004)
+acestream://d246ab3120e70fff97bf25305ff8ebe45930ec9d
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Revaolver-650966552-large.jpg" group-title="Ray Liotta",Revolver (2005)
+acestream://05393af987ebd6b028104b9939b9a8de76e851a0
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Territorio_prohibido-728384027-large.jpg" group-title="Ray Liotta",Territorio prohibido (2009)
+acestream://6aa2b969e673089fe9b30ded006d94a0472f9c16
 
 
 
