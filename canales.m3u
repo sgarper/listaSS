@@ -307,22 +307,42 @@ acestream://
 
 
 
-#EXTINF:-1 tvg-logo="https://musicart.xboxlive.com/7/e0691100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080" group-title="Denzel Washington",American Gangster (2007)
+#EXTINF:-1 tvg-logo="" group-title="Denzel Washington",American Gangster (2007)
 acestream://eb49e511e49247f931e8d80e0c6dfd92af83fde4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Training_Day_Daia_de_entrenamiento-607055595-large.jpg" group-title="Denzel Washington",Training Day (2001)
+#EXTINF:-1 tvg-logo="" group-title="Denzel Washington",Training Day (2001)
 acestream://b78ff813e6312eedfb20632134bf083889b24e82
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Plan_oculto-670690065-large.jpg" group-title="Denzel Washington",Plan oculto (2006)
+#EXTINF:-1 tvg-logo="" group-title="Denzel Washington",Plan oculto (2006)
 acestream://b704e07c40bc632eb28f5986f77c3454a9f67354
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/John_Q-976001140-large.jpg" group-title="Denzel Washington",John Q (2002)
+#EXTINF:-1 tvg-logo="" group-title="Denzel Washington",John Q (2002)
 acestream://6df61a62e761face39fec9e511bbd02f5c5ed4f4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Equalizer_El_protector-961970449-large.jpg" group-title="Denzel Washington",El protector 1 (2014)
+#EXTINF:-1 tvg-logo="" group-title="Denzel Washington",El protector 1 (2014)
 acestream://07976284b8df36328ee956c825e9d163b23fb63e
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHAiNu6yeuPvLldic1GloTiZCgajppO-bQckFvbfZ9PoKMz9Yq7xDW2kSlUBpDJrMdNBU&usqp=CAU" group-title="Denzel Washington",El protector 2 (2018)
+#EXTINF:-1 tvg-logo="" group-title="Denzel Washington",El protector 2 (2018)
 acestream://b1ba5188f0abdc79657f1aa2534b82236c242c8b
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Equalizer_3-693991367-large.jpg" group-title="Denzel Washington",El protector 3 (2023)
+#EXTINF:-1 tvg-logo="" group-title="Denzel Washington",El protector 3 (2023)
 acestream://96e6f8a44e582fcdc74b6f6febfab3ceb50a83ec
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_vuelo_Flight-310651017-large.jpg" group-title="Denzel Washington",El vuelo (2012)
+#EXTINF:-1 tvg-logo="" group-title="Denzel Washington",El vuelo (2012)
 acestream://e3b6a68d48214967bbab60845bc4f407e54681fb
+#EXTINF:-1 tvg-logo="" group-title="Denzel Washington",Imparable (2010)
+acestream://776ac5c29ddb0921c975717ad00685b293e31150
+#EXTINF:-1 tvg-logo="" group-title="Denzel Washington",A contrarreloj (2003)
+acestream://4237dbfbe0a1c5c433ed4a928f4f110c356a0350
+#EXTINF:-1 tvg-logo="" group-title="Denzel Washington",Los siete magníficos (2016)
+acestream://8a9576db0175dd360f3e21f218610e3adb480d28
+#EXTINF:-1 tvg-logo="" group-title="Denzel Washington",El mensajero del miedo (2004)
+acestream://3fa779269d04d2f9fe5f68ecba04923a2e2df3bc
+#EXTINF:-1 tvg-logo="" group-title="Denzel Washington",Déjà Vu (2006)
+acestream://05244de4e5f4caabd8615f86df936fc051f0a15f
+#EXTINF:-1 tvg-logo="" group-title="Denzel Washington",El informe Pelícano (2003)
+acestream://325b6c79d88f5b9f89950863b8c351d127fdfc1d
+#EXTINF:-1 tvg-logo="" group-title="Denzel Washington",Titanes, hicieron historia (2000)
+acestream://3f534ba62b2fe62f32a4a15ca5b3002ddc86f0ca
+#EXTINF:-1 tvg-logo="" group-title="Denzel Washington",Tiempos de gloria (1989)
+acestream://093893f8eb149bba7cbb2e296af50fa35fa32dd9
+#EXTINF:-1 tvg-logo="" group-title="Denzel Washington",El fuego de la venganza (2004)
+acestream://7e7e098d57eff058579eb52dcf9db1b76edce1d3
+#EXTINF:-1 tvg-logo="" group-title="Denzel Washington",Philadelphia (1993)
+acestream://8d4dcfdc460235ce82cc17aa4566f07ce59043a5
 
 
 
