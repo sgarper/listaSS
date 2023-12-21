@@ -300,6 +300,20 @@ acestream://ba0fbbf575fd78af9d80c9d2baef47700eda2e28
 acestream://10c28d5df65f8601e00dfe2d999836d9a5fd2e91
 #EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Spurs vs Bucks (19.12.2023)
 acestream://f31eef03d103a85dc4811af00f5b6936eb818a92
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Lakers vs Bulls (20.12.2023)
+acestream://77bc18be3fab2c51c0befa0887ecde941b9f5f64
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Denver vs Toronto (20.12.2023)
+acestream://9b307c6fb91fdfe2ebdb0fca63e21869b29c6f0b
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Clippers vs Dallas (20.12.2023)
+acestream://639d9e09b4a0a633125cf480f0cc6b38c665b028
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Celtics vs Sacramento (20.12.2023)
+acestream://3a90a6a3e237f616e9175b966b02beba5080adfc
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Knicks vs Nets (20.12.2023)
+acestream://4ae2bcf0b1e458bf97673137225361495d0d0d26
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Minnesota vs 76ers (20.12.2023)
+acestream://87ed31d5dc551d137ee19f7513579141176f4967
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Miami vs Orlando (20.12.2023)
+acestream://528533bf8ed7f0554b314029649e48e9c6fe7856
 
 
 
@@ -1261,81 +1275,3 @@ https://i.mjh.nz/PlutoTV/609e7e423e9173000706a681-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-645a30f6f3f5b1000864ac04" tvg-id="645a30f6f3f5b1000864ac04" tvg-logo="https://images.pluto.tv/channels/645a30f6f3f5b1000864ac04/colorLogoPNG.png" tvg-chno="908" group-title="pluto" , Las Tres Mellizas
 https://i.mjh.nz/PlutoTV/645a30f6f3f5b1000864ac04-alt.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_es/screenshot/default/the-walking-dead-daryl-dixon-poster-1-683x1024_zwec.1080.png" group-title="Daryl Dixon",Daryl Dixon 1
-acestream://3e87af00746a0e4db403097b2e4b5365add1c0c7
-#EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_es/screenshot/default/the-walking-dead-daryl-dixon-poster-1-683x1024_zwec.1080.png" group-title="Daryl Dixon",Daryl Dixon 2
-acestream://9ae34756c2ff8bc907b0d8f0ef97ef2049345123
-#EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_es/screenshot/default/the-walking-dead-daryl-dixon-poster-1-683x1024_zwec.1080.png" group-title="Daryl Dixon",Daryl Dixon 3
-acestream://4fa8c36e81be70f934fd55a9d123e015e350ded4
-#EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_es/screenshot/default/the-walking-dead-daryl-dixon-poster-1-683x1024_zwec.1080.png" group-title="Daryl Dixon",Daryl Dixon 4
-acestream://d691f7bf1f744b1d23cd705eebecc604e0fb3606
-#EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_es/screenshot/default/the-walking-dead-daryl-dixon-poster-1-683x1024_zwec.1080.png" group-title="Daryl Dixon",Daryl Dixon 5
-acestream://6d742cc01d3bf5c363633fec16cc2e5bc72e065e
-#EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_es/screenshot/default/the-walking-dead-daryl-dixon-poster-1-683x1024_zwec.1080.png" group-title="Daryl Dixon",Daryl Dixon 6
-acestream://e9108e53cf9cd4b627cd6cd0dad6c529900e1bd8
