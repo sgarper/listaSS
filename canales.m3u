@@ -314,6 +314,28 @@ acestream://4ae2bcf0b1e458bf97673137225361495d0d0d26
 acestream://87ed31d5dc551d137ee19f7513579141176f4967
 #EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Miami vs Orlando (20.12.2023)
 acestream://528533bf8ed7f0554b314029649e48e9c6fe7856
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Clippers vs Oklahoma (21.12.2023)
+acestream://b8e15f81205ccd58a6feaab7736a00de3e52df55
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Orlando vs Bucks (21.12.2023)
+acestream://6c3a4fb7cb9f447f21c47f50c5f3e40f8bb688c1
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Pacers vs Grizzlies (21.12.2023)
+acestream://d222b2b397ab7ee95a7ae5e7219f16c884c0716e
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Spurs vs Chicago (21.12.2023)
+acestream://4a71012784d312c683d46d9841f5c99012787a17
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Lakers vs Minnesota (21.12.2023)
+acestream://640917594c39ad51d517da6c4339aab8a1d2f561
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Dallas vs Rockets (22.12.2023)
+acestream://f0e9527568c0a46aafc4b6cdadda91e520bb5857
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Toronto vs 76ers (22.12.2023)
+acestream://7f4cab400394714fb54e08cb2eaf0aab52fee77c
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Denver vs Nets (22.12.2023)
+acestream://9e3a4b3e550ef22a104394937903837cfb2ad1ce
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Suns vs Sacramento (22.12.2023)
+acestream://cc2e31b378d1b0f5020f17441b01d2104cd585dd
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Washington vs Warriors (22.12.2023)
+acestream://8b3dbcb353a163a95468bedfb34d4b1055a93019
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Atlanta vs Miami (22.12.2023)
+acestream://c0ae770aa00185fc9dbfbf81ac254392a6884f7f
 
 
 
@@ -580,214 +602,6 @@ https://upstream.to/ewz3oh6mh324
 
 
 
-
-#EXTINF:-1 tvg-logo="https://www.normaeditorial.com/upload/media/albumes/0001/07/thumb_6034_albumes_big.jpeg" group-title="Películas",La Jungla de cristal 1
-acestream://64df33e0521831f3d6adb956cd03b811ccdf19a7
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/La_jungla_2_Alerta_roja-650802900-large.jpg" group-title="Películas",La Jungla de cristal 2
-acestream://53047d65de95d7ad1b657ac745f933ab8f148fc2
-#EXTINF:-1 tvg-logo="https://elprofedefisica.naukas.com/files/2012/05/jungla-de-cristal-3-la-venganza.20130529111419.jpg" group-title="Películas",La Jungla de cristal 3
-acestream://fbb161dab3dab4c4eabee44157643a82123104e7
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/La_jungla_4_0-993018827-large.jpg" group-title="Películas",La Jungla de cristal 4
-acestream://
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/La_jungla_Un_buen_daia_para_morir-815402463-mmed.jpg" group-title="Películas",La Jungla de cristal 5
-acestream://ef11472dae836659a67979a465e85f2e39e18e0d
-#EXTINF:-1 tvg-logo="" group-title="Películas",Rambo 1 (1982)
-acestream://3483a227edb80ce8e90d3b94eda20ef3b250eed7
-#EXTINF:-1 tvg-logo="" group-title="Películas",Rambo 2 (1982)
-acestream://
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Denzel Washington",American Gangster (2007)
-acestream://eb49e511e49247f931e8d80e0c6dfd92af83fde4
-#EXTINF:-1 tvg-logo="" group-title="Denzel Washington",Training Day (2001)
-acestream://b78ff813e6312eedfb20632134bf083889b24e82
-#EXTINF:-1 tvg-logo="" group-title="Denzel Washington",Plan oculto (2006)
-acestream://b704e07c40bc632eb28f5986f77c3454a9f67354
-#EXTINF:-1 tvg-logo="" group-title="Denzel Washington",John Q (2002)
-acestream://6df61a62e761face39fec9e511bbd02f5c5ed4f4
-#EXTINF:-1 tvg-logo="" group-title="Denzel Washington",El protector 1 (2014)
-acestream://07976284b8df36328ee956c825e9d163b23fb63e
-#EXTINF:-1 tvg-logo="" group-title="Denzel Washington",El protector 2 (2018)
-acestream://b1ba5188f0abdc79657f1aa2534b82236c242c8b
-#EXTINF:-1 tvg-logo="" group-title="Denzel Washington",El protector 3 (2023)
-acestream://96e6f8a44e582fcdc74b6f6febfab3ceb50a83ec
-#EXTINF:-1 tvg-logo="" group-title="Denzel Washington",El vuelo (2012)
-acestream://e3b6a68d48214967bbab60845bc4f407e54681fb
-#EXTINF:-1 tvg-logo="" group-title="Denzel Washington",Imparable (2010)
-acestream://776ac5c29ddb0921c975717ad00685b293e31150
-#EXTINF:-1 tvg-logo="" group-title="Denzel Washington",A contrarreloj (2003)
-acestream://4237dbfbe0a1c5c433ed4a928f4f110c356a0350
-#EXTINF:-1 tvg-logo="" group-title="Denzel Washington",Los siete magníficos (2016)
-acestream://8a9576db0175dd360f3e21f218610e3adb480d28
-#EXTINF:-1 tvg-logo="" group-title="Denzel Washington",El mensajero del miedo (2004)
-acestream://3fa779269d04d2f9fe5f68ecba04923a2e2df3bc
-#EXTINF:-1 tvg-logo="" group-title="Denzel Washington",Déjà Vu (2006)
-acestream://05244de4e5f4caabd8615f86df936fc051f0a15f
-#EXTINF:-1 tvg-logo="" group-title="Denzel Washington",El informe Pelícano (2003)
-acestream://325b6c79d88f5b9f89950863b8c351d127fdfc1d
-#EXTINF:-1 tvg-logo="" group-title="Denzel Washington",Titanes, hicieron historia (2000)
-acestream://3f534ba62b2fe62f32a4a15ca5b3002ddc86f0ca
-#EXTINF:-1 tvg-logo="" group-title="Denzel Washington",Tiempos de gloria (1989)
-acestream://093893f8eb149bba7cbb2e296af50fa35fa32dd9
-#EXTINF:-1 tvg-logo="" group-title="Denzel Washington",El fuego de la venganza (2004)
-acestream://7e7e098d57eff058579eb52dcf9db1b76edce1d3
-#EXTINF:-1 tvg-logo="" group-title="Denzel Washington",Philadelphia (1993)
-acestream://8d4dcfdc460235ce82cc17aa4566f07ce59043a5
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Hannibal-562632903-large.jpg" group-title="Ray Liotta",Hannibal (2001)
-acestream://ea7d86cf903d269a6f422a51c8a99ecd055c4b5f
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Blow-915639959-large.jpg" group-title="Ray Liotta",Blow (2001)
-acestream://83f1571e236ea691dc9cf684ab00388c1bb00fda
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/goodfellas-343032101-mmed.jpg" group-title="Ray Liotta",Uno de los nuestros (1990)
-acestream://ca589f19c3f4e74e0cbd87e77fdfc7d7599603d9
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/06/20/11/47/379037.jpg" group-title="Ray Liotta",Cruce de caminos (2013)
-acestream://3c8dd4c81c994babad701b69334b66957f7eb779
-#EXTINF:-1 tvg-logo="https://media.s-bol.com/YEpBkZ6qyN4n/550x781.jpg" group-title="Ray Liotta",Copland (1997)
-acestream://138d0fbf105f979405aeb23bd664617bd03d611a
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Narc-182334762-mmed.jpg" group-title="Ray Liotta",Narc (2002)
-acestream://d247f882ccc79480c088e7c8aad5567601b0778d
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Giro_inesperado-967180145-large.jpg" group-title="Ray Liotta",Giro inesperado (2004)
-acestream://d246ab3120e70fff97bf25305ff8ebe45930ec9d
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Revaolver-650966552-large.jpg" group-title="Ray Liotta",Revolver (2005)
-acestream://05393af987ebd6b028104b9939b9a8de76e851a0
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Territorio_prohibido-728384027-large.jpg" group-title="Ray Liotta",Territorio prohibido (2009)
-acestream://6aa2b969e673089fe9b30ded006d94a0472f9c16
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Tommy Lee Jones",Mechanic: Resurrection (2016)
-acestream://09aefb7daf26fb7a2e1f86095083498c8514474f
-#EXTINF:-1 tvg-logo="" group-title="Tommy Lee Jones",Criminal (2016)
-acestream://5f706a08307e72f12404cc2a6a5d3958ecaaa3ce
-#EXTINF:-1 tvg-logo="" group-title="Tommy Lee Jones",En el centro de la tormenta (2009)
-acestream://43ef89d2d6dea12b4d6b0f65d799bbb385d15674
-#EXTINF:-1 tvg-logo="" group-title="Tommy Lee Jones",The Hunted (La presa) (2003)
-acestream://01298e22235b3d74d51b6e95967919b88d9668f2
-#EXTINF:-1 tvg-logo="" group-title="Tommy Lee Jones",U.S. Marshals (1998)
-acestream://8053f6f58aa3ae2526ff0cf982a6f4a86f56a4ff
-#EXTINF:-1 tvg-logo="" group-title="Tommy Lee Jones",Volar por los aires (1994)
-acestream://071401fce83860279ac2188ecaf6e973ab0f1ee9
-#EXTINF:-1 tvg-logo="" group-title="Tommy Lee Jones",Reglas de compromiso (2000)
-acestream://3c57e4d172200376cfe8b60f15e91c63f7ba5a3c
-#EXTINF:-1 tvg-logo="" group-title="Tommy Lee Jones",Doble traición (1999)
-acestream://c24447ce2c486f15053ecd7240b136492caf6974
-#EXTINF:-1 tvg-logo="" group-title="Tommy Lee Jones",Ad Astra (2019)
-acestream://1f291a3c3d4fe0e6f9ed10d01305433d58db06d2
-#EXTINF:-1 tvg-logo="" group-title="Tommy Lee Jones",Men in Black (1997)
-acestream://9e98d53d7eef1f9c1e025603697d6818823f666b
-#EXTINF:-1 tvg-logo="" group-title="Tommy Lee Jones",Lincoln (2012)
-acestream://ce57e49a899da63beb84209e52a9572379bdf8ff
-#EXTINF:-1 tvg-logo="" group-title="Tommy Lee Jones",Deuda de honor (2014)
-acestream://a078c28a9be2d494e460276007469d79bd4a1203
-#EXTINF:-1 tvg-logo="" group-title="Tommy Lee Jones",El fugitivo (1993)
-acestream://aaba31d4ea523d069357bb13fe32722efddcc9d5
-#EXTINF:-1 tvg-logo="" group-title="Tommy Lee Jones",No es país para viejos (2007)
-acestream://32606cc3c0ddce61d56d88fde62a33edb09be6ec
-#EXTINF:-1 tvg-logo="" group-title="Tommy Lee Jones",Caso abierto (1991)
-acestream://35fbcc9d0f3a077bec6389863b8f9ee6627c2f14
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Canal_Hollywood.png" group-title="Cine",Hollywood
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178135
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" group-title="Cine",SYFY
@@ -832,36 +646,6 @@ http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/59
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178099
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJ1nwKK1/Dise-o-sin-t-tulo-33.png" group-title="Cine",TNT
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/2818
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/274973837/s718/planeta-tierra-ii.jpg" group-title="Planeta Tierra 2(Documental)",Capítulo 1
-acestream://28663b3a242cd856b332e23a8626d43cc70256b0
-#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/274973837/s718/planeta-tierra-ii.jpg" group-title="Planeta Tierra 2(Documental)",Capítulo 2
-acestream://91da9d8251f6bea602baace9712ccb943264e5b2
-#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/274973837/s718/planeta-tierra-ii.jpg" group-title="Planeta Tierra 2(Documental)",Capítulo 3
-acestream://71586095900aa74068fc679416eaf2c3e5a69e99
-#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/274973837/s718/planeta-tierra-ii.jpg" group-title="Planeta Tierra 2(Documental)",Capítulo 4
-acestream://f02c26961161730f00345a58ada0c59fa52d376a
-#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/274973837/s718/planeta-tierra-ii.jpg" group-title="Planeta Tierra 2(Documental)",Capítulo 5
-acestream://931c2aae57e38570d1b0f4b87de4b9ae2cfb136a
-#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/274973837/s718/planeta-tierra-ii.jpg" group-title="Planeta Tierra 2(Documental)",Capítulo 6
-acestream://40c775b6107866440dc79da84205ea06a43c3ce3
-#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/274973837/s718/planeta-tierra-ii.jpg" group-title="Planeta Tierra 2(Documental)",Capítulo 7
-acestream://fa90812bdd0e9c71f334cafccb8730b44fafe015
-
 
 
 
