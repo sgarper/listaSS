@@ -77,6 +77,8 @@ acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/311
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/F8EWer0WwAA0dLu.png:large" group-title="Deportes",DAZN F1 
 acestream://5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/F8EWer0WwAA0dLu.png:large" group-title="Deportes",DAZN F1 (4k)
+acestream://6b94479c24898700089e6b87d28a3ccc72dc4041
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/F8EWer0WwAA0dLu.png:large" group-title="Deportes",DAZN F1 
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/09/Liga-F.jpg" group-title="Deportes",DAZN Liga Femenina
@@ -99,6 +101,12 @@ acestream://f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
 acestream://41af6926a6010b68ba2540975761436bb077748f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="Deportes",NBA TV
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/31816
+#EXTINF:-1 tvg-logo="" group-title="Deportes",La 1 
+acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
+#EXTINF:-1 tvg-logo="" group-title="Deportes",La 1 (4k)
+acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
+
+
 
 
 
