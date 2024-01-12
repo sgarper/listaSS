@@ -1,8 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/3e/6b/ea/3e6beab90872d12c17ceb282eb07de96.jpg" group-title="Deportes",Movistar Supercopa de España
+acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/3e/6b/ea/3e6beab90872d12c17ceb282eb07de96.jpg" group-title="Deportes",Movistar Supercopa de España
+acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/3e/6b/ea/3e6beab90872d12c17ceb282eb07de96.jpg" group-title="Deportes",Movistar Supercopa de España
+acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Deportes",M+ Vamos
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title="Deportes",Supercopa
-acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Deportes",M+ Vamos
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Deportes",M+ Vamos
@@ -514,6 +518,17 @@ acestream://4c5a0a4981c301022582c811f39f5633fd7fc902
 acestream://f80c943759f3801f935d2496c3aa88a6281aa9e2
 #EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Pelicans vs Warriors (10.01.2024)
 acestream://29bfd880618b0e4a25a74bee4523e7333b45d664
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Celtics vs Bucks (11.01.2024)
+acestream://ce2ffb50600a5046876874e0e73afbd4c341dbed
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Knicks vs Dallas (11.01.2024)
+acestream://7646aaa9b8057316e97fd5cad4a67cd15687bb4a
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Nets vs Cleveland (11.01.2024)
+acestream://6e6b5cdef561b8cd6e6bdeac5a98ac115b53f6c1
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Suns vs Lakers (11.01.2024)
+acestream://f91655efb7167ab7917d92d218829b05f387234c
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Portland vs Oklahoma (11.01.2024)
+acestream://bfffbe26ed3300c8a83b87e95d0478b03eee749c
+
 
 
 
