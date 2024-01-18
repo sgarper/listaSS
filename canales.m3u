@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Deportes",Copa del rey
+acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d
+#EXTINF:-1 tvg-logo="" group-title="Deportes",Copa del rey
+acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
+#EXTINF:-1 tvg-logo="" group-title="Deportes",Copa del rey
+acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Deportes",M+ Vamos
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Deportes",M+ Vamos
