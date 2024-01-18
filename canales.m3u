@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/3e/6b/ea/3e6beab90872d12c17ceb282eb07de96.jpg" group-title="Deportes",Movistar Supercopa de España
-acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/3e/6b/ea/3e6beab90872d12c17ceb282eb07de96.jpg" group-title="Deportes",Movistar Supercopa de España
-acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/3e/6b/ea/3e6beab90872d12c17ceb282eb07de96.jpg" group-title="Deportes",Movistar Supercopa de España
-acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Deportes",M+ Vamos
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Deportes",M+ Vamos
@@ -146,30 +140,6 @@ acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
 
 
 
-#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Celtics vs Hornets (20.11.2023)
-acestream://8fa0b44b08e5b67ed355375bdb7fd84b8217b036
-#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Lakers vs Dallas (22.11.2023)
-acestream://a56d301ff61339ec3ab595bef75ca75f4fcd421f
-#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Clippers vs Spurs (22.11.2023)
-acestream://476787399b512eb145f9f0a304ff2107f98f2e15
-#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Celtics vs Bucks (22.11.2023)
-acestream://cf4a656c91bf5fa6d4836a47160c06fe6f13e180
-#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Dallas vs Clippers (25.11.2023)
-acestream://279a98847206d87d8f461d41bd950c6876265f73
-#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Denver vs Clippers (27.11.2023)
-acestream://df9f06030be22bae89ee5f907557cd9742e9e205
-#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Warriors vs Sacramento (28.11.2023)
-acestream://deb446d541b0751a9b17558c16fbd888de581f94
-#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Dallas vs Rockets (28.11.2023)
-acestream://cfc2682110eddb176cd175ae33f63e952a07d0e8
-#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Clippers vs Sacramento (29.11.2023)
-acestream://336d3c6d75421a7a109c1d87ea9caa4e55971105
-#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Lakers vs Pistons (29.11.2023)
-acestream://894a43613c009e1676be3b0f596245c85c7951d9
-#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Clippers vs Warriors (30.11.2023)
-acestream://1fc796ce18e02d661efc4bac231cb1fb6c9a75e3
-#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Oklahoma vs Lakers (30.11.2023)
-acestream://bed714867586abb5e8e3f0764004a3228c3a7e6b
 #EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Celtics vs 76ers (01.12.2023)
 acestream://a16d6f1dd93430fd43989a56ccde41bd3b41bada
 #EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Clippers vs Warriors (02.12.2023)
@@ -588,6 +558,25 @@ acestream://808849489da0b6e6bde163e2c4fcbb49ab245229
 acestream://adb22678206c691185aee2fc9b384d7d98f15787
 #EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Denver vs 76ers (16.01.2024)
 acestream://b5fc3fb3ce06930eb7c5f509f71dd4970d2e78f2
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Miami vs Toronto (17.01.2024)
+acestream://3f5815da2bb144e3c05af5827febb79c52ad9870
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Hornets vs Pelicans (17.01.2024)
+acestream://507bf7522048c78926c8812ca008e078bafb83b4
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Rockets vs Knicks (17.01.2024)
+acestream://7b5b12421038708b2b60c6c9f179ce328979a206
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Minnesota vs Pistons (17.01.2024)
+acestream://5a9cad792a63ae0585e222826b6bc7af528536d8
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Orlando vs Atlanta (17.01.2024)
+acestream://43822e6dd54646fc90ed87587321cd8fbc4dc331
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Dallas vs Lakers (17.01.2024)
+acestream://83dd67109fe52dfdaf7dc90ef699a9f0ddb8c4cd
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Nets vs Portland (17.01.2024)
+acestream://172823d95ace2b1f5ebc8f86d5c879197ebb6ac0
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Bucks vs Cleveland (17.01.2024)
+acestream://04d361813d1301243ece925753e663190ccc7c04
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Spurs vs Celtics (17.01.2024)
+acestream://9a26c58d43127da9132f1c9b4c9ef4ad2544f755
+
 
 
 
