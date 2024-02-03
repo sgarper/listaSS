@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="Deportes",Copa del rey
-acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d
-#EXTINF:-1 tvg-logo="" group-title="Deportes",Copa del rey
-acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
-#EXTINF:-1 tvg-logo="" group-title="Deportes",Copa del rey
-acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Deportes",M+ Vamos
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Deportes",M+ Vamos
@@ -721,6 +715,26 @@ acestream://91e0328c5c068dee328d928db79c21123148f084
 acestream://2ccb16b9382e4f9e29416c5dc537eb930df9e94e
 #EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Lakers vs Celtics (01.02.2024)
 acestream://d0b25c8977e43125940ca50a91d8256fc2064171
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Magic vs Timberwolves (02.02.2024)
+acestream://bf9ed6bc09c99f88466c4a09a8525c5f30241101
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Pelicans vs Spurs (02.02.2024)
+acestream://cbd4ca9c43d8b7602a5d8fa0e1526b6a383350e1
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Raptors vs Rockets (02.02.2024)
+acestream://4ba94fe4642b80a930be121c44e881c836af6cdf
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Kings vs Pacers (02.02.2024)
+acestream://30270ca743c029623a132893b419780795f45224
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Warriors vs Grizzlies (02.02.2024)
+acestream://71514bdb0569317f682f97388efbd722761abf76
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Suns vs Hawks (02.02.2024)
+acestream://865571905a42d37f86d5596a7384350d942fefaa
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Clippers vs Pistons (02.02.2024)
+acestream://d282cfd22c83b5551935c2ebf1d61c640cb9677c
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Blazers vs Nuggets (02.02.2024)
+acestream://32b1e1c46d5ef24a24c38f5b589dcc2733a94dea
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Heat vs Wizards (02.02.2024)
+acestream://7f8cdf1e1541d0f9296aa1f201a5c7a0f6672cc2
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Hornets vs Thunder (02.02.2024)
+acestream://de634f0b1472b6880bf899ade3dbf7c4d3cd7eea
 
 
 
