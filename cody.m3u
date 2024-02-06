@@ -77,6 +77,8 @@ plugin://script.module.horus?action=play&id=7aa402bab9fff43258fbcf401881a39475f3
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/311
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/F8EWer0WwAA0dLu.png:large" group-title="Deportes",DAZN F1 
 plugin://script.module.horus?action=play&id=5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/F8EWer0WwAA0dLu.png:large" group-title="Deportes",DAZN F1 (4k)
+plugin://script.module.horus?action=play&id=6b94479c24898700089e6b87d28a3ccc72dc4041
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/F8EWer0WwAA0dLu.png:large" group-title="Deportes",DAZN F1 
 plugin://script.module.horus?action=play&id=9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/09/Liga-F.jpg" group-title="Deportes",DAZN Liga Femenina
@@ -99,6 +101,532 @@ plugin://script.module.horus?action=play&id=f8cb9d9e3077eb3ae417b2d95a69c5f59076
 plugin://script.module.horus?action=play&id=41af6926a6010b68ba2540975761436bb077748f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="Deportes",NBA TV
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/31816
+#EXTINF:-1 tvg-logo="" group-title="Deportes",La 1 
+plugin://script.module.horus?action=play&id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
+#EXTINF:-1 tvg-logo="" group-title="Deportes",La 1 (4k)
+plugin://script.module.horus?action=play&id=6636a5c1055b5913ddcd0e87a5523f7d935350af
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Thunder vs Heat (10.01.2024)
+plugin://script.module.horus?action=play&id=5c33f4fb86a05a8d844f17717e2390b727af8fd2
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",76ers vs Hawks (10.01.2024)
+plugin://script.module.horus?action=play&id=21d715035c17ed83fbfdef95e011ffe6e2a2d482
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Nuggets vs Jazz (10.01.2024)
+plugin://script.module.horus?action=play&id=12337421ee4955ca002b6a467e7493c754268b85
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Raptors vs Clippers (10.01.2024)
+plugin://script.module.horus?action=play&id=4c5a0a4981c301022582c811f39f5633fd7fc902
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Timberwolves vs Celtics (10.01.2024)
+plugin://script.module.horus?action=play&id=f80c943759f3801f935d2496c3aa88a6281aa9e2
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Pelicans vs Warriors (10.01.2024)
+plugin://script.module.horus?action=play&id=29bfd880618b0e4a25a74bee4523e7333b45d664
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Celtics vs Bucks (11.01.2024)
+plugin://script.module.horus?action=play&id=ce2ffb50600a5046876874e0e73afbd4c341dbed
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Knicks vs Mavericks (11.01.2024)
+plugin://script.module.horus?action=play&id=7646aaa9b8057316e97fd5cad4a67cd15687bb4a
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Nets vs Cavaliers (11.01.2024)
+plugin://script.module.horus?action=play&id=6e6b5cdef561b8cd6e6bdeac5a98ac115b53f6c1
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Suns vs Lakers (11.01.2024)
+plugin://script.module.horus?action=play&id=f91655efb7167ab7917d92d218829b05f387234c
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Blazers vs Thunder (11.01.2024)
+plugin://script.module.horus?action=play&id=bfffbe26ed3300c8a83b87e95d0478b03eee749c
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Magic vs Heat (12.01.2024)
+plugin://script.module.horus?action=play&id=4a96e7613c73a0e3f85f52ff413547cc50d1c640
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Pacers vs Hawks (12.01.2024)
+plugin://script.module.horus?action=play&id=fc5ede72efeded67616fdc6826f8ce6bf9f08d3c
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Clippers vs Grizzlies (12.01.2024)
+plugin://script.module.horus?action=play&id=298eec0acb278ad4865615cfed1008a902b1c543
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Kings vs 76ers (12.01.2024)
+plugin://script.module.horus?action=play&id=6cdf69b3dd7becf0362647e3f2ad7a13c298ae86
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Pelicans vs Nuggets (12.01.2024)
+plugin://script.module.horus?action=play&id=2b2cdf97d482080dbe85cadb5ab141caca4f9771
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Blazers vs Timberwolves (12.01.2024)
+plugin://script.module.horus?action=play&id=726011e2825c2c5f09baa148af6e06d9b054d0fb
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Warriors vs Bulls (12.01.2024)
+plugin://script.module.horus?action=play&id=3755e127cfeeb8653e9035e80ede79cb5914d26c
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Lakers vs Jazz (13.01.2024)
+plugin://script.module.horus?action=play&id=a39e77f5395729550e2e540aca886b43237a962d
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Warriors vs Bucks (13.01.2024)
+plugin://script.module.horus?action=play&id=eb697764acb118c0ee2c46b4d34271f01b173ffb
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Magic vs Thunder (13.01.2024)
+plugin://script.module.horus?action=play&id=6ad68f3bdb7212f1849fa2e85245c6a37c69c354
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Knicks vs Grizzlies (13.01.2024)
+plugin://script.module.horus?action=play&id=d0977bf197ea09486b44ecda1d8463967ff9b5bf
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Pelicans vs Mavericks (13.01.2024)
+plugin://script.module.horus?action=play&id=7369ddaf83df9819feed23ff0d19e076a2bcf1fe
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Rockets vs Celtics (13.01.2024)
+plugin://script.module.horus?action=play&id=a53f8d113ff888116e40e44253e0e57282cc7d19
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Pacers vs Nuggets (14.01.2024)
+plugin://script.module.horus?action=play&id=072e91b3a3c828d9e8012f5b712dfb99fc76e2fd
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Kings vs Bucks (14.01.2024)
+plugin://script.module.horus?action=play&id=db57277e5f47ca6f3dbdac595fb829463e2c77b5
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Clippers vs Timberwolves (14.01.2024)
+plugin://script.module.horus?action=play&id=f27ff0dca265e61816851efb8cbcfa05340c2894
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Suns vs Blazers (14.01.2024)
+plugin://script.module.horus?action=play&id=5122a22e7e1c2db734b80a56f5c6b4b561022d68
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Hornets vs Heat (14.01.2024)
+plugin://script.module.horus?action=play&id=02706cdc96989d6a5410e705f0da0833b91d44f4
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Pacers vs Jazz (15.01.2024)
+plugin://script.module.horus?action=play&id=0adaedad4054abe201e811b4395090eafb8c021d
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Bulls vs Cavaliers (15.01.2024)
+plugin://script.module.horus?action=play&id=ec2a324005d23e177e3a39f93fcea9f8d47e3f4d
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Heat vs Nets (15.01.2024)
+plugin://script.module.horus?action=play&id=061e8665ac24332ac3d54baf1ae6f3ba15e6ae80
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Warriors vs Grizzlies (15.01.2024)
+plugin://script.module.horus?action=play&id=70c4220925bd91fd49425e7475ba9da7aa9db446
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Magic vs Knicks (15.01.2024)
+plugin://script.module.horus?action=play&id=fde382d9f9ef59f8b9a5cd095af430120289034d
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Pelicans vs Mavericks (15.01.2024)
+plugin://script.module.horus?action=play&id=f225eff906ed153dc8a748e2159f01098022d12e
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Rockets vs 76ers (15.01.2024)
+plugin://script.module.horus?action=play&id=541b85adbb5bf6050ba8d0226954881242deabc7
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Celtics vs Raptors (15.01.2024)
+plugin://script.module.horus?action=play&id=31a0155b93732dd40dadf5de079758bced74f5ec
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Thunder vs Lakers (15.01.2024)
+plugin://script.module.horus?action=play&id=56ccb6a00abad9d9e718ad7f2db786cf05bb845c
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Kings vs Suns (16.01.2024)
+plugin://script.module.horus?action=play&id=808849489da0b6e6bde163e2c4fcbb49ab245229
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Thunder vs Clippers (16.01.2024)
+plugin://script.module.horus?action=play&id=adb22678206c691185aee2fc9b384d7d98f15787
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Nuggets vs 76ers (16.01.2024)
+plugin://script.module.horus?action=play&id=b5fc3fb3ce06930eb7c5f509f71dd4970d2e78f2
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Heat vs Raptors (17.01.2024)
+plugin://script.module.horus?action=play&id=3f5815da2bb144e3c05af5827febb79c52ad9870
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Hornets vs Pelicans (17.01.2024)
+plugin://script.module.horus?action=play&id=507bf7522048c78926c8812ca008e078bafb83b4
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Rockets vs Knicks (17.01.2024)
+plugin://script.module.horus?action=play&id=7b5b12421038708b2b60c6c9f179ce328979a206
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Timberwolves vs Pistons (17.01.2024)
+plugin://script.module.horus?action=play&id=5a9cad792a63ae0585e222826b6bc7af528536d8
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Magic vs Hawks (17.01.2024)
+plugin://script.module.horus?action=play&id=43822e6dd54646fc90ed87587321cd8fbc4dc331
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Mavericks vs Lakers (17.01.2024)
+plugin://script.module.horus?action=play&id=83dd67109fe52dfdaf7dc90ef699a9f0ddb8c4cd
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Nets vs Blazers (17.01.2024)
+plugin://script.module.horus?action=play&id=172823d95ace2b1f5ebc8f86d5c879197ebb6ac0
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Bucks vs Cavaliers (17.01.2024)
+plugin://script.module.horus?action=play&id=04d361813d1301243ece925753e663190ccc7c04
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Spurs vs Celtics (17.01.2024)
+plugin://script.module.horus?action=play&id=9a26c58d43127da9132f1c9b4c9ef4ad2544f755
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Bulls vs Raptors (18.01.2024)
+plugin://script.module.horus?action=play&id=b92189acd8c19c5a07772eeaf34811f9bd483dd3
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Pacers vs Kings (18.01.2024)
+plugin://script.module.horus?action=play&id=abd699b39ac8c7372e7c02697102af2c617ec1e5
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Grizzlies vs Timberwolves (18.01.2024)
+plugin://script.module.horus?action=play&id=01a0b97debe947c2357f01299f9be1b112d81d29
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Wizards vs Knicks (18.01.2024)
+plugin://script.module.horus?action=play&id=1cdc30148d7ed2217d755cfa4792f92d098e3e22
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Thunder vs Jazz (18.01.2024)
+plugin://script.module.horus?action=play&id=8ca830f267e925a87f4a4640e7142f32a896cf6b
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Suns vs Pelicans (19.01.2024)
+plugin://script.module.horus?action=play&id=2e34964f4156461e67493a149102c2a5a7ef2c43
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Nuggets vs Celtics (19.01.2024)
+plugin://script.module.horus?action=play&id=4f1d1bcb62d184968278f3cc658eebcc235f7e95
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",76ers vs Magic (19.01.2024)
+plugin://script.module.horus?action=play&id=7244deb504b46d580575956cf079f3c55a25b710
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Pacers vs Blazers (19.01.2024)
+plugin://script.module.horus?action=play&id=5cb56d8bd211014f56d5945238b5d59a2daaa091
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Nets vs Lakers (19.01.2024)
+plugin://script.module.horus?action=play&id=0044731d5e19a1935cc37f606a832f6fc82d8593
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Hawks vs Heat (19.01.2024)
+plugin://script.module.horus?action=play&id=55d6edcd217d2a173909a055c83768e7a19c1266
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Jazz vs Rockets (20.01.2024)
+plugin://script.module.horus?action=play&id=bcc9aa326bf794688570aa41f440d5bf08dcd0a1
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Thunder vs Timberwolves (20.01.2024)
+plugin://script.module.horus?action=play&id=231609b0503e06a2e3abb4afad1a7e40a52758a7
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Raptors vs Knicks (20.01.2024)
+plugin://script.module.horus?action=play&id=15a8efc49afa2a5f85211f39280d5be868095f76
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Bucks vs Pistons (20.01.2024)
+plugin://script.module.horus?action=play&id=421814c6f599514abbbcf7f1131e1d712190d4fc
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",76ers vs Hornets (20.01.2024)
+plugin://script.module.horus?action=play&id=f3972e39ecc7d4fee72c1f77df3da6bf7455aef5
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Grizzlies vs Bulls (20.01.2024)
+plugin://script.module.horus?action=play&id=3ae5797bff3db14df73c2b0f1392d5d64f01f60f
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Cavaliers vs Hawks (20.01.2024)
+plugin://script.module.horus?action=play&id=f3a0db8d2a6b334fe380c1ae6325b302faeb499c
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Nuggets vs Wizards (21.01.2024)
+plugin://script.module.horus?action=play&id=7c6da72b41531ad06a52a4236cb4c3b775ec58f8
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Heat vs Magic (21.01.2024)
+plugin://script.module.horus?action=play&id=22ee8c52fc96d881a420c2efe419ed7a72c3071e
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Nets vs Clippers (21.01.2024)
+plugin://script.module.horus?action=play&id=2ff45e06068eda4e382bf840d16344c2c22df65b
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Pacers vs Suns (21.01.2024)
+plugin://script.module.horus?action=play&id=39fcb729e69eda1e2a1c567f5817cd02e09e7c4d
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Blazers vs Lakers (21.01.2024)
+plugin://script.module.horus?action=play&id=1eef7759e9d0b80716a32beb66b0fddf4757bc64
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Celtics vs Rockets (21.01.2024)
+plugin://script.module.horus?action=play&id=ae342d2af0b3d8e5759199bd1ec3e8cd4fad3b04
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Bucks vs Pistons (22.01.2024)
+plugin://script.module.horus?action=play&id=c28e642a8e9b8a5c3b9b4eb7421146f0a4107ae3
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Hawks vs Kings (22.01.2024)
+plugin://script.module.horus?action=play&id=7434ee92f5544a523bf37f3685faee9eb5ebbc9d
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Cavaliers vs Magic (22.01.2024)
+plugin://script.module.horus?action=play&id=2609899948b66bb11077ee8dac03972a34e01f16
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Grizzlies vs Raptors (22.01.2024)
+plugin://script.module.horus?action=play&id=ee31cf4a9044872092dd2dbac7b0c99838178e2d
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Bulls vs Suns (22.01.2024)
+plugin://script.module.horus?action=play&id=092cb02b8b21515499b6b8891ab31636e32bd18f
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Spurs vs 76ers (22.01.2024)
+plugin://script.module.horus?action=play&id=c38fbabcbd00f02fadc881a78b3059173fa61e07
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Hornets vs Timberwolves (22.01.2024)
+plugin://script.module.horus?action=play&id=bdee849c3fd15ce781aefc43326b5bda8c42bd88
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Celtics vs Mavericks (22.01.2024)
+plugin://script.module.horus?action=play&id=9b2cc87a88f8067bfbb4fb472f009ddc91924dc2
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Blazers vs Thunder (23.01.2024)
+plugin://script.module.horus?action=play&id=af813706311067cf3a8b4615a06a1e827546dd06
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Knicks vs Nets (23.01.2024)
+plugin://script.module.horus?action=play&id=146cf5466d1d85c10db55f27d91033561ba6e89b
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Nuggets vs Pacers (23.01.2024)
+plugin://script.module.horus?action=play&id=952c6d96be79958f4d3e3fbab6fe4be1ff9b2b4f
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Jazz vs Pelicans (23.01.2024)
+plugin://script.module.horus?action=play&id=519eeb04275c58c240aab171be368cfbc0b0b615
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Lakers vs Clippers (23.01.2024)
+plugin://script.module.horus?action=play&id=be606649ae1d21b08891620e0322a57428edf273
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Blazers vs Rockets (24.01.2024)
+plugin://script.module.horus?action=play&id=ef581ba9e86c5e2eda2ab3a6fbcbea6e169d0d52
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Grizzlies vs Heat (24.01.2024)
+plugin://script.module.horus?action=play&id=e3b421ce60e0b41bf46f0d767a11ffb3482bec81
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Timberwolves vs Wizards (24.01.2024)
+plugin://script.module.horus?action=play&id=f4c8a37f5c59a9a9995334bfcf31f6f86053f050
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Suns vs Mavericks (24.01.2024)
+plugin://script.module.horus?action=play&id=5f7dbb2f132c9288784b7f5a78257718ef9cb822
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Cavaliers vs Bucks (24.01.2024)
+plugin://script.module.horus?action=play&id=a6da56839ae6c8af4b54f740cb7d1825ba304bdc
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Thunder vs Spurs (24.01.2024)
+plugin://script.module.horus?action=play&id=aa13a80bb7fa80cdac810f52194d4b5a25de477b
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Hornets vs Pistons (24.01.2024)
+plugin://script.module.horus?action=play&id=b01c06b97359899b293d624dce125a0d6d44d259
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Hawks vs Warriors (24.01.2024)
+plugin://script.module.horus?action=play&id=c342680431ef19f83124372cf753081b40803a2a
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Timberwolves vs Nets (25.01.2024)
+plugin://script.module.horus?action=play&id=c5708d91ca9110ba73f845e71f7f1599c16aa3d4
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",76ers vs Pacers (25.01.2024)
+plugin://script.module.horus?action=play&id=ccef5a3cb12977db41eadf5eda94b887c6c06946
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Nuggets vs Knicks (25.01.2024)
+plugin://script.module.horus?action=play&id=35608bc0dfae6a358fa2dfa3dc917e5bed93fb9f
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Jazz vs Wizards (25.01.2024)
+plugin://script.module.horus?action=play&id=d9241ab50dfd6bb50017c71a957444e4a0392f35
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Bulls vs Lakers (25.01.2024)
+plugin://script.module.horus?action=play&id=b8bf4012554a3c1d119c81c40e4af380397b0674
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Celtics vs Heat (25.01.2024)
+plugin://script.module.horus?action=play&id=26d1786e1c00f07c865a8fc4e3ff7b64a2f07a23
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Kings vs Warriors (25.01.2024)
+plugin://script.module.horus?action=play&id=a45378901aebf812534055a7cf1827dd59a0e3b9
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Suns vs Pacers (26.01.2024)
+plugin://script.module.horus?action=play&id=fb91f8aa9c7b26b23d7e9ca9086abb10f95066fb
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Mavericks vs Hawks (26.01.2024)
+plugin://script.module.horus?action=play&id=b1dccacb6ff5acdaab32a5636a10023d2914ceb5
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Cavaliers vs Bucks (26.01.2024)
+plugin://script.module.horus?action=play&id=6b8434df9510f95ec6b7421c942fafcd1ea63f5e
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Thunder vs Pelicans (26.01.2024)
+plugin://script.module.horus?action=play&id=5a78ebd9083ed8429f89d789e1c462eac8fa427f
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Magic vs Grizzlies (26.01.2024)
+plugin://script.module.horus?action=play&id=45ff0919fb8dc607572a19f508f506252c631fe1
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Clippers vs Raptors (26.01.2024)
+plugin://script.module.horus?action=play&id=e1f5433d2b18b0b32e4ac05f8438a66d2158c5e5
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Heat vs Knicks (27.01.2024)
+plugin://script.module.horus?action=play&id=fac50ee89aff62da1a9b3f4c203427feb23fb80a
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Pelicans vs Bucks (27.01.2024)
+plugin://script.module.horus?action=play&id=dedb9cf8398d883a404194eaba6df29cd54905ea
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",76ers vs Nuggets (27.01.2024)
+plugin://script.module.horus?action=play&id=1ff33a49bab7e43794f8d00e73a3db492187e708
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Jazz vs Hornets (27.01.2024)
+plugin://script.module.horus?action=play&id=93d8824cb37e76a17d5116b68f619e34dba0c781
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Rockets vs Nets (27.01.2024)
+plugin://script.module.horus?action=play&id=bceb45d407f1f9ab66de242a7773a0ab9a8eef1b
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Timberwolves vs Spurs (27.01.2024)
+plugin://script.module.horus?action=play&id=72517df2a4d3db8376a6bd0ba88ba637a342f235
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Kings vs Mavericks (27.01.2024)
+plugin://script.module.horus?action=play&id=e28abc1afaac3d3c6e842fc1e7c08c7f321aa7e4
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Lakers vs Warriors (27.01.2024)
+plugin://script.module.horus?action=play&id=94ad823dd15147539163d378dbc885e3cb4d10eb
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Clippers vs Celtics (27.01.2024)
+plugin://script.module.horus?action=play&id=8e402806c2fa15434a7a66ccfb71fcfeab41a2f4
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Wizards vs Pistons (27.01.2024)
+plugin://script.module.horus?action=play&id=c228698f561c137199fa53225a0260e6c29814e9
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Bulls vs Blazers (28.01.2024)
+plugin://script.module.horus?action=play&id=c96ea1da6785140a5f57ebd0e241eba8b2d6e16d
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Suns vs Magic (28.01.2024)
+plugin://script.module.horus?action=play&id=d3b27de4ff5d28fd60dbe90c38c66479e5231cb2
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Raptors vs Hawks (28.01.2024)
+plugin://script.module.horus?action=play&id=36c4306e04352b9691511d352e390e738001aae7
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Thunder vs Pistons (28.01.2024)
+plugin://script.module.horus?action=play&id=b6a6882b7fff459925dd2d5d3ad04708d7d426fb
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Grizzlies vs Pacers (28.01.2024)
+plugin://script.module.horus?action=play&id=4dc51290314cfdab58ef945ceb20bac97bf1b8f2
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Suns vs Heat (29.01.2024)
+plugin://script.module.horus?action=play&id=07ec2640ad8dbbb80031fbb70c57f13a184a2fd8
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Jazz vs Nets (29.01.2024)
+plugin://script.module.horus?action=play&id=ddb8bf78b966956f70e58582d3723cdd1b493430
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Pelicans vs Celtics (29.01.2024)
+plugin://script.module.horus?action=play&id=39ac0188d8437e95b80a44ffb88c0f7f5d5047c8
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Bucks vs Nuggets (29.01.2024)
+plugin://script.module.horus?action=play&id=50d576466b7888702710bf6d1623195dbaa6c767
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Timberwolves vs Thunder (29.01.2024)
+plugin://script.module.horus?action=play&id=03816435164b65a6f3b97ffdb3145c1f315cf3f3
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",76ers vs Blazers (29.01.2024)
+plugin://script.module.horus?action=play&id=832bafb609abd207587a5969680c2f8d40b26dc8
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Kings vs Grizzlies (29.01.2024)
+plugin://script.module.horus?action=play&id=34918d92bf8e0cedc83f33f3dd3608977eeb1c31
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Wizards vs Spurs (29.01.2024)
+plugin://script.module.horus?action=play&id=b5330c0ade29412cd2796135a76a979005f0a70d
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Knicks vs Hornets (29.01.2024)
+plugin://script.module.horus?action=play&id=f630f87209bd90647c4f91f05c7a99986fcf1dcb
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Magic vs Mavericks (29.01.2024)
+plugin://script.module.horus?action=play&id=25c5524e5be38653b99d0cc3915fd6b5c41d7cd3
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Lakers vs Rockets (29.01.2024)
+plugin://script.module.horus?action=play&id=3f7c799945c9a350ddf9e97374f8bb3582331991
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Clippers vs Cavaliers (29.01.2024)
+plugin://script.module.horus?action=play&id=37c35a8821648f68f0b34748720e9576596d34ae
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Raptors vs Bulls (30.01.2024)
+plugin://script.module.horus?action=play&id=c804ba4eaf3616eb239c3de53dd5d0efe83b691f
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Jazz vs Knicks (30.01.2024)
+plugin://script.module.horus?action=play&id=e2224685ed8948e4bc2493f5272a549f5f85d33b
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",76ers vs Warriors (30.01.2024)
+plugin://script.module.horus?action=play&id=78230ebff312b949879238792446a24e170aee5b
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Lakers vs Hawks (30.01.2024)
+plugin://script.module.horus?action=play&id=387362e88e7aa5271dcbba377280b6cf2566bbe0
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Pacers vs Celtics (30.01.2024)
+plugin://script.module.horus?action=play&id=f862d20b793fad0118ad4e4faa31f9160cc4a639
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Bucks vs Blazers (31.01.2024)
+plugin://script.module.horus?action=play&id=1c953ccedde5b54900085891f61ce1431962ac2a
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Bulls vs Hornets (31.01.2024)
+plugin://script.module.horus?action=play&id=d79ea7638878ccb18ca8d3bfaac3899eb286b945
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Nuggets vs Thunder (31.01.2024)
+plugin://script.module.horus?action=play&id=b4a27f2b597e12b33a834e8d641ec444dceccff2
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Pelicans vs Rockets (31.01.2024)
+plugin://script.module.horus?action=play&id=e2f0822e85a380aa1274b7c44c83f8dbf4dc2251
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Pistons vs Cavaliers (31.01.2024)
+plugin://script.module.horus?action=play&id=dbefdf15b313d0021ae893189a78c1fe973b8a23
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Suns vs Nets (31.01.2024)
+plugin://script.module.horus?action=play&id=98cb5dfbc9b02abaf27bc6c0539c419503d7bf61
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Magic vs Spurs (31.01.2024)
+plugin://script.module.horus?action=play&id=f71ee8af176c9bcead465dfaff1faefe087baf6f
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Mavericks vs Timberwolves (31.01.2024)
+plugin://script.module.horus?action=play&id=d7f463dcbb46a51670813cfe431822ad2ad7d8b0
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Kings vs Heat (31.01.2024)
+plugin://script.module.horus?action=play&id=c49f9b68659f71e546e09cacd56fe7a00cb278b9
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Clippers vs Wizards (31.01.2024)
+plugin://script.module.horus?action=play&id=2efe53ae44d5e52f025200ecd1bc9dfdc54a1827
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",76ers vs Jazz (01.02.2024)
+plugin://script.module.horus?action=play&id=67a1b48668856717e07ff532432eafafb01c5891
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Pacers vs Knicks (01.02.2024)
+plugin://script.module.horus?action=play&id=91e0328c5c068dee328d928db79c21123148f084
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Cavaliers vs Grizzlies (01.02.2024)
+plugin://script.module.horus?action=play&id=2ccb16b9382e4f9e29416c5dc537eb930df9e94e
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Lakers vs Celtics (01.02.2024)
+plugin://script.module.horus?action=play&id=d0b25c8977e43125940ca50a91d8256fc2064171
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Magic vs Timberwolves (02.02.2024)
+plugin://script.module.horus?action=play&id=bf9ed6bc09c99f88466c4a09a8525c5f30241101
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Pelicans vs Spurs (02.02.2024)
+plugin://script.module.horus?action=play&id=cbd4ca9c43d8b7602a5d8fa0e1526b6a383350e1
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Raptors vs Rockets (02.02.2024)
+plugin://script.module.horus?action=play&id=4ba94fe4642b80a930be121c44e881c836af6cdf
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Kings vs Pacers (02.02.2024)
+plugin://script.module.horus?action=play&id=30270ca743c029623a132893b419780795f45224
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Warriors vs Grizzlies (02.02.2024)
+plugin://script.module.horus?action=play&id=71514bdb0569317f682f97388efbd722761abf76
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Suns vs Hawks (02.02.2024)
+plugin://script.module.horus?action=play&id=865571905a42d37f86d5596a7384350d942fefaa
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Clippers vs Pistons (02.02.2024)
+plugin://script.module.horus?action=play&id=d282cfd22c83b5551935c2ebf1d61c640cb9677c
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Blazers vs Nuggets (02.02.2024)
+plugin://script.module.horus?action=play&id=32b1e1c46d5ef24a24c38f5b589dcc2733a94dea
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Heat vs Wizards (02.02.2024)
+plugin://script.module.horus?action=play&id=7f8cdf1e1541d0f9296aa1f201a5c7a0f6672cc2
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Hornets vs Thunder (02.02.2024)
+plugin://script.module.horus?action=play&id=de634f0b1472b6880bf899ade3dbf7c4d3cd7eea
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Cavaliers vs Spurs (03.02.2024)
+plugin://script.module.horus?action=play&id=e460e2fd46f0469f5e1c6364621ad43dbcd51411
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Lakers vs Knicks (03.02.2024)
+plugin://script.module.horus?action=play&id=8e8ad08ace4c68e89308bdfb85a1b57617da3767
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Bucks vs Mavericks (03.02.2024)
+plugin://script.module.horus?action=play&id=5281f5b91ed53c82a6954f601dc0c62413ae9df6
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Kings vs Bulls (03.02.2024)
+plugin://script.module.horus?action=play&id=e5124fcf07d5f973cbb23c5c01705141434ba074
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Nets vs 76ers (03.02.2024)
+plugin://script.module.horus?action=play&id=714d09748f92c55c350e367c28e030ce654f0d74
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Warriors vs Hawks (03.02.2024)
+plugin://script.module.horus?action=play&id=5e6934f3bd4e20ed6c3a431e356d23e4e5a7c64d
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Pacers vs Hornets (04.02.2024)
+plugin://script.module.horus?action=play&id=4160bcbb9906025cab296d2b6a35bc2b04c49559
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Magic vs Pistons (04.02.2024)
+plugin://script.module.horus?action=play&id=8665eea28a012db8d16b7ce85e0528c0898e44b3
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Suns vs Wizards (04.02.2024)
+plugin://script.module.horus?action=play&id=0a1f1fbff75db645c083a0750ac882922fe68f3c
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Bucks vs Jazz (04.02.2024)
+plugin://script.module.horus?action=play&id=cff2258eca341034d20467ca5eec50c657190030
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Raptors vs Thunder (04.02.2024)
+plugin://script.module.horus?action=play&id=83a2d4fb1350fa8a9885c86180f3c360c404c08f
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Blazers vs Nuggets (04.02.2024)
+plugin://script.module.horus?action=play&id=3599f9dbf0861f7ca52c1a36bb484f2e16f5fe5f
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Grizzlies vs Celtics (04.02.2024)
+plugin://script.module.horus?action=play&id=07d9e199d0ed1c59ee567f8290640b6230f76c0a
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Clippers vs Heat (04.02.2024)
+plugin://script.module.horus?action=play&id=b03029643f243a0dabbf04105723ebb198aa1cb6
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Rockets vs Timberwolves (04.02.2024)
+plugin://script.module.horus?action=play&id=d9d0a760ea8ab6f9c0a2f27fd8a855ccf7d546f3
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Clippers vs Hawks (05.02.2024)
+plugin://script.module.horus?action=play&id=603a06e0620a72507b9fa93d3f4806dc5bcc5064
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Lakers vs Hornets (05.02.2024)
+plugin://script.module.horus?action=play&id=08a4bec5ca0779e19433a0c6afee59fd05567b6d
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Warriors vs Nets (05.02.2024)
+plugin://script.module.horus?action=play&id=1a810d784ee2e9384568f67a42b1f78d74f4edce
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Raptors vs Pelicans (05.02.2024)
+plugin://script.module.horus?action=play&id=507234358194b53412912f77f7ba3e8bc96d19f5
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Kings vs Cavaliers (05.02.2024)
+plugin://script.module.horus?action=play&id=e289d0212b074a433169464f81103b589cbd22bf
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Mavericks vs 76ers (05.02.2024)
+plugin://script.module.horus?action=play&id=b22b3aabc6da921c5e1fbc632ea9be1d3effaee5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-A9D3D67C30-seeklogo.com.png" group-title="Partidos clásicos NBA",Pistons vs Bucks (15.05.1989)
+plugin://script.module.horus?action=play&id=30b61082b5d146476f09759e1ac48f0aff3f07f2
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-A9D3D67C30-seeklogo.com.png" group-title="Partidos clásicos NBA",Blazers vs Lakers (04.06.2000)
+plugin://script.module.horus?action=play&id=ece61cf8e8ec08ff2f050eeae4b9d0ed5c311be6
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-A9D3D67C30-seeklogo.com.png" group-title="Partidos clásicos NBA",76ers vs Blazers (05.06.1977)
+plugin://script.module.horus?action=play&id=1484acd55497ae606fdf2a34fc80f127b6c67e72
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-A9D3D67C30-seeklogo.com.png" group-title="Partidos clásicos NBA",76ers vs Cavaliers (12.04.1997)
+plugin://script.module.horus?action=play&id=3adcede3e124426ab501b7dc0238665dbccd9067
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-A9D3D67C30-seeklogo.com.png" group-title="Partidos clásicos NBA",Celtics vs Lakers (17.06.2010)
+plugin://script.module.horus?action=play&id=bb5d57a04de79a66d86abe181463545c4ea7c381
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-A9D3D67C30-seeklogo.com.png" group-title="Partidos clásicos NBA",Bucks vs 76ers (03.06.2001)
+plugin://script.module.horus?action=play&id=090c90df5c709b8a17b349a82b9dfff8326b24cf
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-A9D3D67C30-seeklogo.com.png" group-title="Partidos clásicos NBA",Raptors vs Lakers (22.01.2006)
+plugin://script.module.horus?action=play&id=f43df068d42aa0f64a84745c627ca8fe4858f56a
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-A9D3D67C30-seeklogo.com.png" group-title="Partidos clásicos NBA",Cavaliers vs Bulls (08.05.1988)
+plugin://script.module.horus?action=play&id=b4113fd70a7a78d3410cef69e56ef0ebfa94a3eb
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-A9D3D67C30-seeklogo.com.png" group-title="Partidos clásicos NBA",All Stars - Este vs Oeste (29.01.1984)
+plugin://script.module.horus?action=play&id=a4e5caa87c2e63191c8b48a31b0e2a9d2512053f
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-A9D3D67C30-seeklogo.com.png" group-title="Partidos clásicos NBA",Celtics vs Heat (07.06.2012)
+plugin://script.module.horus?action=play&id=44ff11caa4915a38bbc0e1e00931d010daad732f
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-A9D3D67C30-seeklogo.com.png" group-title="Partidos clásicos NBA",Bulls vs Cavaliers (07.05.1989)
+plugin://script.module.horus?action=play&id=49708a8bd1e4064d9de6b9ac5148af8e9399823f
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-A9D3D67C30-seeklogo.com.png" group-title="Partidos clásicos NBA",Bulls vs Cavaliers (29.05.1992)
+plugin://script.module.horus?action=play&id=0b5beac81a12d6abce041b7ee2a09ca1a8ba500f
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-A9D3D67C30-seeklogo.com.png" group-title="Partidos clásicos NBA",All Stars - Este vs Oeste (08.02.1998)
+plugin://script.module.horus?action=play&id=0a7cb6f90e931bb2945d2eb116e36182107d1881
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -272,311 +800,3 @@ http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/236019
 http://samuraitv.online:8000/DanielCompitv/RPpCPKV4av/283980
 #EXTINF:-1  tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png" group-title="TDT",GOL PLAY
 http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336890
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 channel-id="pluto-60d3574e97f10800078455de" tvg-id="60d3574e97f10800078455de" tvg-logo="https://images.pluto.tv/channels/60d3574e97f10800078455de/colorLogoPNG.png" tvg-chno="101" group-title="pluto" , Doctor Who
-https://i.mjh.nz/PlutoTV/60d3574e97f10800078455de-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-6245c2a5eec07b0007249fc8" tvg-id="6245c2a5eec07b0007249fc8" tvg-logo="https://images.pluto.tv/channels/6245c2a5eec07b0007249fc8/colorLogoPNG.png" tvg-chno="102" group-title="pluto" , Sensación de Vivir (90210)
-https://i.mjh.nz/PlutoTV/6245c2a5eec07b0007249fc8-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-6245c03922d9d4000760d205" tvg-id="6245c03922d9d4000760d205" tvg-logo="https://images.pluto.tv/channels/6245c03922d9d4000760d205/colorLogoPNG.png" tvg-chno="103" group-title="pluto" , Melrose Place
-https://i.mjh.nz/PlutoTV/6245c03922d9d4000760d205-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-63eb93cea995710008989e3a" tvg-id="63eb93cea995710008989e3a" tvg-logo="https://images.pluto.tv/channels/63eb93cea995710008989e3a/colorLogoPNG.png" tvg-chno="104" group-title="pluto" , Los Ángeles de Charlie
-https://i.mjh.nz/PlutoTV/63eb93cea995710008989e3a-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-60f58f2278490000079bc47b" tvg-id="60f58f2278490000079bc47b" tvg-logo="https://images.pluto.tv/channels/60f58f2278490000079bc47b/colorLogoPNG.png" tvg-chno="106" group-title="pluto" , La niñera
-https://i.mjh.nz/PlutoTV/60f58f2278490000079bc47b-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-60b4c06717da110007ee1af6" tvg-id="60b4c06717da110007ee1af6" tvg-logo="https://images.pluto.tv/channels/60b4c06717da110007ee1af6/colorLogoPNG.png" tvg-chno="107" group-title="pluto" , Pluto TV Telenovelas
-https://i.mjh.nz/PlutoTV/60b4c06717da110007ee1af6-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-6475bfec536e0c0008858e9f" tvg-id="6475bfec536e0c0008858e9f" tvg-logo="https://images.pluto.tv/channels/6475bfec536e0c0008858e9f/colorLogoPNG.png" tvg-chno="108" group-title="pluto" , Pluto TV K-Drama
-https://i.mjh.nz/PlutoTV/6475bfec536e0c0008858e9f-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-60dafb9a0df1ba000758d37b" tvg-id="60dafb9a0df1ba000758d37b" tvg-logo="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG.png" tvg-chno="109" group-title="pluto" , BBC Drama
-https://i.mjh.nz/PlutoTV/60dafb9a0df1ba000758d37b-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f1acc3e061597000768d4ea" tvg-id="5f1acc3e061597000768d4ea" tvg-logo="https://images.pluto.tv/channels/5f1acc3e061597000768d4ea/colorLogoPNG.png" tvg-chno="110" group-title="pluto" , Andrómeda
-https://i.mjh.nz/PlutoTV/5f1acc3e061597000768d4ea-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f1acc91cc9e1b000711ff21" tvg-id="5f1acc91cc9e1b000711ff21" tvg-logo="https://images.pluto.tv/channels/5f1acc91cc9e1b000711ff21/colorLogoPNG.png" tvg-chno="111" group-title="pluto" , Mutante X
-https://i.mjh.nz/PlutoTV/5f1acc91cc9e1b000711ff21-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f9853138d19af0007104a8d" tvg-id="5f9853138d19af0007104a8d" tvg-logo="https://images.pluto.tv/channels/5f9853138d19af0007104a8d/colorLogoPNG.png" tvg-chno="112" group-title="pluto" , Pluto TV pluto Comedia
-https://i.mjh.nz/PlutoTV/5f9853138d19af0007104a8d-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f1abe3ffcd659000770d88d" tvg-id="5f1abe3ffcd659000770d88d" tvg-logo="https://images.pluto.tv/channels/5f1abe3ffcd659000770d88d/colorLogoPNG.png" tvg-chno="113" group-title="pluto" , La Chica Invisible
-https://i.mjh.nz/PlutoTV/5f1abe3ffcd659000770d88d-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f1ac8f49205650007bc15f1" tvg-id="5f1ac8f49205650007bc15f1" tvg-logo="https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/colorLogoPNG.png" tvg-chno="114" group-title="pluto" , Pluto TV pluto
-https://i.mjh.nz/PlutoTV/5f1ac8f49205650007bc15f1-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f1acb4eebe0f0000767b40f" tvg-id="5f1acb4eebe0f0000767b40f" tvg-logo="https://images.pluto.tv/channels/5f1acb4eebe0f0000767b40f/colorLogoPNG.png" tvg-chno="115" group-title="pluto" , Las reglas del juego
-https://i.mjh.nz/PlutoTV/5f1acb4eebe0f0000767b40f-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f1ac1f1b66c76000790ef27" tvg-id="5f1ac1f1b66c76000790ef27" tvg-logo="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" tvg-chno="200" group-title="pluto" , Pluto TV Cine Estelar
-https://i.mjh.nz/PlutoTV/5f1ac1f1b66c76000790ef27-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f1ac2591dd8880007bb7d6d" tvg-id="5f1ac2591dd8880007bb7d6d" tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png" tvg-chno="201" group-title="pluto" , Pluto TV Cine Acción
-https://i.mjh.nz/PlutoTV/5f1ac2591dd8880007bb7d6d-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-6267d4d1fb694f0007a6af0e" tvg-id="6267d4d1fb694f0007a6af0e" tvg-logo="https://images.pluto.tv/channels/6267d4d1fb694f0007a6af0e/colorLogoPNG.png" tvg-chno="202" group-title="pluto" , Pluto TV Horror
-https://i.mjh.nz/PlutoTV/6267d4d1fb694f0007a6af0e-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f6a38eaa5b68b0007a00e7a" tvg-id="5f6a38eaa5b68b0007a00e7a" tvg-logo="https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/colorLogoPNG.png" tvg-chno="203" group-title="pluto" , Pluto TV Sci-Fi
-https://i.mjh.nz/PlutoTV/5f6a38eaa5b68b0007a00e7a-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f1ac8099c49f600076579b2" tvg-id="5f1ac8099c49f600076579b2" tvg-logo="https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG.png" tvg-chno="204" group-title="pluto" , Pluto TV Cine Comedia
-https://i.mjh.nz/PlutoTV/5f1ac8099c49f600076579b2-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-6385e82900ab2e000768a058" tvg-id="6385e82900ab2e000768a058" tvg-logo="https://images.pluto.tv/channels/6385e82900ab2e000768a058/colorLogoPNG.png" tvg-chno="205" group-title="pluto" , Pluto TV Western
-https://i.mjh.nz/PlutoTV/6385e82900ab2e000768a058-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f1ac9a2d3611d0007a844bb" tvg-id="5f1ac9a2d3611d0007a844bb" tvg-logo="https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/colorLogoPNG.png" tvg-chno="206" group-title="pluto" , Pluto TV Cine Romántico
-https://i.mjh.nz/PlutoTV/5f1ac9a2d3611d0007a844bb-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f1ac8a87cd38d000745d7cf" tvg-id="5f1ac8a87cd38d000745d7cf" tvg-logo="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png" tvg-chno="207" group-title="pluto" , Pluto TV Thrillers
-https://i.mjh.nz/PlutoTV/5f1ac8a87cd38d000745d7cf-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f1ac947dcd00d0007937c08" tvg-id="5f1ac947dcd00d0007937c08" tvg-logo="https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png" tvg-chno="208" group-title="pluto" , Pluto TV Cine Drama
-https://i.mjh.nz/PlutoTV/5f1ac947dcd00d0007937c08-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-60cc807324d60a0007708dc8" tvg-id="60cc807324d60a0007708dc8" tvg-logo="https://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png" tvg-chno="209" group-title="pluto" , Pluto TV Cine de autor
-https://i.mjh.nz/PlutoTV/60cc807324d60a0007708dc8-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-61373bb45168fe000773eecd" tvg-id="61373bb45168fe000773eecd" tvg-logo="https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png" tvg-chno="210" group-title="pluto" , Pluto TV Cine Clásico
-https://i.mjh.nz/PlutoTV/61373bb45168fe000773eecd-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-61c49a1b5ec8d40008673251" tvg-id="61c49a1b5ec8d40008673251" tvg-logo="https://images.pluto.tv/channels/61c49a1b5ec8d40008673251/colorLogoPNG.png" tvg-chno="211" group-title="pluto" , Cortos
-https://i.mjh.nz/PlutoTV/61c49a1b5ec8d40008673251-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-6086d3f420fc8500075f8dbf" tvg-id="6086d3f420fc8500075f8dbf" tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" tvg-chno="212" group-title="pluto" , Runtime
-https://i.mjh.nz/PlutoTV/6086d3f420fc8500075f8dbf-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-645a309c5a0cd5000873f609" tvg-id="645a309c5a0cd5000873f609" tvg-logo="https://images.pluto.tv/channels/645a309c5a0cd5000873f609/colorLogoPNG.png" tvg-chno="214" group-title="pluto" , Pluto TV Catástrofes
-https://i.mjh.nz/PlutoTV/645a309c5a0cd5000873f609-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f984f4a09e92d0007d74647" tvg-id="5f984f4a09e92d0007d74647" tvg-logo="https://images.pluto.tv/channels/5f984f4a09e92d0007d74647/colorLogoPNG.png" tvg-chno="300" group-title="pluto" , Archivos Forenses
-https://i.mjh.nz/PlutoTV/5f984f4a09e92d0007d74647-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f1acba0d1f6340007db8843" tvg-id="5f1acba0d1f6340007db8843" tvg-logo="https://images.pluto.tv/channels/5f1acba0d1f6340007db8843/colorLogoPNG.png" tvg-chno="302" group-title="pluto" , Los nuevos detectives
-https://i.mjh.nz/PlutoTV/5f1acba0d1f6340007db8843-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f1acbed25948a0007ffbe65" tvg-id="5f1acbed25948a0007ffbe65" tvg-logo="https://images.pluto.tv/channels/5f1acbed25948a0007ffbe65/colorLogoPNG.png" tvg-chno="303" group-title="pluto" , Los archivos del FBI
-https://i.mjh.nz/PlutoTV/5f1acbed25948a0007ffbe65-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-612ce5214bb5790007ad3016" tvg-id="612ce5214bb5790007ad3016" tvg-logo="https://images.pluto.tv/channels/612ce5214bb5790007ad3016/colorLogoPNG.png" tvg-chno="304" group-title="pluto" , Pluto TV Paranormal
-https://i.mjh.nz/PlutoTV/612ce5214bb5790007ad3016-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-64a3f200f238ce0008d47247" tvg-id="64a3f200f238ce0008d47247" tvg-logo="https://images.pluto.tv/channels/64a3f200f238ce0008d47247/colorLogoPNG.png" tvg-chno="305" group-title="pluto" , Pluto TV True Crime
-https://i.mjh.nz/PlutoTV/64a3f200f238ce0008d47247-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-60ed5fb9c4716d0007d180c5" tvg-id="60ed5fb9c4716d0007d180c5" tvg-logo="https://images.pluto.tv/channels/60ed5fb9c4716d0007d180c5/colorLogoPNG.png" tvg-chno="306" group-title="pluto" , Cazador de Homicidas
-https://i.mjh.nz/PlutoTV/60ed5fb9c4716d0007d180c5-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-6193963c5a960200074ce816" tvg-id="6193963c5a960200074ce816" tvg-logo="https://images.pluto.tv/channels/6193963c5a960200074ce816/colorLogoPNG.png" tvg-chno="307" group-title="pluto" , Constance Meyer: Jueza en prácticas
-https://i.mjh.nz/PlutoTV/6193963c5a960200074ce816-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-619b9f16b8fee4000832d447" tvg-id="619b9f16b8fee4000832d447" tvg-logo="https://images.pluto.tv/channels/619b9f16b8fee4000832d447/colorLogoPNG.png" tvg-chno="308" group-title="pluto" , El Detective Endeavour
-https://i.mjh.nz/PlutoTV/619b9f16b8fee4000832d447-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f1aca8310a30e00074fab92" tvg-id="5f1aca8310a30e00074fab92" tvg-logo="https://images.pluto.tv/channels/5f1aca8310a30e00074fab92/colorLogoPNG.png" tvg-chno="309" group-title="pluto" , Asesinatos de Midsomer
-https://i.mjh.nz/PlutoTV/5f1aca8310a30e00074fab92-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-6304f530440dc90007f514d3" tvg-id="6304f530440dc90007f514d3" tvg-logo="https://images.pluto.tv/channels/6304f530440dc90007f514d3/colorLogoPNG.png" tvg-chno="310" group-title="pluto" , Poirot & Miss Marple
-https://i.mjh.nz/PlutoTV/6304f530440dc90007f514d3-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-60c343007bcabe0007242aa6" tvg-id="60c343007bcabe0007242aa6" tvg-logo="https://images.pluto.tv/channels/60c343007bcabe0007242aa6/colorLogoPNG.png" tvg-chno="350" group-title="pluto" , El Comisario
-https://i.mjh.nz/PlutoTV/60c343007bcabe0007242aa6-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f1abce155a03d0007718834" tvg-id="5f1abce155a03d0007718834" tvg-logo="https://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png" tvg-chno="351" group-title="pluto" , Comedia pluto
-https://i.mjh.nz/PlutoTV/5f1abce155a03d0007718834-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f1acce7f17797000718f9be" tvg-id="5f1acce7f17797000718f9be" tvg-logo="https://images.pluto.tv/channels/5f1acce7f17797000718f9be/colorLogoPNG.png" tvg-chno="352" group-title="pluto" , Ana y los 7
-https://i.mjh.nz/PlutoTV/5f1acce7f17797000718f9be-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-622f447a32669a00071a8986" tvg-id="622f447a32669a00071a8986" tvg-logo="https://images.pluto.tv/channels/622f447a32669a00071a8986/colorLogoPNG.png" tvg-chno="353" group-title="pluto" , A las once en casa
-https://i.mjh.nz/PlutoTV/622f447a32669a00071a8986-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f1acd36779de70007a680d1" tvg-id="5f1acd36779de70007a680d1" tvg-logo="https://images.pluto.tv/channels/5f1acd36779de70007a680d1/colorLogoPNG.png" tvg-chno="354" group-title="pluto" , Curro Jiménez
-https://i.mjh.nz/PlutoTV/5f1acd36779de70007a680d1-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-64c7b1582a7f220008a07a61" tvg-id="64c7b1582a7f220008a07a61" tvg-logo="https://images.pluto.tv/channels/64c7b1582a7f220008a07a61/colorLogoPNG.png" tvg-chno="355" group-title="pluto" , Atrápame si puedes
-https://i.mjh.nz/PlutoTV/64c7b1582a7f220008a07a61-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f28009b150b2500077766b8" tvg-id="5f28009b150b2500077766b8" tvg-logo="https://images.pluto.tv/channels/5f28009b150b2500077766b8/colorLogoPNG.png" tvg-chno="356" group-title="pluto" , Vaya semanita
-https://i.mjh.nz/PlutoTV/5f28009b150b2500077766b8-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-622f42b831233300078658cc" tvg-id="622f42b831233300078658cc" tvg-logo="https://images.pluto.tv/channels/622f42b831233300078658cc/colorLogoPNG.png" tvg-chno="357" group-title="pluto" , Ciudadanos por el mundo
-https://i.mjh.nz/PlutoTV/622f42b831233300078658cc-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-61922be835f3910007fc58f6" tvg-id="61922be835f3910007fc58f6" tvg-logo="https://images.pluto.tv/channels/61922be835f3910007fc58f6/colorLogoPNG.png" tvg-chno="358" group-title="pluto" , En el punto de mira
-https://i.mjh.nz/PlutoTV/61922be835f3910007fc58f6-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-60218baa464ef900073168c1" tvg-id="60218baa464ef900073168c1" tvg-logo="https://images.pluto.tv/channels/60218baa464ef900073168c1/colorLogoPNG.png" tvg-chno="400" group-title="pluto" , Empeños a lo bestia
-https://i.mjh.nz/PlutoTV/60218baa464ef900073168c1-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-61b9edc4a4ca6100070bb407" tvg-id="61b9edc4a4ca6100070bb407" tvg-logo="https://images.pluto.tv/channels/61b9edc4a4ca6100070bb407/colorLogoPNG.png" tvg-chno="401" group-title="pluto" , Ice Pilots
-https://i.mjh.nz/PlutoTV/61b9edc4a4ca6100070bb407-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-60e4573c9f963e00077ecf25" tvg-id="60e4573c9f963e00077ecf25" tvg-logo="https://images.pluto.tv/channels/60e4573c9f963e00077ecf25/colorLogoPNG.png" tvg-chno="402" group-title="pluto" , Mi Extraña Obsesión
-https://i.mjh.nz/PlutoTV/60e4573c9f963e00077ecf25-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-61b87bc867b03a0007864e0d" tvg-id="61b87bc867b03a0007864e0d" tvg-logo="https://images.pluto.tv/channels/61b87bc867b03a0007864e0d/colorLogoPNG.png" tvg-chno="403" group-title="pluto" , Pluto TV Reality
-https://i.mjh.nz/PlutoTV/61b87bc867b03a0007864e0d-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f280149cec6be00072ab1fc" tvg-id="5f280149cec6be00072ab1fc" tvg-logo="https://images.pluto.tv/channels/5f280149cec6be00072ab1fc/colorLogoPNG.png" tvg-chno="404" group-title="pluto" , El Conquistador del Fin
-https://i.mjh.nz/PlutoTV/5f280149cec6be00072ab1fc-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-60e45687313c5f0007bc8e94" tvg-id="60e45687313c5f0007bc8e94" tvg-logo="https://images.pluto.tv/channels/60e45687313c5f0007bc8e94/colorLogoPNG.png" tvg-chno="405" group-title="pluto" , El encantador de perros
-https://i.mjh.nz/PlutoTV/60e45687313c5f0007bc8e94-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f1acdaa8ba90f0007d5e760" tvg-id="5f1acdaa8ba90f0007d5e760" tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png" tvg-chno="450" group-title="pluto" , Pluto TV Cocina
-https://i.mjh.nz/PlutoTV/5f1acdaa8ba90f0007d5e760-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-61cd7b49543066000713b620" tvg-id="61cd7b49543066000713b620" tvg-logo="https://images.pluto.tv/channels/61cd7b49543066000713b620/colorLogoPNG.png" tvg-chno="451" group-title="pluto" , Pluto TV Historia
-https://i.mjh.nz/PlutoTV/61cd7b49543066000713b620-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-60c343ad476ec00007c2ec1a" tvg-id="60c343ad476ec00007c2ec1a" tvg-logo="https://images.pluto.tv/channels/60c343ad476ec00007c2ec1a/colorLogoPNG.png" tvg-chno="452" group-title="pluto" , Pluto TV Viajes
-https://i.mjh.nz/PlutoTV/60c343ad476ec00007c2ec1a-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-61cd78920b90cb0007e28231" tvg-id="61cd78920b90cb0007e28231" tvg-logo="https://images.pluto.tv/channels/61cd78920b90cb0007e28231/colorLogoPNG.png" tvg-chno="455" group-title="pluto" , Pluto TV Documentales
-https://i.mjh.nz/PlutoTV/61cd78920b90cb0007e28231-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-60dd6b1da79e4d0007309455" tvg-id="60dd6b1da79e4d0007309455" tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" tvg-chno="456" group-title="pluto" , Nature Time
-https://i.mjh.nz/PlutoTV/60dd6b1da79e4d0007309455-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-600ae6a78d801e0007117d21" tvg-id="600ae6a78d801e0007117d21" tvg-logo="https://images.pluto.tv/channels/600ae6a78d801e0007117d21/colorLogoPNG.png" tvg-chno="457" group-title="pluto" , Pluto TV Animales
-https://i.mjh.nz/PlutoTV/600ae6a78d801e0007117d21-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-60d356a534f63f000850cdd7" tvg-id="60d356a534f63f000850cdd7" tvg-logo="https://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG.png" tvg-chno="500" group-title="pluto" , Top Gear
-https://i.mjh.nz/PlutoTV/60d356a534f63f000850cdd7-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-6080345ebb49b90007ce0baf" tvg-id="6080345ebb49b90007ce0baf" tvg-logo="https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/colorLogoPNG.png" tvg-chno="501" group-title="pluto" , Pluto TV Motor
-https://i.mjh.nz/PlutoTV/6080345ebb49b90007ce0baf-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-6076c74daa05ac0007d0eb07" tvg-id="6076c74daa05ac0007d0eb07" tvg-logo="https://images.pluto.tv/channels/6076c74daa05ac0007d0eb07/colorLogoPNG.png" tvg-chno="502" group-title="pluto" , Tuning
-https://i.mjh.nz/PlutoTV/6076c74daa05ac0007d0eb07-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-60f1673d0e4370000784dc61" tvg-id="60f1673d0e4370000784dc61" tvg-logo="https://images.pluto.tv/channels/60f1673d0e4370000784dc61/colorLogoPNG.png" tvg-chno="503" group-title="pluto" , FUEL TV
-https://i.mjh.nz/PlutoTV/60f1673d0e4370000784dc61-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f1ac118dd7e6000077e31af" tvg-id="5f1ac118dd7e6000077e31af" tvg-logo="https://images.pluto.tv/channels/5f1ac118dd7e6000077e31af/colorLogoPNG.png" tvg-chno="504" group-title="pluto" , IGN
-https://i.mjh.nz/PlutoTV/5f1ac118dd7e6000077e31af-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-6335a79d10efe80007297a94" tvg-id="6335a79d10efe80007297a94" tvg-logo="https://images.pluto.tv/channels/6335a79d10efe80007297a94/colorLogoPNG.png" tvg-chno="505" group-title="pluto" , La Media Inglesa
-https://i.mjh.nz/PlutoTV/6335a79d10efe80007297a94-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f1ac8588734f8000823b7de" tvg-id="5f1ac8588734f8000823b7de" tvg-logo="https://images.pluto.tv/channels/5f1ac8588734f8000823b7de/colorLogoPNG.png" tvg-chno="506" group-title="pluto" , Pluto TV Deportes
-https://i.mjh.nz/PlutoTV/5f1ac8588734f8000823b7de-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-60d3583ef310610007fb02b1" tvg-id="60d3583ef310610007fb02b1" tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png" tvg-chno="650" group-title="pluto" , Euronews
-https://i.mjh.nz/PlutoTV/60d3583ef310610007fb02b1-alt.m3u8
-
-
-#EXTINF:-1 channel-id="pluto-627d1b12c8540700073b3f39" tvg-id="627d1b12c8540700073b3f39" tvg-logo="https://images.pluto.tv/channels/627d1b12c8540700073b3f39/colorLogoPNG.png" tvg-chno="653" group-title="pluto" , Telefe pluto
-https://i.mjh.nz/PlutoTV/627d1b12c8540700073b3f39-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f1abf5fafb5ee0007d4d0ca" tvg-id="5f1abf5fafb5ee0007d4d0ca" tvg-logo="https://images.pluto.tv/channels/5f1abf5fafb5ee0007d4d0ca/colorLogoPNG.png" tvg-chno="700" group-title="pluto" , FailArmy
-https://i.mjh.nz/PlutoTV/5f1abf5fafb5ee0007d4d0ca-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-604f8125c6669b00077f7699" tvg-id="604f8125c6669b00077f7699" tvg-logo="https://images.pluto.tv/channels/604f8125c6669b00077f7699/colorLogoPNG.png" tvg-chno="701" group-title="pluto" , Wipeout
-https://i.mjh.nz/PlutoTV/604f8125c6669b00077f7699-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f1abf097eb06300079b30f7" tvg-id="5f1abf097eb06300079b30f7" tvg-logo="https://images.pluto.tv/channels/5f1abf097eb06300079b30f7/colorLogoPNG.png" tvg-chno="702" group-title="pluto" , The Pet Collective
-https://i.mjh.nz/PlutoTV/5f1abf097eb06300079b30f7-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f1ac1780e94100007f94b3f" tvg-id="5f1ac1780e94100007f94b3f" tvg-logo="https://images.pluto.tv/channels/5f1ac1780e94100007f94b3f/colorLogoPNG.png" tvg-chno="703" group-title="pluto" , People are Awesome
-https://i.mjh.nz/PlutoTV/5f1ac1780e94100007f94b3f-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-60a286daf888610007669801" tvg-id="60a286daf888610007669801" tvg-logo="https://images.pluto.tv/channels/60a286daf888610007669801/colorLogoPNG.png" tvg-chno="704" group-title="pluto" , Just for Laughs
-https://i.mjh.nz/PlutoTV/60a286daf888610007669801-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-628751bb7154a40007168843" tvg-id="628751bb7154a40007168843" tvg-logo="https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG.png" tvg-chno="800" group-title="pluto" , South Park
-https://i.mjh.nz/PlutoTV/628751bb7154a40007168843-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-63d7a8e5a9957100086bfc23" tvg-id="63d7a8e5a9957100086bfc23" tvg-logo="https://images.pluto.tv/channels/63d7a8e5a9957100086bfc23/colorLogoPNG.png" tvg-chno="801" group-title="pluto" , South Park Versión Original
-https://i.mjh.nz/PlutoTV/63d7a8e5a9957100086bfc23-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-629a066860ef810008267b70" tvg-id="629a066860ef810008267b70" tvg-logo="https://images.pluto.tv/channels/629a066860ef810008267b70/colorLogoPNG.png" tvg-chno="802" group-title="pluto" , Detective Conan
-https://i.mjh.nz/PlutoTV/629a066860ef810008267b70-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-63eb96754e83e70008ab8941" tvg-id="63eb96754e83e70008ab8941" tvg-logo="https://images.pluto.tv/channels/63eb96754e83e70008ab8941/colorLogoPNG.png" tvg-chno="803" group-title="pluto" , Yu-Gi-Oh!
-https://i.mjh.nz/PlutoTV/63eb96754e83e70008ab8941-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-632c6df43d2bc5000751f621" tvg-id="632c6df43d2bc5000751f621" tvg-logo="https://images.pluto.tv/channels/632c6df43d2bc5000751f621/colorLogoPNG.png" tvg-chno="804" group-title="pluto" , Inazuma Eleven
-https://i.mjh.nz/PlutoTV/632c6df43d2bc5000751f621-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-608035b8d8705f0007260287" tvg-id="608035b8d8705f0007260287" tvg-logo="https://images.pluto.tv/channels/608035b8d8705f0007260287/colorLogoPNG.png" tvg-chno="805" group-title="pluto" , Pluto TV Anime
-https://i.mjh.nz/PlutoTV/608035b8d8705f0007260287-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-61373f1a12dd9f00077dcd6f" tvg-id="61373f1a12dd9f00077dcd6f" tvg-logo="https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png" tvg-chno="806" group-title="pluto" , Las Tortugas Ninja
-https://i.mjh.nz/PlutoTV/61373f1a12dd9f00077dcd6f-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-61373c865ed5810007173fbc" tvg-id="61373c865ed5810007173fbc" tvg-logo="https://images.pluto.tv/channels/61373c865ed5810007173fbc/colorLogoPNG.png" tvg-chno="807" group-title="pluto" , Avatar
-https://i.mjh.nz/PlutoTV/61373c865ed5810007173fbc-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f1aca0b4e448e00075e7c5e" tvg-id="5f1aca0b4e448e00075e7c5e" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" tvg-chno="900" group-title="pluto" , Bob Esponja
-https://i.mjh.nz/PlutoTV/5f1aca0b4e448e00075e7c5e-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-6304f626d1a0ac00083a05c5" tvg-id="6304f626d1a0ac00083a05c5" tvg-logo="https://images.pluto.tv/channels/6304f626d1a0ac00083a05c5/colorLogoPNG.png" tvg-chno="901" group-title="pluto" , Los padrinos mágicos
-https://i.mjh.nz/PlutoTV/6304f626d1a0ac00083a05c5-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-610c09219fc0430007a3fce6" tvg-id="610c09219fc0430007a3fce6" tvg-logo="https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png" tvg-chno="902" group-title="pluto" , Rugrats
-https://i.mjh.nz/PlutoTV/610c09219fc0430007a3fce6-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-63c69c87808b740007599fe1" tvg-id="63c69c87808b740007599fe1" tvg-logo="https://images.pluto.tv/channels/63c69c87808b740007599fe1/colorLogoPNG.png" tvg-chno="903" group-title="pluto" , Érase una vez...
-https://i.mjh.nz/PlutoTV/63c69c87808b740007599fe1-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f1aab1d29b39600073e243f" tvg-id="5f1aab1d29b39600073e243f" tvg-logo="https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG.png" tvg-chno="904" group-title="pluto" , Pluto TV Kids
-https://i.mjh.nz/PlutoTV/5f1aab1d29b39600073e243f-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-624466b26ab25e0007dd7cfb" tvg-id="624466b26ab25e0007dd7cfb" tvg-logo="https://images.pluto.tv/channels/624466b26ab25e0007dd7cfb/colorLogoPNG.png" tvg-chno="905" group-title="pluto" , Dora la Exploradora
-https://i.mjh.nz/PlutoTV/624466b26ab25e0007dd7cfb-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f1aa9bcd8160700076d45d1" tvg-id="5f1aa9bcd8160700076d45d1" tvg-logo="https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG.png" tvg-chno="906" group-title="pluto" , Pluto TV Junior
-https://i.mjh.nz/PlutoTV/5f1aa9bcd8160700076d45d1-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-609e7e423e9173000706a681" tvg-id="609e7e423e9173000706a681" tvg-logo="https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG.png" tvg-chno="907" group-title="pluto" , Pluto TV Toons Clásico
-https://i.mjh.nz/PlutoTV/609e7e423e9173000706a681-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-645a30f6f3f5b1000864ac04" tvg-id="645a30f6f3f5b1000864ac04" tvg-logo="https://images.pluto.tv/channels/645a30f6f3f5b1000864ac04/colorLogoPNG.png" tvg-chno="908" group-title="pluto" , Las Tres Mellizas
-https://i.mjh.nz/PlutoTV/645a30f6f3f5b1000864ac04-alt.m3u8
