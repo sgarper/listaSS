@@ -897,9 +897,8 @@ http://flashprinttv.com:2086/gPAckvByDfYR/jXLwp4yFjGHS/336463
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="TDT",Gol Play
-https://www.goltelevision.com/en-directo
-#EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200" group-title="Deportivos" tvg-name="Real Madrid TV",Real Madrid TV
+
+#EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200" group-title="TDT" tvg-name="Real Madrid TV",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2399px-Logo_TVE-24h.svg.png" group-title="TDT",Canal 24H
 https://ztnr.rtve.es/ztnr/1694255.m3u8
