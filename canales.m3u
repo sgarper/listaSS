@@ -75,8 +75,6 @@ acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
 acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="Deportes",DAZN 2 
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/311
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="Deportes",DAZN 3
-acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/F8EWer0WwAA0dLu.png:large" group-title="Deportes",DAZN F1 
 acestream://5789ca155323664edd293b848606688edf803f4d
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/F8EWer0WwAA0dLu.png:large" group-title="Deportes",DAZN F1 (4k)
@@ -719,6 +717,18 @@ acestream://91c429ef54e422cf8d76f5c0cd550695be2490f7
 acestream://d6b0aeb1bf41c8267c0f430a68f7b177e6b5dcd2
 #EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Jazz vs Hawks (27.02.2024)
 acestream://1d36fff7e3da02c37f5cbe7c6c591c0e9fe20af5
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Grizzlies vs Timberwolves (28.02.2024)
+acestream://bdb744061f6e0e43eaa950a7e1dc0c50930392b7
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Cavaliers vs Bulls (28.02.2024)
+acestream://4585f5251361767295b15a5e208d83e7b6456a76
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Kings vs Nuggets (28.02.2024)
+acestream://39cc473170c591487342e905eab623225511d026
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Lakers vs Clippers (28.02.2024)
+acestream://4aff15ea4b3cadf06219566803dce6c23b7200aa
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Mavericks vs Raptors (28.02.2024)
+acestream://5f217a3feb9c2ef1c3d14d27b0e4cb8aded01c6e
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="NBA Liga regular",Pelicans vs Pacers (28.02.2024)
+acestream://c8dbbe63f95d5aaed85f9ac5c7d20df8b714719c
 
 
 
