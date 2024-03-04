@@ -527,7 +527,8 @@ acestream://48c7361e803cc3524c4f752cffd05694acd4c24c
 
 
 
-
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-A9D3D67C30-seeklogo.com.png" group-title="Partidos clásicos NBA",Ibai
+twitch/ibai
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-A9D3D67C30-seeklogo.com.png" group-title="Partidos clásicos NBA",Pistons vs Bucks (15.05.1989)
 acestream://30b61082b5d146476f09759e1ac48f0aff3f07f2
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-A9D3D67C30-seeklogo.com.png" group-title="Partidos clásicos NBA",Blazers vs Lakers (04.06.2000)
