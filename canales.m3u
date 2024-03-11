@@ -7,8 +7,6 @@ acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 acestream://d00223931b1854163e24c5c22475015d7d45c112
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="Deportes",M+ Deportes
 acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Deportes 2
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
 #EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg" group-title="Deportes",Movistar Plus+
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/LaLiga_TV_Por_M%2B_Logo.png/800px-LaLiga_TV_Por_M%2B_Logo.png" group-title="Deportes",M+ LALIGA TV 
@@ -113,6 +111,8 @@ acestream://64a9353032efa2acb093d0bb86481f20f482d47e
 acestream://5932623d2fd7ed16b01787251b418e4f59a01cda
 #EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Liga de Campeones 8
 acestream://6c445141445b06d7b4328d80e2dd936bd0ca52ca
+#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Deportes 2
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
 #EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Deportes 3
 acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
 #EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Deportes 4
