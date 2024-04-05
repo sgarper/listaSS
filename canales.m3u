@@ -655,6 +655,24 @@ acestream://d2324aff51cc0cf197d9be4f38a59472920a0948
 acestream://bb8d5310c1eadd692595fe418812ad0a45f4c74d
 #EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="Liga regular",Suns vs Pelicans (01.04.2024)
 acestream://4dbee370b5501b6478bca2b93064267d158ac4ca
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="Liga regular",Knicks vs Heat (02.04.2024)
+acestream://c6c74864edc27ca66154ae4aa98a27d6f2029422
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="Liga regular",Spurs vs Nuggets (02.04.2024)
+acestream://9c4f765391c0f747b83e3f08f51354e100a0ea44
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="Liga regular",Thunder vs Celtics (03.04.2024)
+acestream://ac66aaf752a03a6161c571d0a71b85f084a6d4c0
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="Liga regular",Cavaliers vs Suns (03.04.2024)
+acestream://0b733cefdca49359a8b5c5fbfc9c55657ad62c65
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="Liga regular",76ers vs Heat (04.04.2024)
+acestream://ee2c3ff51a88f60ab6f5328b4a3dc11808cb625c
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="Liga regular",Kings vs Knicks (04.04.2024)
+acestream://a70f9922c961b503c740d3c342f97a084d65932d
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="Liga regular",Nuggets vs Clippers (04.04.2024)
+acestream://4974005b86046b72cacd33ced66386605798f39e
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="Liga regular",Warriors vs Rockets (04.04.2024)
+acestream://156de17a029cfd7a904062691c47c561b0c392f4
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="Liga regular",Hawks vs Mavericks (04.04.2024)
+acestream://6c5477594b4b559e9c93e2b945902b7422a666be
 
 
 
@@ -686,9 +704,7 @@ acestream://4dbee370b5501b6478bca2b93064267d158ac4ca
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="Torneo 7º,8º,9º y 10º",Timberwolves vs Nuggets (Game 2)
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="Torneo 7º,8º,9º y 10º",Timberwolves vs Nuggets (2)
 acestream://899dccc46cdf5a98eed9f74a53bb24b917110564
 
 
@@ -731,7 +747,7 @@ acestream://899dccc46cdf5a98eed9f74a53bb24b917110564
 
 
 
-#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="Playoffs NBA",Timberwolves vs Nuggets (Octavos, Game 2)
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/NBA-logo-png.png" group-title="Playoffs NBA",Timberwolves vs Nuggets (Octavos,3)
 acestream://899dccc46cdf5a98eed9f74a53bb24b917110564
 
 
@@ -774,9 +790,9 @@ acestream://899dccc46cdf5a98eed9f74a53bb24b917110564
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/2560px-Vamos.svg.png" group-title="Deportes en directo",M+ Vamos
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes en directo.svg/1280px-Movistar_Deportes.svg.png" group-title="Deportes en directo",M+ Deportes
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="Deportes en directo",M+ Deportes
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes en directo.svg/1280px-Movistar_Deportes.svg.png" group-title="Deportes en directo",M+ Deportes
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="Deportes en directo",M+ Deportes
 acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
 #EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg" group-title="Deportes en directo",Movistar Plus+
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
