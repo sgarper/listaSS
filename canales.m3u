@@ -1,127 +1,129 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/2560px-Vamos.svg.png" group-title="Deportes en directo",M+ Vamos
+#EXTINF:-1 tvg-logo="" group-title="",Cordoba - Barsa b
+https://antenasports.ru/embed.php?id=primaesport3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/2560px-Vamos.svg.png" group-title="Deportes",M+ Vamos
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/2560px-Vamos.svg.png" group-title="Deportes en directo",M+ Vamos
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/2560px-Vamos.svg.png" group-title="Deportes",M+ Vamos
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="Deportes en directo",M+ Deportes
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="Deportes",M+ Deportes
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="Deportes en directo",M+ Deportes
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="Deportes",M+ Deportes
 acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg" group-title="Deportes en directo",Movistar Plus+
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/movistar_plus-logo.jpg" group-title="Deportes",Movistar Plus+
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/LaLiga_TV_Por_M%2B_Logo.png/800px-LaLiga_TV_Por_M%2B_Logo.png" group-title="Deportes en directo",M+ LALIGA TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/LaLiga_TV_Por_M%2B_Logo.png/800px-LaLiga_TV_Por_M%2B_Logo.png" group-title="Deportes",M+ LALIGA TV 
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/LaLiga_TV_Por_M%2B_Logo.png/800px-LaLiga_TV_Por_M%2B_Logo.png" group-title="Deportes en directo",M+ LALIGA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/LaLiga_TV_Por_M%2B_Logo.png/800px-LaLiga_TV_Por_M%2B_Logo.png" group-title="Deportes",M+ LALIGA TV
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/LaLiga_TV_Por_M%2B_Logo.png/800px-LaLiga_TV_Por_M%2B_Logo.png" group-title="Deportes en directo",M+ LALIGA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/LaLiga_TV_Por_M%2B_Logo.png/800px-LaLiga_TV_Por_M%2B_Logo.png" group-title="Deportes",M+ LALIGA TV
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 tvg-logo="https://plazadeportiva.valenciaplaza.com/public/Image/2022/8/meta-image_NoticiaAmpliada.jpg" group-title="Deportes en directo",La Liga BAR
+#EXTINF:-1 tvg-logo="https://plazadeportiva.valenciaplaza.com/public/Image/2022/8/meta-image_NoticiaAmpliada.jpg" group-title="Deportes",La Liga BAR
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/640px-DAZN_LaLiga_logo.svg.png" group-title="Deportes en directo",DAZN LALIGA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/640px-DAZN_LaLiga_logo.svg.png" group-title="Deportes",DAZN LALIGA
 acestream://75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/640px-DAZN_LaLiga_logo.svg.png" group-title="Deportes en directo",DAZN LALIGA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/640px-DAZN_LaLiga_logo.svg.png" group-title="Deportes",DAZN LALIGA
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/640px-DAZN_LaLiga_logo.svg.png" group-title="Deportes en directo",DAZN LALIGA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/640px-DAZN_LaLiga_logo.svg.png" group-title="Deportes",DAZN LALIGA
 acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png" group-title="Deportes en directo",M+ Liga de Campeones
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png" group-title="Deportes",M+ Liga de Campeones
 acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png" group-title="Deportes en directo",M+ Liga de Campeones
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png" group-title="Deportes",M+ Liga de Campeones
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png" group-title="Deportes en directo",M+ Liga de Campeones
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png" group-title="Deportes",M+ Liga de Campeones
 acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png" group-title="Deportes en directo",M+ Liga de Campeones
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png" group-title="Deportes",M+ Liga de Campeones
 acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
-#EXTINF:-1 tvg-logo="" group-title="Deportes en directo",M+ Liga de Campeones 2
+#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Liga de Campeones 2
 acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="Deportes en directo",DAZN 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="Deportes",DAZN 1
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="Deportes en directo",DAZN 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="Deportes",DAZN 1
 acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="Deportes en directo",DAZN 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="Deportes",DAZN 1
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="Deportes en directo",DAZN 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="Deportes",DAZN 2
 acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="Deportes en directo",DAZN 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="Deportes",DAZN 2
 acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
-#EXTINF:-1 tvg-logo="" group-title="Deportes en directo",DAZN 3
+#EXTINF:-1 tvg-logo="" group-title="Deportes",DAZN 3
 acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
-#EXTINF:-1 tvg-logo="" group-title="Deportes en directo",DAZN 4
+#EXTINF:-1 tvg-logo="" group-title="Deportes",DAZN 4
 acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/F8EWer0WwAA0dLu.png:large" group-title="Deportes en directo",DAZN F1 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/F8EWer0WwAA0dLu.png:large" group-title="Deportes",DAZN F1 
 acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/F8EWer0WwAA0dLu.png:large" group-title="Deportes en directo",DAZN F1 (4k)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/F8EWer0WwAA0dLu.png:large" group-title="Deportes",DAZN F1 (4k)
 acestream://6b94479c24898700089e6b87d28a3ccc72dc4041
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/F8EWer0WwAA0dLu.png:large" group-title="Deportes en directo",DAZN F1 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/F8EWer0WwAA0dLu.png:large" group-title="Deportes",DAZN F1 
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/09/Liga-F.jpg" group-title="Deportes en directo",DAZN Liga F
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/09/Liga-F.jpg" group-title="Deportes",DAZN Liga F
 acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/09/Liga-F.jpg" group-title="Deportes en directo",DAZN Liga F 2
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/09/Liga-F.jpg" group-title="Deportes",DAZN Liga F 2
 acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/09/Liga-F.jpg" group-title="Deportes en directo",DAZN Liga F 3
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/09/Liga-F.jpg" group-title="Deportes",DAZN Liga F 3
 acestream://162942adc047d0f78eac056effbe5bbec54a5e51
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/09/Liga-F.jpg" group-title="Deportes en directo",DAZN Liga F 4
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/09/Liga-F.jpg" group-title="Deportes",DAZN Liga F 4
 acestream://e454681a152a86da504e63694f17f90d0586867d
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png" group-title="Deportes en directo",EUROSPORT 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png" group-title="Deportes",EUROSPORT 1
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-2-logo-vector.png" group-title="Deportes en directo",EUROSPORT 2
+#EXTINF:-1 tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-2-logo-vector.png" group-title="Deportes",EUROSPORT 2
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/1280px-Logo_SportTV.svg.png" group-title="Deportes en directo",Sport tv 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/1280px-Logo_SportTV.svg.png" group-title="Deportes",Sport tv 1
 acestream://ce235921dac95e1da2dd5e54673c2fecb9e806de
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vpwuyu1470409212.png" group-title="Deportes en directo",Sport tv 2
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vpwuyu1470409212.png" group-title="Deportes",Sport tv 2
 acestream://396d82ca6f5445abcd32e6b609d67e332ee12ace
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sport_TV3_%282023%29.svg/2560px-Sport_TV3_%282023%29.svg.png" group-title="Deportes en directo",Sport tv 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sport_TV3_%282023%29.svg/2560px-Sport_TV3_%282023%29.svg.png" group-title="Deportes",Sport tv 3
 acestream://f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
-#EXTINF:-1 tvg-logo="https://futbollibreenvivo.org/wp-content/uploads/2023/09/Ver-Bein-Sports-N-Sports-en-Vivo.png" group-title="Deportes en directo",Bein Sport Ñ
+#EXTINF:-1 tvg-logo="https://futbollibreenvivo.org/wp-content/uploads/2023/09/Ver-Bein-Sports-N-Sports-en-Vivo.png" group-title="Deportes",Bein Sport Ñ
 acestream://41af6926a6010b68ba2540975761436bb077748f
-#EXTINF:-1 tvg-logo="" group-title="Deportes en directo",La 1 
+#EXTINF:-1 tvg-logo="" group-title="Deportes",La 1 
 acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
-#EXTINF:-1 tvg-logo="" group-title="Deportes en directo",La 1 (4k)
+#EXTINF:-1 tvg-logo="" group-title="Deportes",La 1 (4k)
 acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/LaLiga_TV_Por_M%2B_Logo.png/800px-LaLiga_TV_Por_M%2B_Logo.png" group-title="Deportes en directo",M+ LALIGA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/LaLiga_TV_Por_M%2B_Logo.png/800px-LaLiga_TV_Por_M%2B_Logo.png" group-title="Deportes",M+ LALIGA TV
 acestream://f031f5728b32f6089dda28edebe990cf198108d8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/LaLiga_TV_Por_M%2B_Logo.png/800px-LaLiga_TV_Por_M%2B_Logo.png" group-title="Deportes en directo",M+ LALIGA TV 4K
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/LaLiga_TV_Por_M%2B_Logo.png/800px-LaLiga_TV_Por_M%2B_Logo.png" group-title="Deportes",M+ LALIGA TV 4K
 acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
-#EXTINF:-1 tvg-logo="" group-title="Deportes en directo",M+ LALIGA TV 2
+#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ LALIGA TV 2
 acestream://26029f72a4ca831d09deefe89534818db1d105bc
-#EXTINF:-1 tvg-logo="" group-title="Deportes en directo",M+ LALIGA TV 3
+#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ LALIGA TV 3
 acestream://4c4844564313e39a888f593511f299f5ba3cf929
-#EXTINF:-1 tvg-logo="" group-title="Deportes en directo",M+ LALIGA TV 4
+#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ LALIGA TV 4
 acestream://aa8f826da70e27a26b29c7b32402f17e8a67a8b0
-#EXTINF:-1 tvg-logo="" group-title="Deportes en directo",M+ LALIGA TV 5
+#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ LALIGA TV 5
 acestream://535394f62a810bc5aeb25be75ea5ff7d03e070b2
-#EXTINF:-1 tvg-logo="" group-title="Deportes en directo",M+ LALIGA TV 6
+#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ LALIGA TV 6
 acestream://c896d37778f9e43549a788fc22206a655895b51b
-#EXTINF:-1 tvg-logo="" group-title="Deportes en directo",DAZN LALIGA 2
+#EXTINF:-1 tvg-logo="" group-title="Deportes",DAZN LALIGA 2
 acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10
-#EXTINF:-1 tvg-logo="" group-title="Deportes en directo",DAZN LALIGA 3
+#EXTINF:-1 tvg-logo="" group-title="Deportes",DAZN LALIGA 3
 acestream://8c71f0e0a5476e10950fc827f9d2a507340aba74
-#EXTINF:-1 tvg-logo="" group-title="Deportes en directo",DAZN LALIGA 4
+#EXTINF:-1 tvg-logo="" group-title="Deportes",DAZN LALIGA 4
 acestream://2792a8a5f4a3f53cd72dec377a2639cd12a6973e
-#EXTINF:-1 tvg-logo="" group-title="Deportes en directo",DAZN LALIGA 5
+#EXTINF:-1 tvg-logo="" group-title="Deportes",DAZN LALIGA 5
 acestream://99e544cddbee13798e854c1009ee7d1a93fdedf7
-#EXTINF:-1 tvg-logo="" group-title="Deportes en directo",M+ Liga de Campeones 3
+#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Liga de Campeones 3
 acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
-#EXTINF:-1 tvg-logo="" group-title="Deportes en directo",M+ Liga de Campeones 4
+#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Liga de Campeones 4
 acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 tvg-logo="" group-title="Deportes en directo",M+ Liga de Campeones 5
+#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Liga de Campeones 5
 acestream://67b353ab1c4c2f6396b3ca5c4b45023bd9927561
-#EXTINF:-1 tvg-logo="" group-title="Deportes en directo",M+ Liga de Campeones 6
+#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Liga de Campeones 6
 acestream://64a9353032efa2acb093d0bb86481f20f482d47e
-#EXTINF:-1 tvg-logo="" group-title="Deportes en directo",M+ Liga de Campeones 7
+#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Liga de Campeones 7
 acestream://5932623d2fd7ed16b01787251b418e4f59a01cda
-#EXTINF:-1 tvg-logo="" group-title="Deportes en directo",M+ Liga de Campeones 8
+#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Liga de Campeones 8
 acestream://6c445141445b06d7b4328d80e2dd936bd0ca52ca
-#EXTINF:-1 tvg-logo="" group-title="Deportes en directo",M+ Deportes 2
+#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Deportes 2
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 tvg-logo="" group-title="Deportes en directo",M+ Deportes 3
+#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Deportes 3
 acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 tvg-logo="" group-title="Deportes en directo",M+ Deportes 4
+#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Deportes 4
 acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 tvg-logo="" group-title="Deportes en directo",M+ Deportes 5
+#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Deportes 5
 acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
-#EXTINF:-1 tvg-logo="" group-title="Deportes en directo",M+ Deportes 6
+#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Deportes 6
 acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
-#EXTINF:-1 tvg-logo="" group-title="Deportes en directo",M+ Deportes 7
+#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Deportes 7
 acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78
 
 
@@ -165,10 +167,6 @@ acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/web/gsw-sac/1200x628.png" group-title="Dieciseisavos NBA",Warriors vs King
-acestream://5ef6b57e1da7946f60a84766599f4f31e8bc9305
-#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/web/lal-nop/1200x628.png" group-title="Dieciseisavos NBA",Lakers vs Pelicans
-acestream://99d8ddc36885afa3ba60fc4253d15e12eb1dd1a4
 
 
 
@@ -204,4 +202,106 @@ acestream://99d8ddc36885afa3ba60fc4253d15e12eb1dd1a4
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="CanalSurA.TV" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="TDT" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
+https://d3kph49ozqk4tr.cloudfront.net/out/v1/b9781dec66d64d5f975b398c31f371db/index.m3u8
+#EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200" group-title="TDT" tvg-name="Real Madrid TV",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2399px-Logo_TVE-24h.svg.png" group-title="TDT",Canal 24H
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="TDT",La 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="TDT",La 2
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:-1 tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="TDT" tvg-name="TRECE",TRECE
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="TDT" tvg-name="Teledeporte",Teledeporte
+https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
+#EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="TDT" tvg-name="Clan",Clan
+https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKb6DZpbxOMbN_VANCdenLck4ceg7gxMk5tnkjmM=s200" group-title="TDT" tvg-name="Andalucía Cocina",Andalucía Cocina
+#EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
+https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYsl5e6jEIMtXIoTUHvkJqXxDfASrvQP_QFRRww=s200" group-title="TDT" tvg-name="Andalucía Turismo",Andalucía Turismo
+#EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
+https://cloud.fastchannel.es/mic/manifiest/hls/aturismo/aturismo.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="TDT" tvg-name="Atresplayer Clásicos",Atresplayer Clásicos
+https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="TDT" tvg-name="Atresplayer Comedia",Atresplayer Comedia
+https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="TDT" tvg-name="Atresplayer Mentes Inquietas",Atresplayer Mentes Inquietas
+https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="TDT" tvg-name="Atresplayer Multicine",Atresplayer Multicine
+https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/elhormiguero/picture?width=200&height=200" group-title="TDT" tvg-name="El Hormiguero",El Hormiguero
+https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/ElClubDeLaComediaEnlaSexta/picture?width=200&height=200" group-title="TDT" tvg-name="El club de la comedia",El club de la comedia
+https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/EqInvestigacion/picture?width=200&height=200" group-title="TDT" tvg-name="Equipo de investigación",Equipo de investigación
+https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/AQUINHQV/picture?width=200&height=200" group-title="TDT" tvg-name="Aquí no hay quién viva",Aquí no hay quién viva
+https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="TDT" tvg-name="RTVE Crimen",RTVE Crimen
+https://ztnr.rtve.es/ztnr/6924117.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="TDT" tvg-name="RTVE Época",RTVE Época
+https://ztnr.rtve.es/ztnr/6922467.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="TDT" tvg-name="RTVE Cuéntame",RTVE Cuéntame
+https://ztnr.rtve.es/ztnr/6909843.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="TDT" tvg-name="RTVE Somos Cine",RTVE Somos Cine
+https://ztnr.rtve.es/ztnr/6909845.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="TDT" tvg-name="RTVE Docs",RTVE Docs
+https://ztnr.rtve.es/ztnr/6987938.m3u8
 
