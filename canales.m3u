@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="",Cordoba - Barsa b
-acestream://4340f8b4726bedadbc2bd0d137cf3b4f6afa40ef
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/2560px-Vamos.svg.png" group-title="Deportes",M+ Vamos
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/2560px-Vamos.svg.png" group-title="Deportes",M+ Vamos
