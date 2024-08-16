@@ -15,6 +15,22 @@ acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/LaLiga_TV_Por_M%2B_Logo.png/800px-LaLiga_TV_Por_M%2B_Logo.png" group-title="Deportes",M+ LALIGA TV
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
+#EXTINF:-1 tvg-logo="" group-title="Deportes",LaLiga Smartbank
+acestream://4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 tvg-logo="" group-title="Deportes",LaLiga Smartbank
+acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+#EXTINF:-1 tvg-logo="" group-title="Deportes",LaLiga Smartbank 2
+acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
+#EXTINF:-1 tvg-logo="" group-title="Deportes",LaLiga Smartbank 2
+acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
+#EXTINF:-1 tvg-logo="" group-title="Deportes",LaLiga Smartbank 3
+acestream://bd2f7970c17f427ae92867e2eb86696dd7900a3e
+#EXTINF:-1 tvg-logo="" group-title="Deportes",LaLiga Smartbank 4
+acestream://ef3a9359800bba51018fe00ac84afb8e79a7bbf2
+#EXTINF:-1 tvg-logo="" group-title="Deportes",LaLiga Smartbank 5
+acestream://7a6f7c3acc3689c40f2300432723c55d41222af0
+#EXTINF:-1 tvg-logo="" group-title="Deportes",LaLiga Smartbank 6
+acestream://5bd78125bd1e98c3f49e98910ed15e39d0b9f631
 #EXTINF:-1 tvg-logo="https://plazadeportiva.valenciaplaza.com/public/Image/2022/8/meta-image_NoticiaAmpliada.jpg" group-title="Deportes",La Liga BAR
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/640px-DAZN_LaLiga_logo.svg.png" group-title="Deportes",DAZN LALIGA
@@ -302,4 +318,3 @@ https://ztnr.rtve.es/ztnr/6909843.m3u8
 https://ztnr.rtve.es/ztnr/6909845.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="TDT" tvg-name="RTVE Docs",RTVE Docs
 https://ztnr.rtve.es/ztnr/6987938.m3u8
-
