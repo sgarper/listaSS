@@ -5,6 +5,8 @@ acestream://1969c27658d4c8333ab2c0670802546121a774a5
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 #EXTINF:-1 tvg-logo="" group-title="Deportes",M+ LALIGA TV
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
+#EXTINF:-1 tvg-logo="" group-title="Deportes",M+ LALIGA TV 4K
+acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 #EXTINF:-1 tvg-logo="" group-title="Deportes",DAZN LALIGA
 acestream://75251ba975132ec9a202806ba5bf606e87280c96
 #EXTINF:-1 tvg-logo="" group-title="Deportes",DAZN LALIGA
@@ -51,6 +53,8 @@ acestream://6b94479c24898700089e6b87d28a3ccc72dc4041
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 tvg-logo="" group-title="Deportes",EUROSPORT 2
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 tvg-logo="" group-title="Deportes",Eurosport 4K
+acestream://63135c171f056d1d6028f9ffb1637ed704b88a20
 #EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Liga de Campeones 2
 acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 #EXTINF:-1 tvg-logo="" group-title="Deportes",M+ Liga de Campeones 3
