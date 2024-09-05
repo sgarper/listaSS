@@ -27,6 +27,8 @@ acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 #EXTINF:-1 tvg-logo="" group-title="",M+ Liga de Campeones
 acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
+#EXTINF:-1 tvg-logo="" group-title="",Canal sur 2 Andalucía
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Movistar Plus+
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
 #EXTINF:-1 tvg-logo="" group-title="",M+ Vamos
