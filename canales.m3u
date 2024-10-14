@@ -9,6 +9,8 @@ acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 tvg-logo="" group-title="Deporte",M+ LALIGA TV 4K
 acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
+#EXTINF:-1 tvg-logo="" group-title="Deporte",M+ LALIGA TV 4K
+acestream://8286183314d367940409b760bbf887f3fb923f60
 #EXTINF:-1 tvg-logo="" group-title="Deporte",DAZN LALIGA
 acestream://75251ba975132ec9a202806ba5bf606e87280c96
 #EXTINF:-1 tvg-logo="" group-title="Deporte",DAZN LALIGA
@@ -41,8 +43,6 @@ acestream://d00223931b1854163e24c5c22475015d7d45c112
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
 #EXTINF:-1 tvg-logo="" group-title="Deporte",DAZN 1
 acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 tvg-logo="" group-title="Deporte",DAZN 1
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
 #EXTINF:-1 tvg-logo="" group-title="Deporte",DAZN 2
 acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
 #EXTINF:-1 tvg-logo="" group-title="Deporte",DAZN 2
@@ -54,7 +54,7 @@ acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 #EXTINF:-1 tvg-logo="" group-title="Deporte",DAZN F1 
 acestream://5789ca155323664edd293b848606688edf803f4d
 #EXTINF:-1 tvg-logo="" group-title="Deporte",DAZN F1 (4k)
-acestream://6b94479c24898700089e6b87d28a3ccc72dc4041
+acestream://c021e3af42b9cd3743817a2c6258e0986666dd73
 #EXTINF:-1 tvg-logo="" group-title="Deporte",EUROSPORT 1
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 tvg-logo="" group-title="Deporte",EUROSPORT 2
@@ -193,22 +193,22 @@ acestream://c01c5670a7e1223de55a0675aa38bafacaf11eba
 acestream://e61b2a3a26bfda6970f299ef547c048a43824c88
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="Pretemporada Octubre",Suns vs Pistons
 acestream://c0b7946f2ceaa348e3f20662c8341efb0690ecdc
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="Pretemporada Octubre",
-acestream://
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="Pretemporada Octubre",
-acestream://
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="Pretemporada Octubre",
-acestream://
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="Pretemporada Octubre",
-acestream://
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="Pretemporada Octubre",
-acestream://
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="Pretemporada Octubre",
-acestream://
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="Pretemporada Octubre",
-acestream://
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="Pretemporada Octubre",
-acestream://
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="Pretemporada Octubre",Warriors vs Kings
+acestream://3460ba7417643b98c6ec968aefaad0dae41a46a8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="Pretemporada Octubre",Wizards vs Knicks
+acestream://da24b2b6718517573b64199c7ec0b262af71c063
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="Pretemporada Octubre",Breakers vs 76ers
+acestream://12b87da520bbe81c845ac9034d3ac5f1a6f8162f
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="Pretemporada Octubre",Thunder vs Spurs
+acestream://802b5e021f09a28bd8707ae85034940314f02a3c
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="Pretemporada Octubre",Grizzlies vs Mavericks
+acestream://9865e32ddd5317357a180cdb314ea25095a59588
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="Pretemporada Octubre",Magic vs Spurs
+acestream://e1801854264cfbd488ec19e9b8d34f13dff0ba90
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="Pretemporada Octubre",Rockets vs Thunder
+acestream://80749c17f34bae7183addf3dbb24eac78c9006c1
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="Pretemporada Octubre",Breakers vs Jazz
+acestream://081fa15144c45c4cf1a7fb5c2aa721ecb9128638
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="Pretemporada Octubre",
 acestream://
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Logo-NBA.png" group-title="Pretemporada Octubre",
