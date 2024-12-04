@@ -1,21 +1,22 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/epg.xml"
 
-#EXTINF:-1  tvg-logo="https://www.ole.com.ar/2024/11/29/4g01vDUgb_1290x760__1.jpg",Real Madrid vs Getafe
+#EXTINF:-1  tvg-logo="https://www.futbolred.com/files/article_main/uploads/2024/12/01/674c408d1df2c.png",Athletic club de Bilbao VS Real Madrid
 acestream://110d441ddc9713a7452588770d2bc85504672f47
-#EXTINF:-1  tvg-logo="https://www.ole.com.ar/2024/11/29/4g01vDUgb_1290x760__1.jpg",Real Madrid vs Getafe
-acestream://ec29289b0b14756e686c03a501bae1efa05be70c
-#EXTINF:-1  tvg-logo="https://www.ole.com.ar/2024/11/29/4g01vDUgb_1290x760__1.jpg",Real Madrid vs Getafe
-acestream://6de4794cd02f88f14354b5996823413a59a1de0f
-#EXTINF:-1  tvg-logo="https://www.ole.com.ar/2024/11/29/4g01vDUgb_1290x760__1.jpg",Real Madrid vs Getafe
+
+#EXTINF:-1  tvg-logo="https://www.futbolred.com/files/article_main/uploads/2024/12/01/674c408d1df2c.png",Athletic club de Bilbao VS Real Madrid
 acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
-#EXTINF:-1  tvg-logo="https://www.ole.com.ar/2024/11/29/4g01vDUgb_1290x760__1.jpg",Real Madrid vs Getafe
+
+#EXTINF:-1  tvg-logo="https://www.futbolred.com/files/article_main/uploads/2024/12/01/674c408d1df2c.png",Athletic club de Bilbao VS Real Madrid
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1  tvg-logo="https://www.ole.com.ar/2024/11/29/4g01vDUgb_1290x760__1.jpg",Real Madrid vs Getafe
-acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
-#EXTINF:-1  tvg-logo="https://www.ole.com.ar/2024/11/29/4g01vDUgb_1290x760__1.jpg",Real Madrid vs Getafe
-acestream://6b86a179c6652c1a1ca01cd0994d44f09dc4a66b
-#EXTINF:-1  tvg-logo="https://www.ole.com.ar/2024/11/29/4g01vDUgb_1290x760__1.jpg",Real Madrid vs Getafe
-acestream://fcd7621df513f600652b4813d5d8fd1daed60058
+
+#EXTINF:-1  tvg-logo="https://www.futbolred.com/files/article_main/uploads/2024/12/01/674c408d1df2c.png",Athletic club de Bilbao VS Real Madrid
+acestream://
+
+#EXTINF:-1  tvg-logo="https://www.futbolred.com/files/article_main/uploads/2024/12/01/674c408d1df2c.png",Athletic club de Bilbao VS Real Madrid
+acestream://
+
+
+
 
 
 
