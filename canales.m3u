@@ -1,19 +1,13 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/epg.xml"
 
-#EXTINF:-1  tvg-logo="https://www.futbolred.com/files/article_main/uploads/2024/12/01/674c408d1df2c.png",Athletic club de Bilbao VS Real Madrid
-acestream://110d441ddc9713a7452588770d2bc85504672f47
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/OC9vpxmSoEs/maxresdefault.jpg",Real Madrid VS Fenerbahce
+acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 
-#EXTINF:-1  tvg-logo="https://www.futbolred.com/files/article_main/uploads/2024/12/01/674c408d1df2c.png",Athletic club de Bilbao VS Real Madrid
-acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/OC9vpxmSoEs/maxresdefault.jpg",Real Madrid VS Fenerbahce
+acestream://56ac8e227d526e722624675ccdd91b0cc850582f
 
-#EXTINF:-1  tvg-logo="https://www.futbolred.com/files/article_main/uploads/2024/12/01/674c408d1df2c.png",Athletic club de Bilbao VS Real Madrid
-acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-
-#EXTINF:-1  tvg-logo="https://www.futbolred.com/files/article_main/uploads/2024/12/01/674c408d1df2c.png",Athletic club de Bilbao VS Real Madrid
-acestream://
-
-#EXTINF:-1  tvg-logo="https://www.futbolred.com/files/article_main/uploads/2024/12/01/674c408d1df2c.png",Athletic club de Bilbao VS Real Madrid
-acestream://
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/OC9vpxmSoEs/maxresdefault.jpg",Real Madrid VS Fenerbahce
+acestream://3a74d9869b13e763476800740c6625e715a39879
 
 
 
