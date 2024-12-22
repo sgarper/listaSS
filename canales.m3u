@@ -1,17 +1,17 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/epg.xml"
 
 
-#EXTINF:-1 tvg-logo="https://okdiario.com/img/2018/03/03/horarios-barcelona-vs-atletico-madrid-liga-santander-655x368.jpg", Barcelona vs Atlético de Madrid
-acestream://94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 tvg-logo="https://gestion.pe/resizer/v2/XLPCA3ZVCBCJPLR2DWLSQL7IXM.jpg?auth=e728e00459c9c510ef09c6eb86d19d0459f69882f4e862df3750c2269da7e80a&width=620&quality=75&smart=true", Real Madrid vs Sevilla
+acestream://110d441ddc9713a7452588770d2bc85504672f47
 
-#EXTINF:-1 tvg-logo="https://okdiario.com/img/2018/03/03/horarios-barcelona-vs-atletico-madrid-liga-santander-655x368.jpg", Barcelona vs Atlético de Madrid
-acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
+#EXTINF:-1 tvg-logo="https://gestion.pe/resizer/v2/XLPCA3ZVCBCJPLR2DWLSQL7IXM.jpg?auth=e728e00459c9c510ef09c6eb86d19d0459f69882f4e862df3750c2269da7e80a&width=620&quality=75&smart=true", Real Madrid vs Sevilla
+acestream://ec29289b0b14756e686c03a501bae1efa05be70c
 
-#EXTINF:-1 tvg-logo="https://okdiario.com/img/2018/03/03/horarios-barcelona-vs-atletico-madrid-liga-santander-655x368.jpg", Barcelona vs Atlético de Madrid
-acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
+#EXTINF:-1 tvg-logo="https://gestion.pe/resizer/v2/XLPCA3ZVCBCJPLR2DWLSQL7IXM.jpg?auth=e728e00459c9c510ef09c6eb86d19d0459f69882f4e862df3750c2269da7e80a&width=620&quality=75&smart=true", Real Madrid vs Sevilla
+acestream://6de4794cd02f88f14354b5996823413a59a1de0f
 
-#EXTINF:-1 tvg-logo="https://okdiario.com/img/2018/03/03/horarios-barcelona-vs-atletico-madrid-liga-santander-655x368.jpg", Barcelona vs Atlético de Madrid
-acestream://56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1 tvg-logo="https://gestion.pe/resizer/v2/XLPCA3ZVCBCJPLR2DWLSQL7IXM.jpg?auth=e728e00459c9c510ef09c6eb86d19d0459f69882f4e862df3750c2269da7e80a&width=620&quality=75&smart=true", Real Madrid vs Sevilla
+acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 
 
 
