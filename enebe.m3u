@@ -1,13 +1,8 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/epg.xml"
+#EXTM3U
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" , Cardio Dance
-https://youtu.be/ZiT33JKydL4?si=Mz7PLEMBJzJV_NVX
+#EXTINF:-1 tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free-1200x675.png" , 
+acestream://
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" , Cardio Dance quemagrasa
-https://youtu.be/CHfC-jFBrG4?si=_JZV3Kc5KA-egM40
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="" , Cardio sin saltos
-https://youtu.be/dqQY-8Fw1gw?si=7Me0IYOmW73vZpL9
